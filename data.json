@@ -1,18 +1,289 @@
 [
   {
-    "id": 51320,
-    "name": "Hasret Akkuzu",
-    "fullname": "Hasret Akkuzu",
+    "id": 52326,
+    "name": "Safiye Yarbil",
+    "fullname": "Safiye Yarbil",
     "age": "Reşit",
-    "location": "Zonguldak",
-    "date": "21/10/2025",
+    "location": "Eskişehir",
+    "date": "04/11/2025",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Tespit Edilemeyen",
+    "method": "Kesici Alet",
+    "status": "Soruşturma Sürüyor",
     "source": [
-      "https://www.t24.com.tr/haber/16-yasindaki-kayip-cocuk-su-kuyusunda-olu-bulundu-3-arkadasi-gozaltina-alindi,1269088"
+      "https://www.haberturk.com/eskisehir-haberleri/39609577-eskisehirde-bogazinda-bicak-yarasi-olan-bir-kadin-evinde-olu-bulundu"
+    ],
+    "image": "https://i.anitsayac.com/ii/3912025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52326"
+  },
+  {
+    "id": 52323,
+    "name": "Nermin Tirit",
+    "fullname": "Nermin Tirit",
+    "age": "Reşit",
+    "location": "Erzurum",
+    "date": "03/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.cnnturk.com/turkiye/erzurumda-dehset-tahliyeden-12-gun-sonra-nermini-oldurup-intihar-etti-2355309"
+    ],
+    "image": "https://i.anitsayac.com/ii/3892025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52323"
+  },
+  {
+    "id": 52324,
+    "name": "Arzu Khalılova",
+    "fullname": "Arzu Khalılova",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "03/11/2025",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/erkek-arkadasi-tarafindan-bicaklanan-kadin-oldu-p255416"
+    ],
+    "image": "https://i.anitsayac.com/ii/3902025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52324"
+  },
+  {
+    "id": 52321,
+    "name": "Aydan Vural",
+    "fullname": "Aydan Vural",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "01/11/2025",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.haberler.com/3-sayfa/istanbul-da-iki-cocuk-annesi-kadin-ve-erkek-sirahi-basindan-vurulmus-bulundu-19209380-haberi/"
+    ],
+    "image": "https://i.anitsayac.com/ii/3872025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52321"
+  },
+  {
+    "id": 52319,
+    "name": "Binnur Gökman",
+    "fullname": "Binnur Gökman",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "31/10/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/kocaeli-de-kadin-cinayeti-kizinin-kinasina-1-gun-kala-oldurdu-2448653"
+    ],
+    "image": "https://i.anitsayac.com/ii/3852025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52319"
+  },
+  {
+    "id": 52320,
+    "name": "Mine Arı",
+    "fullname": "Mine Arı",
+    "age": "Reşit",
+    "location": "Siirt",
+    "date": "31/10/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sondakika.com/amp/haber-siirt-te-aile-ici-silahli-kavga-2-olu-3-yarali-19204189/"
+    ],
+    "image": "https://i.anitsayac.com/ii/3862025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52320"
+  },
+  {
+    "id": 52322,
+    "name": "Ülser Sakarya",
+    "fullname": "Ülser Sakarya",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "30/10/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Darp, Boğularak",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sabah.com.tr/yasam/silivride-kan-donduran-olay-yasli-kadin-evinde-olu-bulundu-agzi-bantli-boynuna-bagli-esarp-ayaklarinda-7453859"
+    ],
+    "image": "https://i.anitsayac.com/ii/3882025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52322"
+  },
+  {
+    "id": 52318,
+    "name": "Ebru Kaya",
+    "fullname": "Ebru Kaya",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "29/10/2025",
+    "reason": "Ayrılma Talebi",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşlİ Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/ayrilik-dehseti-43000377"
+    ],
+    "image": "https://i.anitsayac.com/ii/3842025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52318"
+  },
+  {
+    "id": 52317,
+    "name": "Hilal Baltaş",
+    "fullname": "Hilal Baltaş",
+    "age": "Reşit",
+    "location": "Bolu",
+    "date": "27/10/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/haber/kadin-cinayetleri-son-bulmuyor-esini-oldurdu-sosyal-medyadan-paylasim-yapti,1270773"
+    ],
+    "image": "https://i.anitsayac.com/ii/3832025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52317"
+  },
+  {
+    "id": 52314,
+    "name": "Nilay Kotan",
+    "fullname": "Nilay Kotan",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "26/10/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/istanbuldaki-vahset-kamerada-nilaya-sokak-ortasinda-kursun-yagdirip-oldurdu-42997159"
+    ],
+    "image": "https://i.anitsayac.com/ii/3802025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52314"
+  },
+  {
+    "id": 52315,
+    "name": "Hatice Avcı",
+    "fullname": "Hatice Avcı",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "24/10/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.sozcu.com.tr/apartman-dairesinde-dehset-anne-baba-ve-ogullari-oldurulmus-halde-bulundu-p252274"
+    ],
+    "image": "https://i.anitsayac.com/ii/3812025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52315"
+  },
+  {
+    "id": 52316,
+    "name": "Meliha Keskin",
+    "fullname": "Meliha Keskin",
+    "age": "Reşit",
+    "location": "Kayseri",
+    "date": "23/10/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/kayseri-haberleri-3-cocuk-annesi-son-sinif-ogrencisi-universitede-kadin-cinayeti-son-dakika-haber-3832171-amp"
+    ],
+    "image": "https://i.anitsayac.com/ii/3822025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52316"
+  },
+  {
+    "id": 51321,
+    "name": "İlknur Kertlez",
+    "fullname": "İlknur Kertlez",
+    "age": "Reşit",
+    "location": "Çankırı",
+    "date": "22/10/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/eski-esini-oldurup-intihara-kalkisti,u_ETpyWK0EmShRwfdGGpGA"
+    ],
+    "image": "https://i.anitsayac.com/ii/3772025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=51321"
+  },
+  {
+    "id": 51322,
+    "name": "Fatma Görkem",
+    "fullname": "Fatma Görkem",
+    "age": "Reşit",
+    "location": "Kahramanmaraş",
+    "date": "22/10/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/kahramanmarasta-eski-es-dehset-sacti-2-olu-1-agir-yarali,04nSYjGkuEa-Y5KR6HT16Q"
+    ],
+    "image": "https://i.anitsayac.com/ii/3782025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=51322"
+  },
+  {
+    "id": 51324,
+    "name": "Gülistan Görkem",
+    "fullname": "Gülistan Görkem",
+    "age": "Reşit",
+    "location": "Kahramanmaraş",
+    "date": "22/10/2025",
+    "reason": "Kızını Korumaya Çalışırken",
+    "by": "Eski Damadı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/kahramanmarasta-eski-es-dehset-sacti-2-olu-1-agir-yarali,04nSYjGkuEa-Y5KR6HT16Q"
+    ],
+    "image": "https://i.anitsayac.com/ii/3792025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=51324"
+  },
+  {
+    "id": 51320,
+    "name": "Hasret Akkuzu",
+    "fullname": "Hasret Akkuzu",
+    "age": "Reşit Değil",
+    "location": "Zonguldak",
+    "date": "21/10/2025",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/16-yasindaki-kayip-cocuk-su-kuyusunda-olu-bulundu-3-arkadasi-gozaltina-alindi,1269088",
+      "https://www.hurriyet.com.tr/gundem/hasret-akkuzun-katilinden-kan-donduran-itiraf-42995067"
     ],
     "image": "https://i.anitsayac.com/ii/3762025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=51320"
@@ -43877,6 +44148,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1352020.jpg",
     "url": "https://anitsayac.com/details.aspx?id=3395"
+  },
+  {
+    "id": 51325,
+    "name": "Birsen Bayraktar",
+    "fullname": "Birsen Bayraktar",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "14/04/2020",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/eczaci-cinayetinde-tutuksuz-yargilanan-kadin-eger-kocam-tahliye-edilmezse-intihar-edecegim-42733576"
+    ],
+    "image": "https://i.anitsayac.com/ii/4232020.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=51325"
   },
   {
     "id": 3374,
@@ -91950,6 +92239,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1322011.jpg",
     "url": "https://anitsayac.com/details.aspx?id=3804"
+  },
+  {
+    "id": 52325,
+    "name": "Mürvet Acar",
+    "fullname": "Mürvet Acar",
+    "age": "",
+    "location": "Diyarbakır",
+    "date": "01/01/2011",
+    "reason": "Namus",
+    "by": "Erkek Kardeşi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/murvet-in-aci-oykusu-yap-boz-tahtasina-donen-dava-10-yilda-sonuclandi-p255198"
+    ],
+    "image": "https://i.anitsayac.com/ii/1342011.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52325"
   },
   {
     "id": 509,
