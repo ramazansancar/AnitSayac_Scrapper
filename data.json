@@ -36,6 +36,78 @@
     "url": "https://anitsayac.com/details.aspx?id=52328"
   },
   {
+    "id": 52330,
+    "name": "Fatma Gıyar",
+    "fullname": "Fatma Gıyar",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "12/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/antalya-haberleri/115371691-yillik-izindeki-polis-memuru-dehset-sacti-esi-ve-2-kizini-oldurducinayeti-duyup-olay?page=2"
+    ],
+    "image": "https://i.anitsayac.com/ii/3952025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52330"
+  },
+  {
+    "id": 52331,
+    "name": "Meral Ebrar Gıyar",
+    "fullname": "Meral Ebrar Gıyar",
+    "age": "Reşit Değil",
+    "location": "Antalya",
+    "date": "12/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/antalya-haberleri/115371691-yillik-izindeki-polis-memuru-dehset-sacti-esi-ve-2-kizini-oldurducinayeti-duyup-olay?page=2"
+    ],
+    "image": "https://i.anitsayac.com/ii/3962025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52331"
+  },
+  {
+    "id": 52332,
+    "name": "Merve Gıyar",
+    "fullname": "Merve Gıyar",
+    "age": "Reşit Değil",
+    "location": "Antalya",
+    "date": "12/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/antalya-haberleri/115371691-yillik-izindeki-polis-memuru-dehset-sacti-esi-ve-2-kizini-oldurducinayeti-duyup-olay?page=2"
+    ],
+    "image": "https://i.anitsayac.com/ii/3972025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52332"
+  },
+  {
+    "id": 52333,
+    "name": "Selvi Kavas",
+    "fullname": "Selvi Kavas",
+    "age": "Reşit",
+    "location": "Aksaray",
+    "date": "11/11/2025",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/aksarayda-kadin-cinayeti-saklandigi-insaatta-yakalandi-1695578"
+    ],
+    "image": "https://i.anitsayac.com/ii/3982025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52333"
+  },
+  {
     "id": 52329,
     "name": "Melisa Şengül",
     "fullname": "Melisa Şengül",
