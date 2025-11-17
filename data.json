@@ -1,39 +1,39 @@
 [
   {
-    "id": 52327,
-    "name": "Huriye Helvacı",
-    "fullname": "Huriye Helvacı",
+    "id": 52334,
+    "name": "Yasemin Bulut",
+    "fullname": "Yasemin Bulut",
     "age": "Reşit",
-    "location": "Kastamonu",
-    "date": "12/11/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Soruşturma Sürüyor",
-    "source": [
-      "https://www.t24.com.tr/haber/kastamonu-da-olu-bulunan-5-yasindaki-osman-ve-annesi-huriye-helvaci-ya-otopsi-yapildi,1275541"
-    ],
-    "image": "https://i.anitsayac.com/ii/3922025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=52327"
-  },
-  {
-    "id": 52328,
-    "name": "Melisa Kölekçi",
-    "fullname": "Melisa Kölekçi",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "12/11/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tanıdığı Birisi",
+    "location": "Bursa",
+    "date": "15/11/2025",
+    "reason": "Tartışma",
+    "by": "Eski Sevgilisi",
     "protection": "Yok",
     "method": "Ateşli Silah",
-    "status": "Soruşturma Sürüyor",
+    "status": "İntihar",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/buyukcekmecede-seri-cinayet-2-erkek-otomobilde-1-kadin-otel-odasinda-olduruldu-43016451"
+      "https://www.hurriyet.com.tr/gundem/bursada-vahset-borek-almaya-gittigi-isletmede-eski-erkek-arkadasi-tarafindan-olduruldu-43020210"
     ],
-    "image": "https://i.anitsayac.com/ii/3932025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=52328"
+    "image": "https://i.anitsayac.com/ii/3992025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52334"
+  },
+  {
+    "id": 52336,
+    "name": "Rabia Alaca",
+    "fullname": "Rabia Alaca",
+    "age": "Reşit",
+    "location": "Kayseri",
+    "date": "14/11/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/kayseri-haberleri/39709726-kayseride-kocasi-tarafindan-bicaklanan-kadin-oldu"
+    ],
+    "image": "https://i.anitsayac.com/ii/4012025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52336"
   },
   {
     "id": 52330,
@@ -90,22 +90,40 @@
     "url": "https://anitsayac.com/details.aspx?id=52332"
   },
   {
-    "id": 52333,
-    "name": "Selvi Kavas",
-    "fullname": "Selvi Kavas",
+    "id": 52327,
+    "name": "Huriye Helvacı",
+    "fullname": "Huriye Helvacı",
     "age": "Reşit",
-    "location": "Aksaray",
-    "date": "11/11/2025",
-    "reason": "Tartışma",
-    "by": "Sevgilisi",
+    "location": "Kastamonu",
+    "date": "12/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.t24.com.tr/haber/kastamonu-da-olu-bulunan-5-yasindaki-osman-ve-annesi-huriye-helvaci-ya-otopsi-yapildi,1275541"
+    ],
+    "image": "https://i.anitsayac.com/ii/3922025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52327"
+  },
+  {
+    "id": 52328,
+    "name": "Melisa Kölekçi",
+    "fullname": "Melisa Kölekçi",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "12/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
     "protection": "Yok",
     "method": "Ateşli Silah",
-    "status": "Tutuklu",
+    "status": "Soruşturma Sürüyor",
     "source": [
-      "https://www.ntv.com.tr/amp/turkiye/aksarayda-kadin-cinayeti-saklandigi-insaatta-yakalandi-1695578"
+      "https://www.hurriyet.com.tr/gundem/buyukcekmecede-seri-cinayet-2-erkek-otomobilde-1-kadin-otel-odasinda-olduruldu-43016451"
     ],
-    "image": "https://i.anitsayac.com/ii/3982025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=52333"
+    "image": "https://i.anitsayac.com/ii/3932025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52328"
   },
   {
     "id": 52329,
@@ -124,6 +142,42 @@
     ],
     "image": "https://i.anitsayac.com/ii/3942025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52329"
+  },
+  {
+    "id": 52333,
+    "name": "Selvi Kavas",
+    "fullname": "Selvi Kavas",
+    "age": "Reşit",
+    "location": "Aksaray",
+    "date": "11/11/2025",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/aksarayda-kadin-cinayeti-saklandigi-insaatta-yakalandi-1695578"
+    ],
+    "image": "https://i.anitsayac.com/ii/3982025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52333"
+  },
+  {
+    "id": 52335,
+    "name": "Natalia Baryluk",
+    "fullname": "Natalia Baryluk",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "11/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.evrensel.net/haber/583399/antalyada-supheli-kadin-olumu-rusyali-kadin-otelde-olu-halde-bulundu"
+    ],
+    "image": "https://i.anitsayac.com/ii/4002025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52335"
   },
   {
     "id": 52326,
@@ -69907,6 +69961,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1262016.jpg",
     "url": "https://anitsayac.com/details.aspx?id=1786"
+  },
+  {
+    "id": 52337,
+    "name": "Nurşen Şenkal",
+    "fullname": "Nurşen Şenkal",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "15/07/2016",
+    "reason": "Töre",
+    "by": "Amca Oğulları",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/dokuz-yil-sonra-aydinlatildi-nursen-senkal-akrabalari-tarafindan-oldurulmus,1276528"
+    ],
+    "image": "https://i.anitsayac.com/ii/2932016.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52337"
   },
   {
     "id": 1787,
