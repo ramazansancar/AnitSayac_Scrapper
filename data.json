@@ -1,5 +1,95 @@
 [
   {
+    "id": 52340,
+    "name": "Feride Sayılır",
+    "fullname": "Feride Sayılır",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "19/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/izmirde-vahset-anlari-engelli-kizini-pompali-tufekle-oldurup-intihar-etti-43025042"
+    ],
+    "image": "https://i.anitsayac.com/ii/4042025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52340"
+  },
+  {
+    "id": 52341,
+    "name": "İlknur Torgut",
+    "fullname": "İlknur Torgut",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "19/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/diyarbakirda-dehset-annesini-ve-agabeyini-pompali-tufekle-oldurdu-babasina-not-birakti-43024219"
+    ],
+    "image": "https://i.anitsayac.com/ii/4052025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52341"
+  },
+  {
+    "id": 52342,
+    "name": "Münire Yüzkar",
+    "fullname": "Münire Yüzkar",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "19/11/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/izmirde-esini-katleden-kisi-intihar-etti-1697721"
+    ],
+    "image": "https://i.anitsayac.com/ii/4062025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52342"
+  },
+  {
+    "id": 52338,
+    "name": "Firdevs Akgün",
+    "fullname": "Firdevs Akgün",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "19/11/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/pendikte-kadin-cinayeti-esini-bicaklayarak-oldurup-kacti-43024165"
+    ],
+    "image": "https://i.anitsayac.com/ii/4022025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52338"
+  },
+  {
+    "id": 52339,
+    "name": "Meryem Ş.",
+    "fullname": "Meryem Ş.",
+    "age": "Reşit",
+    "location": "Kars",
+    "date": "18/11/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesisi Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/kars-ta-bir-kisi-tartistigi-esini-bicaklayarak-oldurdu,1277207"
+    ],
+    "image": "https://i.anitsayac.com/ii/4032025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52339"
+  },
+  {
     "id": 52334,
     "name": "Yasemin Bulut",
     "fullname": "Yasemin Bulut",
@@ -178,6 +268,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/4002025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52335"
+  },
+  {
+    "id": 52343,
+    "name": "İklimya Subay",
+    "fullname": "İklimya Subay",
+    "age": "Reşit",
+    "location": "Şanlıurfa",
+    "date": "11/11/2025",
+    "reason": "Tartışma",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sabah.com.tr/video/yasam/dugunde-pompali-tufekle-oldurulen-16-yasindaki-iklimyanin-son-goruntuleri-ortaya-cikti-video"
+    ],
+    "image": "https://i.anitsayac.com/ii/4072025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52343"
   },
   {
     "id": 52326,
