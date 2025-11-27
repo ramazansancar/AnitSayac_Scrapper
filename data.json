@@ -1,5 +1,149 @@
 [
   {
+    "id": 52349,
+    "name": "Zehra Özkan",
+    "fullname": "Zehra Özkan",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "25/11/2025",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/bosanma-asamasindaki-esini-tabancayla-vurdu,1278961"
+    ],
+    "image": "https://i.anitsayac.com/ii/4122025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52349"
+  },
+  {
+    "id": 52350,
+    "name": "Sümeyye Yıldız",
+    "fullname": "Sümeyye Yıldız",
+    "age": "Reşit",
+    "location": "Elazığ",
+    "date": "25/11/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/elazigda-kadin-cinayeti-sumeyye-yildiz-esi-tarafindan-olduruldu-43031678"
+    ],
+    "image": "https://i.anitsayac.com/ii/4132025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52350"
+  },
+  {
+    "id": 52351,
+    "name": "Berna Kaya",
+    "fullname": "Berna Kaya",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "25/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/mardinde-aile-katliami-uc-kisi-olu-bulundu-1699358"
+    ],
+    "image": "https://i.anitsayac.com/ii/4142025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52351"
+  },
+  {
+    "id": 52353,
+    "name": "Samyeli Kaya",
+    "fullname": "Samyeli Kaya",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "25/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/mardinde-aile-katliami-uc-kisi-olu-bulundu-1699358"
+    ],
+    "image": "https://i.anitsayac.com/ii/4152025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52353"
+  },
+  {
+    "id": 52348,
+    "name": "Nuran Şimşek",
+    "fullname": "Nuran Şimşek",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "24/11/2025",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/kadin-cinayetleri-son-bulmuyor-konusma-bahanesiyle-evinden-aldigi-eski-esini-silahla-basindan-vurup-oldurdu,1278645"
+    ],
+    "image": "https://i.anitsayac.com/ii/4112025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52348"
+  },
+  {
+    "id": 52345,
+    "name": "Rumeysa Sanpur",
+    "fullname": "Rumeysa Sanpur",
+    "age": "Reşit",
+    "location": "Kırklareli",
+    "date": "22/11/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Nişanlısının Husumetlileri",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/19-yasindaki-genc-kadin-nisanlisinin-evinde-cikan-catismada-vurulup-olduruldu-43028511"
+    ],
+    "image": "https://i.anitsayac.com/ii/4082025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52345"
+  },
+  {
+    "id": 52346,
+    "name": "Türkan Demirci",
+    "fullname": "Türkan Demirci",
+    "age": "Reşit",
+    "location": "Edirne",
+    "date": "20/11/2025",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.evrensel.net/haber/584838/edirnede-kadin-cinayeti-komsusu-tarafindan-vurulan-turkan-demirci-yasamini-yitirdi"
+    ],
+    "image": "https://i.anitsayac.com/ii/4092025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52346"
+  },
+  {
+    "id": 52338,
+    "name": "Firdevs Akgün",
+    "fullname": "Firdevs Akgün",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "19/11/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/pendikte-kadin-cinayeti-esini-bicaklayarak-oldurup-kacti-43024165"
+    ],
+    "image": "https://i.anitsayac.com/ii/4022025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52338"
+  },
+  {
     "id": 52340,
     "name": "Feride Sayılır",
     "fullname": "Feride Sayılır",
@@ -52,24 +196,6 @@
     ],
     "image": "https://i.anitsayac.com/ii/4062025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52342"
-  },
-  {
-    "id": 52338,
-    "name": "Firdevs Akgün",
-    "fullname": "Firdevs Akgün",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "19/11/2025",
-    "reason": "Tartışma",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Aranıyor",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/pendikte-kadin-cinayeti-esini-bicaklayarak-oldurup-kacti-43024165"
-    ],
-    "image": "https://i.anitsayac.com/ii/4022025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=52338"
   },
   {
     "id": 52339,
@@ -5502,6 +5628,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1082025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=42131"
+  },
+  {
+    "id": 52347,
+    "name": "Fatma Kılıç",
+    "fullname": "Fatma Kılıç",
+    "age": "Reşit",
+    "location": "Amasya",
+    "date": "24/03/2025",
+    "reason": "Tartışma  Borç Para Talebi",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/584877/gaz-sizintisindan-zehirlendigi-sanilan-kadini-akrabasi-oldurmus"
+    ],
+    "image": "https://i.anitsayac.com/ii/4102025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52347"
   },
   {
     "id": 42126,
@@ -78715,6 +78859,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2562014.jpg",
     "url": "https://anitsayac.com/details.aspx?id=1194"
+  },
+  {
+    "id": 52344,
+    "name": "A.Ş.",
+    "fullname": "A.Ş.",
+    "age": "Reşit",
+    "location": "Çorum",
+    "date": "06/12/2014",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Kesicİ Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/dosya-11-yil-sonra-raftan-indi-cinayetin-sir-perdesi-boyle-aralandi-43026380"
+    ],
+    "image": "https://i.anitsayac.com/ii/2992014.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52344"
   },
   {
     "id": 1187,
