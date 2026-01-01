@@ -1,5 +1,23 @@
 [
   {
+    "id": 52384,
+    "name": "Fatma Yılmaz Çetinkaya",
+    "fullname": "Fatma Yılmaz Çetinkaya",
+    "age": "Reşit",
+    "location": "Karaman",
+    "date": "27/12/2025",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/son-gorusmede-katledildi-43068125"
+    ],
+    "image": "https://i.anitsayac.com/ii/4452025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52384"
+  },
+  {
     "id": 52381,
     "name": "Komang Dwantari",
     "fullname": "Komang Dwantari",
@@ -16,6 +34,60 @@
     ],
     "image": "https://i.anitsayac.com/ii/4422025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52381"
+  },
+  {
+    "id": 52382,
+    "name": "Rojda Yakışıklı",
+    "fullname": "Rojda Yakışıklı",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "26/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Dini Nikahlı Eşi",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/dini-nikahla-yasadigi-kadini-bogup-cesedini-araziye-gomdu-43069988"
+    ],
+    "image": "https://i.anitsayac.com/ii/4432025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52382"
+  },
+  {
+    "id": 52383,
+    "name": "Sümeyye Durgun",
+    "fullname": "Sümeyye Durgun",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "25/12/2025",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/cop-posetinde-cansiz-bedeni-bulunmustu-sumeyyenin-dogum-gununde-cekilen-goruntusu-ortaya-cikti-43068900"
+    ],
+    "image": "https://i.anitsayac.com/ii/4442025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52383"
+  },
+  {
+    "id": 52385,
+    "name": "Derin Kiracı",
+    "fullname": "Derin Kiracı",
+    "age": "Reşit Değil",
+    "location": "Adana",
+    "date": "25/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/son-dakika-futbolda-bahis-sorusturmasi-14u-futbolcu-29-kisi-hakkinda-gozalti-karari-43066979"
+    ],
+    "image": "https://i.anitsayac.com/ii/4462025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52385"
   },
   {
     "id": 52378,
