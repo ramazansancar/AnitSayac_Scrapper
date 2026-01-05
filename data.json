@@ -1,5 +1,41 @@
 [
   {
+    "id": 52393,
+    "name": "Nora Dzuliashvili",
+    "fullname": "Nora Dzuliashvili",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "03/01/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Kayıbiraderi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/592059/akin-gurlek-icin-suc-duyurusunda-bulundu-kendisine-dava-acildi"
+    ],
+    "image": "https://i.anitsayac.com/ii/012026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52393"
+  },
+  {
+    "id": 52392,
+    "name": "Kadriye Köken",
+    "fullname": "Kadriye Köken",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "30/12/2025",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/591285/manisa-da-kadin-cinayeti-kadriye-koken-bosanma-asamasindaki-erkek-tarafindan-katledildi"
+    ],
+    "image": "https://i.anitsayac.com/ii/4532025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52392"
+  },
+  {
     "id": 52384,
     "name": "Fatma Yılmaz Çetinkaya",
     "fullname": "Fatma Yılmaz Çetinkaya",
@@ -16,6 +52,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/4452025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52384"
+  },
+  {
+    "id": 52391,
+    "name": "İmhan Sağır",
+    "fullname": "İmhan Sağır",
+    "age": "Reşit",
+    "location": "Şanlıurfa",
+    "date": "27/12/2025",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/590753/evli-oldugu-kadin-ve-oglunu-oldurdu"
+    ],
+    "image": "https://i.anitsayac.com/ii/4522025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52391"
   },
   {
     "id": 52381,
@@ -90,6 +144,60 @@
     "url": "https://anitsayac.com/details.aspx?id=52385"
   },
   {
+    "id": 52387,
+    "name": "Tülay Ündeş",
+    "fullname": "Tülay Ündeş",
+    "age": "Reşit",
+    "location": "Zonguldak",
+    "date": "24/12/2025",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/haber/bosanma-asamasindaki-esi-ve-esinin-annesini-av-tufegiyle-oldurdu,1285969"
+    ],
+    "image": "https://i.anitsayac.com/ii/4482025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52387"
+  },
+  {
+    "id": 52388,
+    "name": "Zaide Alkaç",
+    "fullname": "Zaide Alkaç",
+    "age": "Reşit",
+    "location": "Zonguldak",
+    "date": "24/12/2025",
+    "reason": "Kızını Korumaya Çalışırken",
+    "by": "Damadı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/haber/bosanma-asamasindaki-esi-ve-esinin-annesini-av-tufegiyle-oldurdu,1285969"
+    ],
+    "image": "https://i.anitsayac.com/ii/4492025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52388"
+  },
+  {
+    "id": 52389,
+    "name": "Nazen Gümüş",
+    "fullname": "Nazen Gümüş",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "24/12/2025",
+    "reason": "Tartışma",
+    "by": "Torunu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://m.haber7.com/amphtml/manisa/haber/3590568-manisada-cinayet-16-yasindaki-torunu-tarafindan-olduruldu"
+    ],
+    "image": "https://i.anitsayac.com/ii/4502025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52389"
+  },
+  {
     "id": 52378,
     "name": "Duygu Karabaş",
     "fullname": "Duygu Karabaş",
@@ -142,6 +250,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/4342025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52373"
+  },
+  {
+    "id": 52390,
+    "name": "Eylül K.",
+    "fullname": "Eylül K.",
+    "age": "Reşit",
+    "location": "Osmaniye",
+    "date": "21/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/iki-genc-park-halindeki-aracta-olu-bulundu-43061604"
+    ],
+    "image": "https://i.anitsayac.com/ii/4512025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52390"
   },
   {
     "id": 52376,
@@ -251,6 +377,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/4402025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52379"
+  },
+  {
+    "id": 52386,
+    "name": "Naime Z.",
+    "fullname": "Naime Z.",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "13/12/2025",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/cinayeti-kan-lekesi-aydinlatti-annesinden-para-istemis-vermeyince-bicaklamis,1288122"
+    ],
+    "image": "https://i.anitsayac.com/ii/4472025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52386"
   },
   {
     "id": 52370,
@@ -1159,13 +1303,14 @@
     "age": "Reşit",
     "location": "İzmir",
     "date": "24/10/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Oğlu",
+    "reason": "Miras",
+    "by": "Küçük Oğlu",
     "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "İntihar",
     "source": [
-      "https://www.sozcu.com.tr/apartman-dairesinde-dehset-anne-baba-ve-ogullari-oldurulmus-halde-bulundu-p252274"
+      "https://www.sozcu.com.tr/apartman-dairesinde-dehset-anne-baba-ve-ogullari-oldurulmus-halde-bulundu-p252274",
+      "https://www.hurriyet.com.tr/gundem/izmirdeki-aile-katliami-komsunun-bebegine-izlettigi-videonun-saatinden-sir-perdesi-aralandi-katil-ailenin-kucuk-oglu-cikti-43052001"
     ],
     "image": "https://i.anitsayac.com/ii/3812025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52315"
