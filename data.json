@@ -1,11 +1,47 @@
 [
   {
+    "id": 52394,
+    "name": "Songül Canatan",
+    "fullname": "Songül Canatan",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "04/01/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/esini-ve-7-yasindaki-cocugunu-vahsice-katletti-ankarada-polise-teslim-oldu-43076628"
+    ],
+    "image": "https://i.anitsayac.com/ii/022026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52394"
+  },
+  {
+    "id": 52395,
+    "name": "Sena Canatan",
+    "fullname": "Sena Canatan",
+    "age": "Reşit Değil",
+    "location": "Antalya",
+    "date": "04/01/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/esini-ve-7-yasindaki-cocugunu-vahsice-katletti-ankarada-polise-teslim-oldu-43076628"
+    ],
+    "image": "https://i.anitsayac.com/ii/032026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52395"
+  },
+  {
     "id": 52393,
     "name": "Nora Dzuliashvili",
     "fullname": "Nora Dzuliashvili",
     "age": "Reşit",
     "location": "Antalya",
-    "date": "03/01/2025",
+    "date": "03/01/2026",
     "reason": "Tespit Edilemeyen",
     "by": "Eski Kayıbiraderi",
     "protection": "Yok",
@@ -34,6 +70,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/4532025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52392"
+  },
+  {
+    "id": 52396,
+    "name": "Elif Kumal",
+    "fullname": "Elif Kumal",
+    "age": "Reşit",
+    "location": "Balıkesir",
+    "date": "28/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/son-dakika-balikesirde-aranan-elif-kumalin-golde-cansiz-bedeni-bulundu-7515315"
+    ],
+    "image": "https://i.anitsayac.com/ii/4542025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52396"
   },
   {
     "id": 52384,
@@ -5366,13 +5420,14 @@
     "age": "Reşit",
     "location": "Eskişehir",
     "date": "22/04/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tanıdığı Birisi",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
     "protection": "Yok",
     "method": "Yakılarak",
     "status": "Tutuklu",
     "source": [
-      "https://www.sozcu.com.tr/eskisehir-de-kan-donduran-cinayet-ormanda-yakilarak-olduruldu-p165598"
+      "https://www.sozcu.com.tr/eskisehir-de-kan-donduran-cinayet-ormanda-yakilarak-olduruldu-p165598",
+      "https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-kadin-cinayeti-bogarak-oldurdu-cesedini-2-kez-benzin-dokerek-yakti-2467286"
     ],
     "image": "https://i.anitsayac.com/ii/1472025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=42175"
