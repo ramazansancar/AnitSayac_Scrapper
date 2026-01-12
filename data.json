@@ -18,6 +18,24 @@
     "url": "https://anitsayac.com/details.aspx?id=52400"
   },
   {
+    "id": 52402,
+    "name": "Şerife Çınar",
+    "fullname": "Şerife Çınar",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "09/01/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruştuma Sürüyor",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/8-gundur-kayip-olarak-aranan-serife-cinar-olu-bulundu-7518214"
+    ],
+    "image": "https://i.anitsayac.com/ii/072026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52402"
+  },
+  {
     "id": 52397,
     "name": "Sümeyye Khaled Abira",
     "fullname": "Sümeyye Khaled Abira",
@@ -12233,6 +12251,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2232024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=36836"
+  },
+  {
+    "id": 52401,
+    "name": "Nuriye Dilmaç",
+    "fullname": "Nuriye Dilmaç",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "13/07/2024",
+    "reason": "Namus",
+    "by": "Oğlu, Eski Kocası",
+    "protection": "Yok",
+    "method": "Boğularak, Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/her-satiri-dehset-nuriye-dilmacin-eski-esi-ve-oglu-tarafindan-olduruldugu-ortaya-cikti-oglu-kan-donduran-cinayeti-itiraf-etti-43081381"
+    ],
+    "image": "https://i.anitsayac.com/ii/4542024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52401"
   },
   {
     "id": 36834,
