@@ -1,21 +1,39 @@
 [
   {
-    "id": 52400,
-    "name": "Binnaz Eriş",
-    "fullname": "Binnaz Eriş",
+    "id": 52403,
+    "name": "Esra Murtatoğlu",
+    "fullname": "Esra Murtatoğlu",
     "age": "Reşit",
-    "location": "Tekirdağ",
-    "date": "09/01/2026",
+    "location": "Ankara",
+    "date": "12/01/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/esra-evde-olduruldu-erkek-arkadasi-ve-annesi-gozaltinda-p283398"
+    ],
+    "image": "https://i.anitsayac.com/ii/082026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52403"
+  },
+  {
+    "id": 52404,
+    "name": "Çiğdem Akyüz",
+    "fullname": "Çiğdem Akyüz",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "12/01/2026",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Soruşturma Sürüyor",
+    "method": "Ateşli Silah",
+    "status": "Tespit Edilemeyen",
     "source": [
-      "https://www.sozcu.com.tr/chp-li-ismin-kayinvalidesi-yangin-cikan-evde-bicaklanmis-halde-olu-bulundu-p282689"
+      "https://www.sondakika.com/amp/haber-midyat-ta-genc-kadin-cinayeti-19452498/"
     ],
-    "image": "https://i.anitsayac.com/ii/062026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=52400"
+    "image": "https://i.anitsayac.com/ii/092026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52404"
   },
   {
     "id": 52402,
@@ -34,6 +52,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/072026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52402"
+  },
+  {
+    "id": 52400,
+    "name": "Binnaz Eriş",
+    "fullname": "Binnaz Eriş",
+    "age": "Reşit",
+    "location": "Tekirdağ",
+    "date": "09/01/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sozcu.com.tr/chp-li-ismin-kayinvalidesi-yangin-cikan-evde-bicaklanmis-halde-olu-bulundu-p282689"
+    ],
+    "image": "https://i.anitsayac.com/ii/062026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52400"
   },
   {
     "id": 52397,
@@ -142,6 +178,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/4532025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52392"
+  },
+  {
+    "id": 52405,
+    "name": "Mihriban Yılmaz",
+    "fullname": "Mihriban Yılmaz",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "29/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kayip-mihribanin-ormanda-cesedi-bulundu-tuyler-urperten-itiraf-bogduktan-sonra-gomdum-43083604"
+    ],
+    "image": "https://i.anitsayac.com/ii/4552025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52405"
   },
   {
     "id": 52396,
