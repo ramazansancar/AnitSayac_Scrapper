@@ -1,5 +1,59 @@
 [
   {
+    "id": 53330,
+    "name": "Ada Altunbaş",
+    "fullname": "Ada Altunbaş",
+    "age": "Reşit Değil",
+    "location": "Adana",
+    "date": "17/01/2026",
+    "reason": "Karısının Evi Terk Etmesi",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/geride-o-mutlu-kareler-kaldi-en-aci-karne-gunu-43086522"
+    ],
+    "image": "https://i.anitsayac.com/ii/112026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53330"
+  },
+  {
+    "id": 53331,
+    "name": "İsmihan Türkmen",
+    "fullname": "İsmihan Türkmen",
+    "age": "Reşit",
+    "location": "Konya",
+    "date": "16/01/2026",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/konyada-bir-erkek-annesi-ve-kiz-kardesini-oldurdu-hayatina-son-verdi,1291484"
+    ],
+    "image": "https://i.anitsayac.com/ii/122026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53331"
+  },
+  {
+    "id": 53332,
+    "name": "Nisa Türkmen",
+    "fullname": "Nisa Türkmen",
+    "age": "Reşit",
+    "location": "Konya",
+    "date": "16/01/2026",
+    "reason": "Tartışma",
+    "by": "Kardeşi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.t24.com.tr/haber/konyada-bir-erkek-annesi-ve-kiz-kardesini-oldurdu-hayatina-son-verdi,1291484"
+    ],
+    "image": "https://i.anitsayac.com/ii/132026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53332"
+  },
+  {
     "id": 52406,
     "name": "Ebru D.",
     "fullname": "Ebru D.",
