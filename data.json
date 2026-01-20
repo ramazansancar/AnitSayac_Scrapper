@@ -1,5 +1,23 @@
 [
   {
+    "id": 53333,
+    "name": "Helin Kutay",
+    "fullname": "Helin Kutay",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "18/01/2026",
+    "reason": "Tartışma",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/uc-ay-once-evlenen-helinin-supheli-olumu-kocasi-gozaltinda-1707988"
+    ],
+    "image": "https://i.anitsayac.com/ii/142026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53333"
+  },
+  {
     "id": 53330,
     "name": "Ada Altunbaş",
     "fullname": "Ada Altunbaş",
@@ -55,8 +73,8 @@
   },
   {
     "id": 52406,
-    "name": "Ebru D.",
-    "fullname": "Ebru D.",
+    "name": "Ebru Dirici",
+    "fullname": "Ebru Dirici",
     "age": "Reşit",
     "location": "Nevşehir",
     "date": "13/01/2026",
@@ -24178,6 +24196,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/022023.jpg",
     "url": "https://anitsayac.com/details.aspx?id=20316"
+  },
+  {
+    "id": 53334,
+    "name": "Naile Büşra Sarıgül",
+    "fullname": "Naile Büşra Sarıgül",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "01/01/2023",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/haber/mihriban-yilmaz-cinayetinden-tutuklanmisti-katil-fatih-inanin-naile-busra-sarigulu-de-oldurdugu-ortaya-cikti,1292067"
+    ],
+    "image": "https://i.anitsayac.com/ii/4192023.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53334"
   },
   {
     "id": 20314,
