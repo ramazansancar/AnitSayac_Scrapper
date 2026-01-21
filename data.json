@@ -20057,22 +20057,22 @@
     "url": "https://anitsayac.com/details.aspx?id=27421"
   },
   {
-    "id": 27420,
-    "name": "Gülten Ataklı",
-    "fullname": "Gülten Ataklı",
+    "id": 53334,
+    "name": "Naile Büşra Sarıgül",
+    "fullname": "Naile Büşra Sarıgül",
     "age": "Reşit",
-    "location": "Çorum",
-    "date": "31/07/2023",
-    "reason": "Boşanma Talebi",
-    "by": "Şüpheli Kocası",
+    "location": "Manisa",
+    "date": "03/08/2023",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
     "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Soruşturma Sürüyor",
+    "method": "Yüksekten Düşme",
+    "status": "Tutuklu",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/corumda-bosanma-asamasindaki-kadin-olduruldu-polis-esi-gozaltinda-42307647"
+      "https://t24.com.tr/haber/mihriban-yilmaz-cinayetinden-tutuklanmisti-katil-fatih-inanin-naile-busra-sarigulu-de-oldurdugu-ortaya-cikti,1292067"
     ],
-    "image": "https://i.anitsayac.com/ii/1562023.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=27420"
+    "image": "https://i.anitsayac.com/ii/4192023.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53334"
   },
   {
     "id": 31451,
@@ -20091,6 +20091,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2242023.jpg",
     "url": "https://anitsayac.com/details.aspx?id=31451"
+  },
+  {
+    "id": 27420,
+    "name": "Gülten Ataklı",
+    "fullname": "Gülten Ataklı",
+    "age": "Reşit",
+    "location": "Çorum",
+    "date": "31/07/2023",
+    "reason": "Boşanma Talebi",
+    "by": "Şüpheli Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/corumda-bosanma-asamasindaki-kadin-olduruldu-polis-esi-gozaltinda-42307647"
+    ],
+    "image": "https://i.anitsayac.com/ii/1562023.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=27420"
   },
   {
     "id": 27417,
@@ -24196,24 +24214,6 @@
     ],
     "image": "https://i.anitsayac.com/ii/022023.jpg",
     "url": "https://anitsayac.com/details.aspx?id=20316"
-  },
-  {
-    "id": 53334,
-    "name": "Naile Büşra Sarıgül",
-    "fullname": "Naile Büşra Sarıgül",
-    "age": "Reşit",
-    "location": "Manisa",
-    "date": "01/01/2023",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tanıdığı Birisi",
-    "protection": "Yok",
-    "method": "Yüksekten Düşme",
-    "status": "Tutuklu",
-    "source": [
-      "https://t24.com.tr/haber/mihriban-yilmaz-cinayetinden-tutuklanmisti-katil-fatih-inanin-naile-busra-sarigulu-de-oldurdugu-ortaya-cikti,1292067"
-    ],
-    "image": "https://i.anitsayac.com/ii/4192023.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=53334"
   },
   {
     "id": 20314,
