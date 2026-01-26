@@ -1,5 +1,60 @@
 [
   {
+    "id": 53339,
+    "name": "Durdona Khokimova",
+    "fullname": "Durdona Khokimova",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "24/01/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://halktv.com.tr/service/amp/gundem/sislide-dehset-cop-konteynerinde-basi-kesik-ceset-bulundu-1003264h",
+      "https://www.sozcu.com.tr/kesik-bas-cinayetinin-ardindan-sevgili-ve-arkadasi-cikti-p287058"
+    ],
+    "image": "https://i.anitsayac.com/ii/172026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53339"
+  },
+  {
+    "id": 53338,
+    "name": "Nur Banu Ötünç",
+    "fullname": "Nur Banu Ötünç",
+    "age": "Reşit Değil",
+    "location": "Mardin",
+    "date": "23/01/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/mardinde-14-yasindaki-nur-banu-otunc-silahla-vurulmus-halde-bulunmustu-son-yolculuguna-ugurlandi-43091436"
+    ],
+    "image": "https://i.anitsayac.com/ii/162026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53338"
+  },
+  {
+    "id": 53337,
+    "name": "Gözde Akbaba",
+    "fullname": "Gözde Akbaba",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "21/01/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Sevgilisi",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/video/uzaklastirma-karari-vardi-katledilen-gozde-akbabanin-vurulma-ani-guvenlik-kamerasinda,67983"
+    ],
+    "image": "https://i.anitsayac.com/ii/152026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53337"
+  },
+  {
     "id": 53333,
     "name": "Helin Kutay",
     "fullname": "Helin Kutay",
@@ -126,24 +181,6 @@
     "url": "https://anitsayac.com/details.aspx?id=52404"
   },
   {
-    "id": 52402,
-    "name": "Şerife Çınar",
-    "fullname": "Şerife Çınar",
-    "age": "Reşit",
-    "location": "Manisa",
-    "date": "09/01/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Soruştuma Sürüyor",
-    "source": [
-      "https://www.milliyet.com.tr/gundem/8-gundur-kayip-olarak-aranan-serife-cinar-olu-bulundu-7518214"
-    ],
-    "image": "https://i.anitsayac.com/ii/072026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=52402"
-  },
-  {
     "id": 52400,
     "name": "Binnaz Eriş",
     "fullname": "Binnaz Eriş",
@@ -160,6 +197,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/062026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52400"
+  },
+  {
+    "id": 52402,
+    "name": "Şerife Çınar",
+    "fullname": "Şerife Çınar",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "09/01/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruştuma Sürüyor",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/8-gundur-kayip-olarak-aranan-serife-cinar-olu-bulundu-7518214"
+    ],
+    "image": "https://i.anitsayac.com/ii/072026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52402"
   },
   {
     "id": 52397,
@@ -306,24 +361,6 @@
     "url": "https://anitsayac.com/details.aspx?id=52396"
   },
   {
-    "id": 52384,
-    "name": "Fatma Yılmaz Çetinkaya",
-    "fullname": "Fatma Yılmaz Çetinkaya",
-    "age": "Reşit",
-    "location": "Karaman",
-    "date": "27/12/2025",
-    "reason": "Boşanma Talebi",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Boğularak",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/son-gorusmede-katledildi-43068125"
-    ],
-    "image": "https://i.anitsayac.com/ii/4452025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=52384"
-  },
-  {
     "id": 52391,
     "name": "İmhan Sağır",
     "fullname": "İmhan Sağır",
@@ -340,6 +377,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/4522025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52391"
+  },
+  {
+    "id": 52384,
+    "name": "Fatma Yılmaz Çetinkaya",
+    "fullname": "Fatma Yılmaz Çetinkaya",
+    "age": "Reşit",
+    "location": "Karaman",
+    "date": "27/12/2025",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/son-gorusmede-katledildi-43068125"
+    ],
+    "image": "https://i.anitsayac.com/ii/4452025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52384"
   },
   {
     "id": 52381,
@@ -498,7 +553,8 @@
     "method": "Boğularak",
     "status": "Tutuklu",
     "source": [
-      "https://www.tibbiyebulteni.com/izmirde-18-yasindaki-dilan-geyik-evinde-olu-bulundu/amp"
+      "https://www.tibbiyebulteni.com/izmirde-18-yasindaki-dilan-geyik-evinde-olu-bulundu/amp",
+      "https://www.hurriyet.com.tr/gundem/18-yasindaki-dilan-evinde-asili-bulunmustu-korkunc-gercek-ortaya-cikti-bogup-intihar-gibi-gostermeye-calismis-43092451?utm_medium=kart\u0026utm_source=ilgilihaber"
     ],
     "image": "https://i.anitsayac.com/ii/4412025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52380"
@@ -576,6 +632,24 @@
     "url": "https://anitsayac.com/details.aspx?id=52377"
   },
   {
+    "id": 52375,
+    "name": "Gamze Nur Yalçın",
+    "fullname": "Gamze Nur Yalçın",
+    "age": "Reşit",
+    "location": "Çanakkale",
+    "date": "18/12/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/canakkalede-supheli-olum-24-yasindaki-gamze-nur-erkek-arkadasinin-evinde-bulundu-7505800"
+    ],
+    "image": "https://i.anitsayac.com/ii/4362025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=52375"
+  },
+  {
     "id": 52372,
     "name": "Gülhan Börülce",
     "fullname": "Gülhan Börülce",
@@ -593,24 +667,6 @@
     ],
     "image": "https://i.anitsayac.com/ii/4332025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52372"
-  },
-  {
-    "id": 52375,
-    "name": "Gamze Nur Yalçın",
-    "fullname": "Gamze Nur Yalçın",
-    "age": "Reşit",
-    "location": "Çanakkale",
-    "date": "18/12/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Soruşturma Sürüyor",
-    "source": [
-      "https://www.milliyet.com.tr/gundem/canakkalede-supheli-olum-24-yasindaki-gamze-nur-erkek-arkadasinin-evinde-bulundu-7505800"
-    ],
-    "image": "https://i.anitsayac.com/ii/4362025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=52375"
   },
   {
     "id": 52371,
@@ -56397,19 +56453,17 @@
   {
     "id": 2674,
     "name": "Ziynet Terzi",
-    "fullname": "Ziynet Terzi",
-    "age": "Reşit",
-    "location": "Antalya",
-    "date": "09/10/2018",
-    "reason": "Reddedilme",
-    "by": "Sevgilisi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.yenialanya.com/asayis/antalya-daki-kadin-cinayetinin-zanlisi-yakalandi-h340368.html"
-    ],
-    "image": "https://i.anitsayac.com/ii/3162018.jpg",
+    "fullname": "",
+    "age": "",
+    "location": "",
+    "date": "",
+    "reason": "",
+    "by": "",
+    "protection": "",
+    "method": "",
+    "status": "",
+    "source": null,
+    "image": "",
     "url": "https://anitsayac.com/details.aspx?id=2674"
   },
   {
