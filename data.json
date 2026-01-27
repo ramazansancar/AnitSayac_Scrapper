@@ -1,19 +1,37 @@
 [
   {
+    "id": 53340,
+    "name": "Tuba Dinç",
+    "fullname": "Tuba Dinç",
+    "age": "Reşit Değil",
+    "location": "Kütahya",
+    "date": "26/01/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.cnnturk.com/turkiye/kutahyada-kaybolan-15-yasindaki-tuba-dere-kenarinda-olu-bulundu-2389020"
+    ],
+    "image": "https://i.anitsayac.com/ii/182026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53340"
+  },
+  {
     "id": 53339,
     "name": "Durdona Khokimova",
     "fullname": "Durdona Khokimova",
     "age": "Reşit",
     "location": "İstanbul",
     "date": "24/01/2026",
-    "reason": "Tespit Edilemeyen",
+    "reason": "Tartışma",
     "by": "Sevgilisi",
     "protection": "Yok",
-    "method": "Tespit Edilemeyen",
+    "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
       "https://halktv.com.tr/service/amp/gundem/sislide-dehset-cop-konteynerinde-basi-kesik-ceset-bulundu-1003264h",
-      "https://www.sozcu.com.tr/kesik-bas-cinayetinin-ardindan-sevgili-ve-arkadasi-cikti-p287058"
+      "https://www.t24.com.tr/haber/durdona-khokimova-cinayetinde-kan-donduran-detaylar-tiktoktan-tanismislar,1294103"
     ],
     "image": "https://i.anitsayac.com/ii/172026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=53339"
@@ -56453,17 +56471,19 @@
   {
     "id": 2674,
     "name": "Ziynet Terzi",
-    "fullname": "",
-    "age": "",
-    "location": "",
-    "date": "",
-    "reason": "",
-    "by": "",
-    "protection": "",
-    "method": "",
-    "status": "",
-    "source": null,
-    "image": "",
+    "fullname": "Ziynet Terzi",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "09/10/2018",
+    "reason": "Reddedilme",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.yenialanya.com/asayis/antalya-daki-kadin-cinayetinin-zanlisi-yakalandi-h340368.html"
+    ],
+    "image": "https://i.anitsayac.com/ii/3162018.jpg",
     "url": "https://anitsayac.com/details.aspx?id=2674"
   },
   {
