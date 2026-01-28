@@ -1,5 +1,42 @@
 [
   {
+    "id": 53341,
+    "name": "Pınar Karataş",
+    "fullname": "Pınar Karataş",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "27/01/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/manisa-da-korkunc-cinayet-yedi-cocugunun-annesini-olduruldu-p287782",
+      "https://www.evrensel.net/haber/596523/manisa-da-kadin-cinayeti-pinar-karatas-bosanma-asamasindaki-erkek-tarafindan-olduruldu"
+    ],
+    "image": "https://i.anitsayac.com/ii/192026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53341"
+  },
+  {
+    "id": 53342,
+    "name": "Ülker Koçak",
+    "fullname": "Ülker Koçak",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "27/01/2026",
+    "reason": "Kızını Korumaya Çalışırken",
+    "by": "Damadı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.iha.com.tr/ankara-haberleri/ankarada-eski-esini-agir-yaralayan-sahis-kayinvalidesini-oldurup-intihar-etti-369248114"
+    ],
+    "image": "https://i.anitsayac.com/ii/202026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53342"
+  },
+  {
     "id": 53340,
     "name": "Tuba Dinç",
     "fullname": "Tuba Dinç",
