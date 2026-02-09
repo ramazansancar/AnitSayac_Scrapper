@@ -1,5 +1,24 @@
 [
   {
+    "id": 53351,
+    "name": "Ceren Işık",
+    "fullname": "Ceren Işık",
+    "age": "Reşit",
+    "location": "Iğdır",
+    "date": "08/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silaj",
+    "status": "Soruştuma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/cerenin-supheli-olumu-43103000",
+      "https://www.sozcu.com.tr/28-yasindaki-ceren-evinde-olduruldu-p291876"
+    ],
+    "image": "https://i.anitsayac.com/ii/292026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53351"
+  },
+  {
     "id": 53349,
     "name": "Kadriye Alver",
     "fullname": "Kadriye Alver",
@@ -16,6 +35,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/272026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=53349"
+  },
+  {
+    "id": 53350,
+    "name": "Sümeyye Satılmış",
+    "fullname": "Sümeyye Satılmış",
+    "age": "Reşit",
+    "location": "Nevşehir",
+    "date": "04/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.sabah.com.tr/yasam/kayip-olarak-araniyordu-19-yasindaki-sumeyyenin-aci-sonu-7517456"
+    ],
+    "image": "https://i.anitsayac.com/ii/282026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=53350"
   },
   {
     "id": 53347,
