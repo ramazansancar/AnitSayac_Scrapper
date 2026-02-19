@@ -1,5 +1,149 @@
 [
   {
+    "id": 54341,
+    "name": "Aylin Polat Dağ",
+    "fullname": "Aylin Polat Dağ",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "18/02/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaşrtırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/bosanma-asamasindaki-esini-vahsice-oldurdu-p295072"
+    ],
+    "image": "https://i.anitsayac.com/ii/462026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54341"
+  },
+  {
+    "id": 54340,
+    "name": "Kübra Keleş",
+    "fullname": "Kübra Keleş",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "17/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://t24.com.tr/gundem/diyarbakir-da-supheli-kadin-olumu-21-yasindaki-kubra-keles-odasinda-olu-bulundu,1300245"
+    ],
+    "image": "https://i.anitsayac.com/ii/452026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54340"
+  },
+  {
+    "id": 54338,
+    "name": "Songül Hakbilir",
+    "fullname": "Songül Hakbilir",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "16/02/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.evrensel.net/haber/5970847/songul-hakbilir-bosanma-asamasinda-oldugu-erkek-tarafindan-katledildi"
+    ],
+    "image": "https://i.anitsayac.com/ii/402026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54338"
+  },
+  {
+    "id": 54336,
+    "name": "Emine Özer",
+    "fullname": "Emine Özer",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "15/02/2026",
+    "reason": "Tartışma  Geçimsizlik",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/uykusunda-katledildi-43108435"
+    ],
+    "image": "https://i.anitsayac.com/ii/422026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54336"
+  },
+  {
+    "id": 54342,
+    "name": "Kezban Genç",
+    "fullname": "Kezban Genç",
+    "age": "Reşit",
+    "location": "Tokat",
+    "date": "15/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.cumhuriyet.com.tr/kultur-sanat/70-lerin-istanbul-unda-bir-hikaye-muzeden-hayata-2479832"
+    ],
+    "image": "https://i.anitsayac.com/ii/472026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54342"
+  },
+  {
+    "id": 54339,
+    "name": "Gülçin Bilgin Turna",
+    "fullname": "Gülçin Bilgin Turna",
+    "age": "Reşit",
+    "location": "Rize",
+    "date": "14/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/akademisyen-gulcin-bilgin-turna-10uncu-kattaki-evinin-balkonundan-duserek-hayatini-kaybetti-43108182"
+    ],
+    "image": "https://i.anitsayac.com/ii/442026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54339"
+  },
+  {
+    "id": 54335,
+    "name": "Kübra Kölge",
+    "fullname": "Kübra Kölge",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "14/02/2026",
+    "reason": "Tespie Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kasimpasada-korkunc-olay-pencereden-dusen-21-yasindaki-kubra-hayatini-kaybetti-annesi-sinir-krizi-gecirdi-43107938"
+    ],
+    "image": "https://i.anitsayac.com/ii/412026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54335"
+  },
+  {
+    "id": 54333,
+    "name": "Medine Akpınar",
+    "fullname": "Medine Akpınar",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "13/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/mardinde-korkunc-olay-medine-akpinar-evinde-silahla-vurulmus-halde-olu-bulundu-43107293"
+    ],
+    "image": "https://i.anitsayac.com/ii/392026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54333"
+  },
+  {
     "id": 54330,
     "name": "Alev Koç",
     "fullname": "Alev Koç",
@@ -88,6 +232,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/362026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=53358"
+  },
+  {
+    "id": 54337,
+    "name": "Bahar Taş",
+    "fullname": "Bahar Taş",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "09/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/kiralik-teknede-sir-olay-35-yasindaki-bahar-olu-bulundu-1711147"
+    ],
+    "image": "https://i.anitsayac.com/ii/432026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54337"
   },
   {
     "id": 53351,
@@ -380,6 +542,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/162026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=53338"
+  },
+  {
+    "id": 54332,
+    "name": "Ergashalieva Sayyora",
+    "fullname": "Ergashalieva Sayyora",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "23/01/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/amp/sisli-de-basi-kesik-kadin-vahseti-umraniye-ye-uzandi-ayni-evde-ikinci-cinayet-p293438"
+    ],
+    "image": "https://i.anitsayac.com/ii/382026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54332"
   },
   {
     "id": 53337,
@@ -1066,6 +1246,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/4402025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=52379"
+  },
+  {
+    "id": 54331,
+    "name": "E.K.",
+    "fullname": "E.K.",
+    "age": "Reşit",
+    "location": "Eskişehir",
+    "date": "14/12/2025",
+    "reason": "Kaza",
+    "by": "Torunu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/evde-olu-bulunan-kadinin-torununun-kazara-actigi-atesle-hayatini-kaybettigi-belirlendi-43107486"
+    ],
+    "image": "https://i.anitsayac.com/ii/4572025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54331"
   },
   {
     "id": 52386,
