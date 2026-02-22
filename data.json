@@ -1,5 +1,41 @@
 [
   {
+    "id": 54349,
+    "name": "Cemile Yıldırım",
+    "fullname": "Cemile Yıldırım",
+    "age": "Reşilt",
+    "location": "Hatay",
+    "date": "21/02/2026",
+    "reason": "Kızını Korumaya Çalışırken",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://halktv.com.tr/service/amp/gundem/ablasina-mesaj-atti-evinde-bir-kadini-oldurup-intihar-etti-1009607h"
+    ],
+    "image": "https://i.anitsayac.com/ii/542026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54349"
+  },
+  {
+    "id": 54348,
+    "name": "Aysun İnam",
+    "fullname": "Aysun İnam",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "19/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://halktv.com.tr/service/amp/gundem/ablasina-mesaj-atti-evinde-bir-kadini-oldurup-intihar-etti-1009607h"
+    ],
+    "image": "https://i.anitsayac.com/ii/532026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54348"
+  },
+  {
     "id": 54341,
     "name": "Aylin Polat Dağ",
     "fullname": "Aylin Polat Dağ",
@@ -16,6 +52,96 @@
     ],
     "image": "https://i.anitsayac.com/ii/462026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54341"
+  },
+  {
+    "id": 54343,
+    "name": "Filiz Şğbangül",
+    "fullname": "Filiz Şğbangül",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "18/02/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/arnavutkoyde-vahset-esini-cocuklarinin-gozu-onunde-bicaklayarak-oldurdu-43111075"
+    ],
+    "image": "https://i.anitsayac.com/ii/482026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54343"
+  },
+  {
+    "id": 54344,
+    "name": "Gönül Alkan",
+    "fullname": "Gönül Alkan",
+    "age": "Reşit",
+    "location": "Van",
+    "date": "18/02/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Belirtilmemiş",
+    "status": "Tutuklu",
+    "source": [
+      "https://ilketv.com.tr/vanda-kadin-cinayeti-uzaklastirma-karari-cikarttigi-erkek-tarafindan-olduruldu/"
+    ],
+    "image": "https://i.anitsayac.com/ii/492026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54344"
+  },
+  {
+    "id": 54345,
+    "name": "İlknur Kor",
+    "fullname": "İlknur Kor",
+    "age": "Reşit",
+    "location": "Orhaniye/Muğla",
+    "date": "18/02/2026",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/osmaniyede-vahset-eski-esini-oldurup-intihar-etti-43110928"
+    ],
+    "image": "https://i.anitsayac.com/ii/502026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54345"
+  },
+  {
+    "id": 54346,
+    "name": "Kübra Kılıç",
+    "fullname": "Kübra Kılıç",
+    "age": "Reşit",
+    "location": "Aksaray",
+    "date": "18/02/2026",
+    "reason": "Eski Kocasının Başka Biriyle Evlenmesini İstememesi",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/eski-esini-ve-onun-kuzenini-olduren-kisi-ayni-silahla-intihar-etti-1712566"
+    ],
+    "image": "https://i.anitsayac.com/ii/512026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54346"
+  },
+  {
+    "id": 54347,
+    "name": "Zeynep Ayas",
+    "fullname": "Zeynep Ayas",
+    "age": "Reşit",
+    "location": "Aksaray",
+    "date": "18/02/2026",
+    "reason": "Kuzenini Korumaya Çalışırken",
+    "by": "Kuzeninin Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/eski-esini-ve-onun-kuzenini-olduren-kisi-ayni-silahla-intihar-etti-1712566"
+    ],
+    "image": "https://i.anitsayac.com/ii/522026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54347"
   },
   {
     "id": 54340,
