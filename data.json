@@ -1,5 +1,149 @@
 [
   {
+    "id": 54358,
+    "name": "Gül Dağ",
+    "fullname": "Gül Dağ",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "28/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.koroglugazetesi.com/yatalak-annesine-yemek-hazirlarken-kanlar-icinde-bulunmustu-bogazinin-kesildigi-ogrenildi"
+    ],
+    "image": "https://i.anitsayac.com/ii/622026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54358"
+  },
+  {
+    "id": 54356,
+    "name": "Sevim Özdemir",
+    "fullname": "Sevim Özdemir",
+    "age": "Reşit",
+    "location": "Eskişehir",
+    "date": "27/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://t24.com.tr/gundem/eskisehirde-korkunc-olay-7inci-kattan-atladi-evinde-kadin-cesedi-bulundu,1303040"
+    ],
+    "image": "https://i.anitsayac.com/ii/602026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54356"
+  },
+  {
+    "id": 54357,
+    "name": "Yeliz İnci",
+    "fullname": "Yeliz İnci",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "26/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Asılarak",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.kemergozcu.com/amp/haber/camyuvada-karavanda-aci-son-45-yasindaki-kadin-olu-bulundu-28054.html"
+    ],
+    "image": "https://i.anitsayac.com/ii/612026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54357"
+  },
+  {
+    "id": 54354,
+    "name": "Saliha Turan",
+    "fullname": "Saliha Turan",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "25/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/yol-kenarinda-kadin-cesedi-bulunmustu-soke-eden-gozalti-7544601"
+    ],
+    "image": "https://i.anitsayac.com/ii/582026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54354"
+  },
+  {
+    "id": 54355,
+    "name": "Amine Duman",
+    "fullname": "Amine Duman",
+    "age": "Reşit Değil",
+    "location": "Diyarbakır",
+    "date": "25/02/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-14-yasindaki-amine-vurulmus-halde-olu-bulundu-2481896"
+    ],
+    "image": "https://i.anitsayac.com/ii/592026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54355"
+  },
+  {
+    "id": 54352,
+    "name": "Nurcan Gündoğan",
+    "fullname": "Nurcan Gündoğan",
+    "age": "Reşit",
+    "location": "Sakarya",
+    "date": "23/02/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.halk54.com/once-esini-sonra-kendini-vurmustu-defin-tarihleri-belli-oldu/amp"
+    ],
+    "image": "https://i.anitsayac.com/ii/572026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54352"
+  },
+  {
+    "id": 54350,
+    "name": "Gülten Ürkmez",
+    "fullname": "Gülten Ürkmez",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "22/02/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/catalcada-durakta-gordugu-esini-basindan-silahla-vurarak-oldurdu-43114161"
+    ],
+    "image": "https://i.anitsayac.com/ii/552026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54350"
+  },
+  {
+    "id": 54351,
+    "name": "Emine Yusuf",
+    "fullname": "Emine Yusuf",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "21/02/2026",
+    "reason": "Gasp",
+    "by": "Tanıdığı Birileri",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/5971741/antepte-kadin-cinayeti-uvey-kardesinin-darbettigi-kadin-hayatini-kaybetti"
+    ],
+    "image": "https://i.anitsayac.com/ii/562026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54351"
+  },
+  {
     "id": 54349,
     "name": "Cemile Yıldırım",
     "fullname": "Cemile Yıldırım",
@@ -55,8 +199,8 @@
   },
   {
     "id": 54343,
-    "name": "Filiz Şğbangül",
-    "fullname": "Filiz Şğbangül",
+    "name": "Filiz Şağbangül",
+    "fullname": "Filiz Şağbangül",
     "age": "Reşit",
     "location": "İstanbul",
     "date": "18/02/2026",
@@ -98979,6 +99123,24 @@
     ],
     "image": "",
     "url": "https://anitsayac.com/details.aspx?id=256"
+  },
+  {
+    "id": 54353,
+    "name": "Ebru Koyuncu",
+    "fullname": "Ebru Koyuncu",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "01/10/2009",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Eniştesi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/14-aylik-bebek-ve-babasi-komsulari-tarafindan-darbedilmisti-guvenlik-kamerasi-goruntuleri-ortaya-cikti-43115349"
+    ],
+    "image": "https://i.anitsayac.com/ii/1282009.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54353"
   },
   {
     "id": 255,
