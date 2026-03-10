@@ -1,5 +1,203 @@
 [
   {
+    "id": 54368,
+    "name": "Sermin Bacak",
+    "fullname": "Sermin Bacak",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "08/03/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/yerel-haberler/muglada-kadin-cinayeti-kadinlar-gununde-esi-tarafindan-olduruldu-1715019"
+    ],
+    "image": "https://i.anitsayac.com/ii/722026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54368"
+  },
+  {
+    "id": 54369,
+    "name": "Adile Tarhan",
+    "fullname": "Adile Tarhan",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "08/03/2026",
+    "reason": "Aile içi husemet",
+    "by": "Erkek Kardeşi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.iha.com.tr/izmir-haberleri/almanyadan-cinayet-icin-gelmis-ablasini-oldurdu-enistesini-agir-yaraladi-389486592"
+    ],
+    "image": "https://i.anitsayac.com/ii/732026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54369"
+  },
+  {
+    "id": 54367,
+    "name": "Nesrin Aladağ",
+    "fullname": "Nesrin Aladağ",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "06/03/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/son-dakika-adana-haberleri-yine-bir-kadin-cinayeti-tartisma-yasadigi-3-cocugunun-annesini-bogarak-oldurdu-ardindan-teslim-oldu-3867553"
+    ],
+    "image": "https://i.anitsayac.com/ii/712026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54367"
+  },
+  {
+    "id": 54366,
+    "name": "Semiha Deniz",
+    "fullname": "Semiha Deniz",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "05/03/2026",
+    "reason": "Tartışma  Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/son-dakika-istanbulda-semiha-deniz-okulun-onunde-esi-tarafindan-olduruldu-3867264"
+    ],
+    "image": "https://i.anitsayac.com/ii/702026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54366"
+  },
+  {
+    "id": 54365,
+    "name": "Nagihan Karadeniz",
+    "fullname": "Nagihan Karadeniz",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "04/03/2026",
+    "reason": "Tartışma  Reddedilme",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/guzellik-merkezinde-eski-sevgili-dehseti-nagihani-tabancayla-vurarak-oldurdu-1714548"
+    ],
+    "image": "https://i.anitsayac.com/ii/692026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54365"
+  },
+  {
+    "id": 54361,
+    "name": "Fatma Nur Çelik",
+    "fullname": "Fatma Nur Çelik",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "03/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://t24.com.tr/gundem/avukatlardan-fatma-nur-celik-eylemi-bu-anneyi-ve-cocugu-adalet-sistemi-bakanlik-ve-tarikat-oldurdu,1304141"
+    ],
+    "image": "https://i.anitsayac.com/ii/652026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54361"
+  },
+  {
+    "id": 54362,
+    "name": "Hifa İkra Şengüler",
+    "fullname": "Hifa İkra Şengüler",
+    "age": "Reşit Değil",
+    "location": "İstanbul",
+    "date": "03/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://t24.com.tr/gundem/avukatlardan-fatma-nur-celik-eylemi-bu-anneyi-ve-cocugu-adalet-sistemi-bakanlik-ve-tarikat-oldurdu,1304141"
+    ],
+    "image": "https://i.anitsayac.com/ii/662026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54362"
+  },
+  {
+    "id": 54363,
+    "name": "Dilafruz Chulieva",
+    "fullname": "Dilafruz Chulieva",
+    "age": "Reşit",
+    "location": "Balıkesir",
+    "date": "03/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.burhaniyemedya.com/burhaniyede-gunlerdir-aranan-kadindan-aci-haber/"
+    ],
+    "image": "https://i.anitsayac.com/ii/672026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54363"
+  },
+  {
+    "id": 54364,
+    "name": "Ceren Kıvrak",
+    "fullname": "Ceren Kıvrak",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "03/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.dha.com.tr/amp/yerel-haberler/samsun/atakum/samsunda-kayip-cerenin-denizde-cansiz-bedeni-2829776"
+    ],
+    "image": "https://i.anitsayac.com/ii/682026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54364"
+  },
+  {
+    "id": 54359,
+    "name": "Mizgin Karademir",
+    "fullname": "Mizgin Karademir",
+    "age": "Reşit",
+    "location": "Aydın",
+    "date": "02/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/5973067/aydinda-kadin-cinayeti-29-yasindaki-kadin-bicakla-katledildi"
+    ],
+    "image": "https://i.anitsayac.com/ii/632026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54359"
+  },
+  {
+    "id": 54360,
+    "name": "Fatma Nur Çelik",
+    "fullname": "Fatma Nur Çelik",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "02/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Öğrencisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/5973151/cekmekoyde-lise-ogrencisinin-ogretmen-ve-ogrencilere-bicakli-saldirisi-1-ogretmen-hayatini-kaybetti"
+    ],
+    "image": "https://i.anitsayac.com/ii/642026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54360"
+  },
+  {
     "id": 54358,
     "name": "Gül Dağ",
     "fullname": "Gül Dağ",
