@@ -1,5 +1,95 @@
 [
   {
+    "id": 54375,
+    "name": "İrem Bostan",
+    "fullname": "İrem Bostan",
+    "age": "Reşit",
+    "location": "Trabzon",
+    "date": "16/03/2026",
+    "reason": "Tartışma  Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/trabzonda-cani-koca-dehseti-bosanma-asamasindaki-esini-oldurup-intihar-etti-43129575"
+    ],
+    "image": "https://i.anitsayac.com/ii/792026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54375"
+  },
+  {
+    "id": 54373,
+    "name": "Emine İnce",
+    "fullname": "Emine İnce",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "12/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.haberturk.com/yine-bir-kadin-cinayeti-vurulmus-halde-bulundu-3869279"
+    ],
+    "image": "https://i.anitsayac.com/ii/772026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54373"
+  },
+  {
+    "id": 54374,
+    "name": "Zuhal Sayyar",
+    "fullname": "Zuhal Sayyar",
+    "age": "Reşit Değil",
+    "location": "Mardin",
+    "date": "12/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Abisi, Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/cizerler/kim-kime-dum-duma-13-mart-2026-2486349"
+    ],
+    "image": "https://i.anitsayac.com/ii/782026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54374"
+  },
+  {
+    "id": 54370,
+    "name": "Songül Fidan",
+    "fullname": "Songül Fidan",
+    "age": "Reşit",
+    "location": "Mersin",
+    "date": "10/03/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.evrensel.net/haber/5974573/mersinde-kadin-cinayeti-songul-figan-cocuklarini-gormeye-gittigi-evde-katledildi"
+    ],
+    "image": "https://i.anitsayac.com/ii/742026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54370"
+  },
+  {
+    "id": 54371,
+    "name": "Kevser Türk",
+    "fullname": "Kevser Türk",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "09/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.vanhabergazetesi.com/istanbulda-supheli-olum-vanli-kadin-evinde-olu-bulundu/amp"
+    ],
+    "image": "https://i.anitsayac.com/ii/752026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54371"
+  },
+  {
     "id": 54368,
     "name": "Sermin Bacak",
     "fullname": "Sermin Bacak",
@@ -196,6 +286,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/642026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54360"
+  },
+  {
+    "id": 54372,
+    "name": "Zehra Üzüm",
+    "fullname": "Zehra Üzüm",
+    "age": "Reşit",
+    "location": "Eskişehir",
+    "date": "02/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.haberturk.com/son-dakika-13-yasindaki-kayip-zehra-uzum-babasinin-hobi-bahcesinde-gomulu-bulundu-3869182"
+    ],
+    "image": "https://i.anitsayac.com/ii/762026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54372"
   },
   {
     "id": 54358,
@@ -49290,6 +49398,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/3672019.jpg",
     "url": "https://anitsayac.com/details.aspx?id=3188"
+  },
+  {
+    "id": 54376,
+    "name": "Khurriyat Tursun Boeva",
+    "fullname": "Khurriyat Tursun Boeva",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "30/10/2019",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/vahseti-ele-veren-mavi-isik-43130183"
+    ],
+    "image": "https://i.anitsayac.com/ii/4302019.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54376"
   },
   {
     "id": 3165,
