@@ -1,5 +1,185 @@
 [
   {
+    "id": 54383,
+    "name": "Aleyna Yaray",
+    "fullname": "Aleyna Yaray",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "23/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/aleyna-yarayin-olumune-iliskin-yeni-detaylar-intihar-demisti-cinayetten-tutuklandi-tabanca-lavabonun-altinda-cikti-43134668"
+    ],
+    "image": "https://i.anitsayac.com/ii/852026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54383"
+  },
+  {
+    "id": 54384,
+    "name": "Rümeysa Güven",
+    "fullname": "Rümeysa Güven",
+    "age": "Rşit",
+    "location": "Antalya",
+    "date": "23/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/rumeysa-ogretmenin-irmakta-cansiz-bedeni-bulundu-43134645"
+    ],
+    "image": "https://i.anitsayac.com/ii/862026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54384"
+  },
+  {
+    "id": 54385,
+    "name": "Kısmet Erdoğan",
+    "fullname": "Kısmet Erdoğan",
+    "age": "Reşit",
+    "location": "Nevşehir",
+    "date": "22/03/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/esini-oldurup-intihar-girisiminde-bulundu-43133835"
+    ],
+    "image": "https://i.anitsayac.com/ii/872026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54385"
+  },
+  {
+    "id": 54386,
+    "name": "Ayşe Eken",
+    "fullname": "Ayşe Eken",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "21/03/2026",
+    "reason": "Tartışma",
+    "by": "Dayısı",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/yegenini-vahsice-oldurup-araya-giren-kardesi-ile-damadini-agir-yaraladi-43133686"
+    ],
+    "image": "https://i.anitsayac.com/ii/882026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54386"
+  },
+  {
+    "id": 54387,
+    "name": "Gamze Yıldırım",
+    "fullname": "Gamze Yıldırım",
+    "age": "Reşit",
+    "location": "Aksaray",
+    "date": "21/03/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/anne-ve-babasinin-mezarinda-dua-okurken-olduruldu-gamze-son-yolculuguna-ugurlandi-43133574"
+    ],
+    "image": "https://i.anitsayac.com/ii/892026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54387"
+  },
+  {
+    "id": 54388,
+    "name": "Meryem Altaş",
+    "fullname": "Meryem Altaş",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "21/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/meryemin-katili-polise-silah-dogrultunca-vurularak-yakalandi-43133505"
+    ],
+    "image": "https://i.anitsayac.com/ii/902026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54388"
+  },
+  {
+    "id": 54389,
+    "name": "Semanur Algül",
+    "fullname": "Semanur Algül",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "21/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/fatihte-korkunc-olay-esini-oldurdu-ardindan-evi-atese-verdi-7558690"
+    ],
+    "image": "https://i.anitsayac.com/ii/912026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54389"
+  },
+  {
+    "id": 54390,
+    "name": "Gamze S.",
+    "fullname": "Gamze S.",
+    "age": "Reşit",
+    "location": "Kayseri",
+    "date": "20/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.evrensel.net/haber/5976049/kayseri-de-kadin-cinayeti-evli-oldugu-erkek-tarafindan-olduruldu"
+    ],
+    "image": "https://i.anitsayac.com/ii/922026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54390"
+  },
+  {
+    "id": 54391,
+    "name": "Kübra Yılmaz",
+    "fullname": "Kübra Yılmaz",
+    "age": "Reşit",
+    "location": "Edirne",
+    "date": "19/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://m.haber7.com/amphtml/edirne/haber/3613312-edirnede-genc-doktorun-supheli-olumu"
+    ],
+    "image": "https://i.anitsayac.com/ii/932026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54391"
+  },
+  {
+    "id": 54392,
+    "name": "Cemre Nehir Karain",
+    "fullname": "Cemre Nehir Karain",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "19/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.odatv.com/amp/guncel/universite-ogrencisiydi-genc-sair-cemre-nehir-karain-sir-olumu-120140076"
+    ],
+    "image": "https://i.anitsayac.com/ii/942026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54392"
+  },
+  {
     "id": 54380,
     "name": "Shaımas Abdi",
     "fullname": "Shaımas Abdi",
@@ -70,6 +250,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/792026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54375"
+  },
+  {
+    "id": 54393,
+    "name": "Elif Taymur",
+    "fullname": "Elif Taymur",
+    "age": "Reşit",
+    "location": "Van",
+    "date": "15/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.evrensel.net/haber/5975281/van-yyu-ogrencisi-yurtta-olu-bulundu"
+    ],
+    "image": "https://i.anitsayac.com/ii/952026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54393"
   },
   {
     "id": 54379,
