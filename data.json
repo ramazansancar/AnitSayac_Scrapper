@@ -36,6 +36,42 @@
     "url": "https://anitsayac.com/details.aspx?id=54384"
   },
   {
+    "id": 54394,
+    "name": "S.K.",
+    "fullname": "S.K.",
+    "age": "Reşit",
+    "location": "Afyonkarahisar",
+    "date": "23/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.kocatepegazetesi.com/termal-otelde-sok-olay-genc-kadin-odasinda-olu-bulundu/402822/"
+    ],
+    "image": "https://i.anitsayac.com/ii/962026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54394"
+  },
+  {
+    "id": 54395,
+    "name": "Nigar Arslan",
+    "fullname": "Nigar Arslan",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "23/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eniştesi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.haberler.com/amp/samsun-da-baldizini-vuran-adam-intihar-etti-19682843-haberi/"
+    ],
+    "image": "https://i.anitsayac.com/ii/972026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54395"
+  },
+  {
     "id": 54385,
     "name": "Kısmet Erdoğan",
     "fullname": "Kısmet Erdoğan",
@@ -127,8 +163,8 @@
   },
   {
     "id": 54390,
-    "name": "Gamze S.",
-    "fullname": "Gamze S.",
+    "name": "Gamze Serçel",
+    "fullname": "Gamze Serçel",
     "age": "Reşit",
     "location": "Kayseri",
     "date": "20/03/2026",
