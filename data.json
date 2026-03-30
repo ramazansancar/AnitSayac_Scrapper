@@ -1,39 +1,147 @@
 [
   {
-    "id": 54383,
-    "name": "Aleyna Yaray",
-    "fullname": "Aleyna Yaray",
+    "id": 54400,
+    "name": "Emel Akay",
+    "fullname": "Emel Akay",
     "age": "Reşit",
-    "location": "Diyarbakır",
-    "date": "23/03/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Sevgilisi",
+    "location": "Hatay",
+    "date": "29/03/2026",
+    "reason": "Kayınvaldesini Korumaya Çalışırken",
+    "by": "Kocası",
     "protection": "Yok",
-    "method": "Ateşli Silah",
+    "method": "Kesici Alet",
     "status": "Tutuklu",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/aleyna-yarayin-olumune-iliskin-yeni-detaylar-intihar-demisti-cinayetten-tutuklandi-tabanca-lavabonun-altinda-cikti-43134668"
+      "https://www.sozcu.com.tr/annesini-doverken-kendisine-engel-olmak-isteyen-esini-oldurdu-p305599"
     ],
-    "image": "https://i.anitsayac.com/ii/852026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=54383"
+    "image": "https://i.anitsayac.com/ii/1022026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54400"
   },
   {
-    "id": 54384,
-    "name": "Rümeysa Güven",
-    "fullname": "Rümeysa Güven",
-    "age": "Rşit",
-    "location": "Antalya",
-    "date": "23/03/2026",
+    "id": 54403,
+    "name": "Başak Zeliha Yaylacı",
+    "fullname": "Başak Zeliha Yaylacı",
+    "age": "Reşit",
+    "location": "Niğde",
+    "date": "29/03/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.tgrthaber.com/3-sayfa/basak-zeliha-yaylaci-vahsice-katledildi-katil-zanlisinin-tedavisi-suruyor-3291051?s=1"
+    ],
+    "image": "https://i.anitsayac.com/ii/1052026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54403"
+  },
+  {
+    "id": 54402,
+    "name": "Hayal Alkış",
+    "fullname": "Hayal Alkış",
+    "age": "Reşit",
+    "location": "Aydın",
+    "date": "28/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/amp/aydin-da-bas-infaz-koruma-memuru-evinde-olu-bulundu-erkek-meslektasi-gozaltina-alindi-p305335"
+    ],
+    "image": "https://i.anitsayac.com/ii/1042026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54402"
+  },
+  {
+    "id": 54401,
+    "name": "NermiN Duruk",
+    "fullname": "NermiN Duruk",
+    "age": "Reşit",
+    "location": "Karaman",
+    "date": "27/03/2026",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
     "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.haberturk.com/karaman-da-genc-kadin-evinde-olu-bulundu-3872670"
+    ],
+    "image": "https://i.anitsayac.com/ii/1032026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54401"
+  },
+  {
+    "id": 54398,
+    "name": "Havva Çubukçu",
+    "fullname": "Havva Çubukçu",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "27/03/2026",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://halktv.com.tr/service/amp/gundem/izmirde-kadin-cinayeti-eski-esini-oldurup-intihar-etti-1018043h"
+    ],
+    "image": "https://i.anitsayac.com/ii/1002026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54398"
+  },
+  {
+    "id": 54399,
+    "name": "Nasıra Saigi",
+    "fullname": "Nasıra Saigi",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "27/03/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://halktv.com.tr/service/amp/gundem/izmirde-kadin-cinayeti-eski-esini-oldurup-intihar-etti-1018043h"
+    ],
+    "image": "https://i.anitsayac.com/ii/1012026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54399"
+  },
+  {
+    "id": 54397,
+    "name": "Vesile Elmadibi",
+    "fullname": "Vesile Elmadibi",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "26/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/esini-oldurup-intihar-etti-43136770"
+    ],
+    "image": "https://i.anitsayac.com/ii/992026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54397"
+  },
+  {
+    "id": 54396,
+    "name": "Naile İlayda Ateş",
+    "fullname": "Naile İlayda Ateş",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "25/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
     "status": "Soruşturma Sürüyor",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/rumeysa-ogretmenin-irmakta-cansiz-bedeni-bulundu-43134645"
+      "https://www.sozcu.com.tr/amp/ilayda-hemsire-6-kattan-dustu-doktor-sevgilisi-olay-anini-anlatti-p304529"
     ],
-    "image": "https://i.anitsayac.com/ii/862026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=54384"
+    "image": "https://i.anitsayac.com/ii/982026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54396"
   },
   {
     "id": 54394,
@@ -70,6 +178,42 @@
     ],
     "image": "https://i.anitsayac.com/ii/972026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54395"
+  },
+  {
+    "id": 54383,
+    "name": "Aleyna Yaray",
+    "fullname": "Aleyna Yaray",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "23/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/aleyna-yarayin-olumune-iliskin-yeni-detaylar-intihar-demisti-cinayetten-tutuklandi-tabanca-lavabonun-altinda-cikti-43134668"
+    ],
+    "image": "https://i.anitsayac.com/ii/852026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54383"
+  },
+  {
+    "id": 54384,
+    "name": "Rümeysa Güven",
+    "fullname": "Rümeysa Güven",
+    "age": "Rşit",
+    "location": "Antalya",
+    "date": "23/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/rumeysa-ogretmenin-irmakta-cansiz-bedeni-bulundu-43134645"
+    ],
+    "image": "https://i.anitsayac.com/ii/862026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54384"
   },
   {
     "id": 54385,
