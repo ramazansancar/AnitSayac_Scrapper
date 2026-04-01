@@ -1,21 +1,93 @@
 [
   {
-    "id": 54400,
-    "name": "Emel Akay",
-    "fullname": "Emel Akay",
+    "id": 54407,
+    "name": "Sariye Nur Çoşkun",
+    "fullname": "Sariye Nur Çoşkun",
     "age": "Reşit",
-    "location": "Hatay",
-    "date": "29/03/2026",
-    "reason": "Kayınvaldesini Korumaya Çalışırken",
+    "location": "Manisa",
+    "date": "31/03/2026",
+    "reason": "Boşanma Talebi",
     "by": "Kocası",
     "protection": "Yok",
-    "method": "Kesici Alet",
+    "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
-      "https://www.sozcu.com.tr/annesini-doverken-kendisine-engel-olmak-isteyen-esini-oldurdu-p305599"
+      "https://t24.com.tr/gundem/manisada-katliam-bosanma-asamasindaki-esinin-evini-basti-4-olu,1311094"
     ],
-    "image": "https://i.anitsayac.com/ii/1022026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=54400"
+    "image": "https://i.anitsayac.com/ii/1092026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54407"
+  },
+  {
+    "id": 54408,
+    "name": "Fatma Girgin",
+    "fullname": "Fatma Girgin",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "31/03/2026",
+    "reason": "Kızını Korumaya Çalışırken",
+    "by": "Damadı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/gundem/manisada-katliam-bosanma-asamasindaki-esinin-evini-basti-4-olu,1311094"
+    ],
+    "image": "https://i.anitsayac.com/ii/1102026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54408"
+  },
+  {
+    "id": 54404,
+    "name": "Özge Dülge",
+    "fullname": "Özge Dülge",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "30/03/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/diyarbakir-haberleri/117230941-diyarbakirda-esini-oldurdu-akrabasini-yaraladi"
+    ],
+    "image": "https://i.anitsayac.com/ii/1062026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54404"
+  },
+  {
+    "id": 54405,
+    "name": "Vahda Al Şevvah",
+    "fullname": "Vahda Al Şevvah",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "30/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.sozcu.com.tr/genc-kadin-evde-gogsunden-vurulmus-halde-bulundu-p305689"
+    ],
+    "image": "https://i.anitsayac.com/ii/1072026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54405"
+  },
+  {
+    "id": 54406,
+    "name": "Nilüfer Albayrak",
+    "fullname": "Nilüfer Albayrak",
+    "age": "Reşit",
+    "location": "Van",
+    "date": "30/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.vanekspres.com.tr/vanda-genc-kadin-evinde-olu-bulundu-1/amp"
+    ],
+    "image": "https://i.anitsayac.com/ii/1082026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54406"
   },
   {
     "id": 54403,
@@ -34,6 +106,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1052026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54403"
+  },
+  {
+    "id": 54400,
+    "name": "Emel Akay",
+    "fullname": "Emel Akay",
+    "age": "Reşit",
+    "location": "Hatay",
+    "date": "29/03/2026",
+    "reason": "Kayınvaldesini Korumaya Çalışırken",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/annesini-doverken-kendisine-engel-olmak-isteyen-esini-oldurdu-p305599"
+    ],
+    "image": "https://i.anitsayac.com/ii/1022026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54400"
   },
   {
     "id": 54402,
