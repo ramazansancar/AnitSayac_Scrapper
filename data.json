@@ -1,5 +1,41 @@
 [
   {
+    "id": 54410,
+    "name": "Yonca Kölge",
+    "fullname": "Yonca Kölge",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "04/04/2026",
+    "reason": "Reddedilme",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.evrensel.net/haber/5978155/bahcelievler-de-kadin-cinayeti-yonca-kolge-cezaevinden-izinli-cikan-bosandigi-erkek-tarafindan-olduruldu"
+    ],
+    "image": "https://i.anitsayac.com/ii/1122026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54410"
+  },
+  {
+    "id": 54409,
+    "name": "Mürşide B.",
+    "fullname": "Mürşide B.",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "01/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.birgun.net/haber/manisada-65-yasindaki-kadin-evinde-olu-bulundu-yuzunde-darp-izleri-tespit-edildi-702768"
+    ],
+    "image": "https://i.anitsayac.com/ii/1112026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54409"
+  },
+  {
     "id": 54407,
     "name": "Sariye Nur Çoşkun",
     "fullname": "Sariye Nur Çoşkun",
@@ -430,24 +466,6 @@
     ],
     "image": "https://i.anitsayac.com/ii/932026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54391"
-  },
-  {
-    "id": 54392,
-    "name": "Cemre Nehir Karain",
-    "fullname": "Cemre Nehir Karain",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "19/03/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Tespit Edilemeyen",
-    "source": [
-      "https://www.odatv.com/amp/guncel/universite-ogrencisiydi-genc-sair-cemre-nehir-karain-sir-olumu-120140076"
-    ],
-    "image": "https://i.anitsayac.com/ii/942026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=54392"
   },
   {
     "id": 54380,
