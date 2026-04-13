@@ -1,5 +1,167 @@
 [
   {
+    "id": 54416,
+    "name": "Fatma Ekinci",
+    "fullname": "Fatma Ekinci",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "11/04/2026",
+    "reason": "Gasp",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/bursadaki-vahset-evinde-bogazi-kesilmis-halde-olu-bulunmustu-katil-zanlisi-caldigi-altinlarla-yakalandi-43148947"
+    ],
+    "image": "https://i.anitsayac.com/ii/1172026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54416"
+  },
+  {
+    "id": 54417,
+    "name": "Ceylinaz Şevgin",
+    "fullname": "Ceylinaz Şevgin",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "10/04/2026",
+    "reason": "Tartışma",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/zeytinburnunda-aile-faciasi-oz-kizini-oldurdu-eski-esini-yaraladi-7568832"
+    ],
+    "image": "https://i.anitsayac.com/ii/1182026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54417"
+  },
+  {
+    "id": 54421,
+    "name": "Nazlı Yılmaz",
+    "fullname": "Nazlı Yılmaz",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "10/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/yanindaki-kadini-oldurup-intihar-girisiminde-bulundu-2494038"
+    ],
+    "image": "https://i.anitsayac.com/ii/1212026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54421"
+  },
+  {
+    "id": 54413,
+    "name": "Bahar Aksüt",
+    "fullname": "Bahar Aksüt",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "09/04/2026",
+    "reason": "Hamile Olması",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/muhtarin-yasak-ask-dehseti-hamile-sevgilisini-oldurup-barajin-buzunu-kirarak-icine-atti-p308737"
+    ],
+    "image": "https://i.anitsayac.com/ii/1152026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54413"
+  },
+  {
+    "id": 54415,
+    "name": "Şahsenem Zoroğlu",
+    "fullname": "Şahsenem Zoroğlu",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "08/04/2026",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/ankarada-dehset-kiz-arkadasini-silahla-oldurup-intihar-etti-43146188"
+    ],
+    "image": "https://i.anitsayac.com/ii/1162026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54415"
+  },
+  {
+    "id": 54412,
+    "name": "Medine Hepgülnar",
+    "fullname": "Medine Hepgülnar",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "08/04/2026",
+    "reason": "Ailesini Sevmemesi",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sabah.com.tr/yasam/cekmekoyde-ailesini-katletmisti-ifadesinde-kotu-yasam-kosullarindan-dolayi-ailemin-yasamina-son-vermek-istedim-dedi-7559494"
+    ],
+    "image": "https://i.anitsayac.com/ii/1142026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54412"
+  },
+  {
+    "id": 54418,
+    "name": "Deniz Büyükköprü",
+    "fullname": "Deniz Büyükköprü",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "08/04/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/emekli-uzman-cavus-beylik-tabancasi-ile-ailesine-dehseti-yasatmisti-komsulari-anlatti-evde-bazen-bagrismalar-olurdu-43146504"
+    ],
+    "image": "https://i.anitsayac.com/ii/1192026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54418"
+  },
+  {
+    "id": 54420,
+    "name": "Irmak Nehir Büyükköprü",
+    "fullname": "Irmak Nehir Büyükköprü",
+    "age": "Reşit Değil",
+    "location": "Ankara",
+    "date": "08/04/2026",
+    "reason": "Aile İçi Tartışma",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/emekli-uzman-cavus-beylik-tabancasi-ile-ailesine-dehseti-yasatmisti-komsulari-anlatti-evde-bazen-bagrismalar-olurdu-43146504"
+    ],
+    "image": "https://i.anitsayac.com/ii/1202026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54420"
+  },
+  {
+    "id": 54411,
+    "name": "Selver Sanlı",
+    "fullname": "Selver Sanlı",
+    "age": "Reşit",
+    "location": "Çanakkale",
+    "date": "06/04/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/amp/turkiye/selver-esi-tarafindan-av-tufegiyle-katledildi-1719035"
+    ],
+    "image": "https://i.anitsayac.com/ii/1132026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54411"
+  },
+  {
     "id": 54410,
     "name": "Yonca Kölge",
     "fullname": "Yonca Kölge",
@@ -19,8 +181,8 @@
   },
   {
     "id": 54409,
-    "name": "Mürşide B.",
-    "fullname": "Mürşide B.",
+    "name": "Mürşide Böcüne",
+    "fullname": "Mürşide Böcüne",
     "age": "Reşit",
     "location": "Manisa",
     "date": "01/04/2026",
