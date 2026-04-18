@@ -1,5 +1,59 @@
 [
   {
+    "id": 54424,
+    "name": "Fatma Kurt",
+    "fullname": "Fatma Kurt",
+    "age": "Reşit",
+    "location": "Kahramanmaraş",
+    "date": "14/04/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/bir-kadin-daha-cinayeti-daha-esi-tarafindan-basindan-vuruldu-p309979"
+    ],
+    "image": "https://i.anitsayac.com/ii/1242026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54424"
+  },
+  {
+    "id": 54422,
+    "name": "Türkan Bildik",
+    "fullname": "Türkan Bildik",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "13/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sondakika.com/amp/haber-zeytinburnu-nda-kayip-es-ve-kiz-cinayeti-supheli-t-19745113/"
+    ],
+    "image": "https://i.anitsayac.com/ii/1222026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54422"
+  },
+  {
+    "id": 54423,
+    "name": "Elif K.",
+    "fullname": "Elif K.",
+    "age": "Reşit",
+    "location": "Erzurum",
+    "date": "13/04/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/yerel-haberler/erzurum-haberleri/erzurumda-3-cocuk-annesi-kadin-kocasi-tarafindan-bicakla-olduruldu-41097630"
+    ],
+    "image": "https://i.anitsayac.com/ii/1232026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54423"
+  },
+  {
     "id": 54416,
     "name": "Fatma Ekinci",
     "fullname": "Fatma Ekinci",
@@ -432,42 +486,6 @@
     "url": "https://anitsayac.com/details.aspx?id=54396"
   },
   {
-    "id": 54394,
-    "name": "S.K.",
-    "fullname": "S.K.",
-    "age": "Reşit",
-    "location": "Afyonkarahisar",
-    "date": "23/03/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Soruşturma Sürüyor",
-    "source": [
-      "https://www.kocatepegazetesi.com/termal-otelde-sok-olay-genc-kadin-odasinda-olu-bulundu/402822/"
-    ],
-    "image": "https://i.anitsayac.com/ii/962026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=54394"
-  },
-  {
-    "id": 54395,
-    "name": "Nigar Arslan",
-    "fullname": "Nigar Arslan",
-    "age": "Reşit",
-    "location": "Samsun",
-    "date": "23/03/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Eniştesi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "https://www.haberler.com/amp/samsun-da-baldizini-vuran-adam-intihar-etti-19682843-haberi/"
-    ],
-    "image": "https://i.anitsayac.com/ii/972026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=54395"
-  },
-  {
     "id": 54383,
     "name": "Aleyna Yaray",
     "fullname": "Aleyna Yaray",
@@ -502,6 +520,42 @@
     ],
     "image": "https://i.anitsayac.com/ii/862026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54384"
+  },
+  {
+    "id": 54394,
+    "name": "S.K.",
+    "fullname": "S.K.",
+    "age": "Reşit",
+    "location": "Afyonkarahisar",
+    "date": "23/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.kocatepegazetesi.com/termal-otelde-sok-olay-genc-kadin-odasinda-olu-bulundu/402822/"
+    ],
+    "image": "https://i.anitsayac.com/ii/962026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54394"
+  },
+  {
+    "id": 54395,
+    "name": "Nigar Arslan",
+    "fullname": "Nigar Arslan",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "23/03/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eniştesi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.haberler.com/amp/samsun-da-baldizini-vuran-adam-intihar-etti-19682843-haberi/"
+    ],
+    "image": "https://i.anitsayac.com/ii/972026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54395"
   },
   {
     "id": 54385,
@@ -718,24 +772,6 @@
     ],
     "image": "https://i.anitsayac.com/ii/952026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54393"
-  },
-  {
-    "id": 54379,
-    "name": "Ayşegül Eraslan",
-    "fullname": "Ayşegül Eraslan",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "14/03/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Soruşturma Sürüyor",
-    "source": [
-      "https://www.cumhuriyet.com.tr/ekonomi/istanbul-finans-merkezi-santiyesinde-calisan-isciler-direniyor-yine-taseron-yine-hak-gaspi-2487730"
-    ],
-    "image": "https://i.anitsayac.com/ii/822026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=54379"
   },
   {
     "id": 54377,
