@@ -1,5 +1,149 @@
 [
   {
+    "id": 54437,
+    "name": "Cangül Çakıroğlu",
+    "fullname": "Cangül Çakıroğlu",
+    "age": "Reşit",
+    "location": "Mersin",
+    "date": "24/04/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.takvim.com.tr/video/guncel-videolari/mersin-anamur-cangul-cakiroglu-cinayeti-cani-koca-yakalandi"
+    ],
+    "image": "https://i.anitsayac.com/ii/1322026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54437"
+  },
+  {
+    "id": 54435,
+    "name": "Nurcan Çubuk",
+    "fullname": "Nurcan Çubuk",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "23/04/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/gundem/izmirde-kadin-cinayeti-karisini-bogazindan-silahla-vurarak-oldurdu,1316267?_t=1776964459728"
+    ],
+    "image": "https://i.anitsayac.com/ii/1312026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54435"
+  },
+  {
+    "id": 54434,
+    "name": "Ayşe Karademir",
+    "fullname": "Ayşe Karademir",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "22/04/2026",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/evlat-dehseti-annesini-oldurdukten-sonra-kendi-hayatina-son-verdi-43156816"
+    ],
+    "image": "https://i.anitsayac.com/ii/1302026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54434"
+  },
+  {
+    "id": 54431,
+    "name": "Medine Kaya",
+    "fullname": "Medine Kaya",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "21/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://halktv.com.tr/service/amp/gundem/umraniyede-kadin-cinayeti-73-yasindaki-adam-esini-oldurup-polisi-aradi-1023867h"
+    ],
+    "image": "https://i.anitsayac.com/ii/1282026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54431"
+  },
+  {
+    "id": 54425,
+    "name": "Feyza Keskin",
+    "fullname": "Feyza Keskin",
+    "age": "Reşit Değil",
+    "location": "Isparta",
+    "date": "18/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://t24.com.tr/gundem/16-yasindaki-milli-sporcu-feyza-insaat-alaninda-olu-bulundu,1315158?_t=1776537838099"
+    ],
+    "image": "https://i.anitsayac.com/ii/1252026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54425"
+  },
+  {
+    "id": 54427,
+    "name": "Zekiye Zont",
+    "fullname": "Zekiye Zont",
+    "age": "Reşit",
+    "location": "Hatay",
+    "date": "16/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/hatayda-vahset-annenin-cesedi-topraga-gomulu-oglu-da-silahla-vurulmus-halde-bulundu-2-supheli-gozaltinda-43152369"
+    ],
+    "image": "https://i.anitsayac.com/ii/1262026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54427"
+  },
+  {
+    "id": 54428,
+    "name": "Ruhan Çalu",
+    "fullname": "Ruhan Çalu",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "16/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kartalda-kadin-cinayeti-evinde-bicaklanmis-halde-olu-bulundu-katil-zanlisi-kocaelide-yakalandi-43152606"
+    ],
+    "image": "https://i.anitsayac.com/ii/822026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54428"
+  },
+  {
+    "id": 54429,
+    "name": "Hatice Kübra Dilan",
+    "fullname": "Hatice Kübra Dilan",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "16/04/2026",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.turkiyegazetesi.com.tr/3-sayfa/gaziantepte-dehset-evi-bir-kadin-4-evladinin-gozu-onunde-katledildi-1784535?s=1"
+    ],
+    "image": "https://i.anitsayac.com/ii/1272026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54429"
+  },
+  {
     "id": 54424,
     "name": "Fatma Kurt",
     "fullname": "Fatma Kurt",
@@ -772,6 +916,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/952026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54393"
+  },
+  {
+    "id": 54432,
+    "name": "Nazire-Asım Kasap",
+    "fullname": "Nazire-Asım Kasap",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "14/03/2026",
+    "reason": "Gasp",
+    "by": "Torunu ve Torunun Kocası",
+    "protection": "Yok",
+    "method": "Darp, Yakılarak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/aile-boyu-vahset-43128382"
+    ],
+    "image": "https://i.anitsayac.com/ii/1292026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54432"
   },
   {
     "id": 54377,
@@ -3679,6 +3841,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/3752025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=51319"
+  },
+  {
+    "id": 54436,
+    "name": "Alev Karagöz",
+    "fullname": "Alev Karagöz",
+    "age": "Reşit",
+    "location": "Afyonkarahisar",
+    "date": "18/10/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/intihar-dendi-cinayet-cikti-alev-karagoz-cinayetinde-eski-esi-tutuklandi-43157601"
+    ],
+    "image": "https://i.anitsayac.com/ii/4582025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54436"
   },
   {
     "id": 51316,
@@ -47775,6 +47955,25 @@
     ],
     "image": "https://i.anitsayac.com/ii/1172020.jpg",
     "url": "https://anitsayac.com/details.aspx?id=3375"
+  },
+  {
+    "id": 54426,
+    "name": "Gülistan Doku",
+    "fullname": "Gülistan Doku",
+    "age": "Reşit",
+    "location": "Tunceli",
+    "date": "05/04/2020",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/gulistan-doku-sorusturmasi-eski-tunceli-valisi-nin-oglu-mustafa-turkay-sonel-tutuklandi-p312401",
+      "https://www.sozcu.com.tr/son-dakika-gulistan-doku-dosyasinda-kritik-esik-tutuklu-sayisi-8-e-yukseldi-p312248"
+    ],
+    "image": "https://i.anitsayac.com/ii/4242020.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54426"
   },
   {
     "id": 3399,
@@ -93506,6 +93705,24 @@
     "url": "https://anitsayac.com/details.aspx?id=1314"
   },
   {
+    "id": 54430,
+    "name": "Yasemin Akpan",
+    "fullname": "Yasemin Akpan",
+    "age": "",
+    "location": "Ankara",
+    "date": "13/11/2011",
+    "reason": "Tartışma  Reddedilme",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/polis-memuru-esini-ve-amirini-oldurdu-19229576"
+    ],
+    "image": "https://i.anitsayac.com/ii/1352011.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54430"
+  },
+  {
     "id": 868,
     "name": "Gülay Armağan",
     "fullname": "Gülay Armağan",
@@ -102426,6 +102643,24 @@
     ],
     "image": "",
     "url": "https://anitsayac.com/details.aspx?id=206"
+  },
+  {
+    "id": 54433,
+    "name": "Müzeyyen Hiçgüngörmez",
+    "fullname": "Müzeyyen Hiçgüngörmez",
+    "age": "",
+    "location": "İstanbul",
+    "date": "29/05/2008",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.turkiyegazetesi.com.tr/3-sayfa/muzeyyen-hicgungormez-cinayeti-18-yil-sonra-aydinlatildi-faili-baska-bir-suctan-yakal-1785912?s=1"
+    ],
+    "image": "https://i.anitsayac.com/ii/702008.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54433"
   },
   {
     "id": 1384,
