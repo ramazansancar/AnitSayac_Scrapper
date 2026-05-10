@@ -1,5 +1,149 @@
 [
   {
+    "id": 54446,
+    "name": "Kübra Yapıcı",
+    "fullname": "Kübra Yapıcı",
+    "age": "Reşit",
+    "location": "Burdur",
+    "date": "07/05/2026",
+    "reason": "Borç Para",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kubra-yapici-cinayetinde-yeni-gelisme-cansiz-bedeninin-bir-bolumu-bulundu-43168306"
+    ],
+    "image": "https://i.anitsayac.com/ii/1402026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54446"
+  },
+  {
+    "id": 54441,
+    "name": "Demet B.",
+    "fullname": "Demet B.",
+    "age": "Reşit",
+    "location": "Kayseri",
+    "date": "01/05/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kayseride-dehset-tartistigi-esini-oldurup-intihar-etti-43163789"
+    ],
+    "image": "https://i.anitsayac.com/ii/1352026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54441"
+  },
+  {
+    "id": 54442,
+    "name": "Gizem Özdemir",
+    "fullname": "Gizem Özdemir",
+    "age": "Reşit Değil",
+    "location": "Edirne",
+    "date": "01/05/2026",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/edirnede-korkunc-olay-14-yasindaki-gizem-ozdemir-arkadasi-tarafindan-tufekle-vurularak-olduruldu-43163606"
+    ],
+    "image": "https://i.anitsayac.com/ii/1362026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54442"
+  },
+  {
+    "id": 54443,
+    "name": "Serap Yılmaz",
+    "fullname": "Serap Yılmaz",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "30/04/2026",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://t24.com.tr/gundem/muglada-kadin-cinayeti-tartistigi-iki-kadini-katleden-erkek-intihara-kalkissti,1318240?_t=1777565029057"
+    ],
+    "image": "https://i.anitsayac.com/ii/1372026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54443"
+  },
+  {
+    "id": 54444,
+    "name": "Hatice Yeysikan",
+    "fullname": "Hatice Yeysikan",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "30/04/2026",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://t24.com.tr/gundem/muglada-kadin-cinayeti-tartistigi-iki-kadini-katleden-erkek-intihara-kalkissti,1318240?_t=1777565029057"
+    ],
+    "image": "https://i.anitsayac.com/ii/1382026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54444"
+  },
+  {
+    "id": 54445,
+    "name": "Müslümat Özer",
+    "fullname": "Müslümat Özer",
+    "age": "Reşit",
+    "location": "Kars",
+    "date": "30/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Damadı",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/ardahanda-korkunc-olay-kayip-olarak-aranan-kadin-olu-bulundu-damadi-gozaltinda-43162477"
+    ],
+    "image": "https://i.anitsayac.com/ii/1392026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54445"
+  },
+  {
+    "id": 54438,
+    "name": "Hatice Kocaefe",
+    "fullname": "Hatice Kocaefe",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "29/04/2026",
+    "reason": "Husumet",
+    "by": "Tanııdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/bursa-da-kanli-pusu-genc-avukat-olduruldu-p315252"
+    ],
+    "image": "https://i.anitsayac.com/ii/1332026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54438"
+  },
+  {
+    "id": 54440,
+    "name": "Serpil Özlem Argüden",
+    "fullname": "Serpil Özlem Argüden",
+    "age": "Reşit",
+    "location": "Çanakkale",
+    "date": "28/04/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.evrensel.net/haber/5981593/canakkalede-kadin-cinayeti-serpil-ozlem-arguden-evli-oldugu-erkek-tarafindan-olduruldu"
+    ],
+    "image": "https://i.anitsayac.com/ii/1342026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54440"
+  },
+  {
     "id": 54437,
     "name": "Cangül Çakıroğlu",
     "fullname": "Cangül Çakıroğlu",
