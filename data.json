@@ -1,5 +1,77 @@
 [
   {
+    "id": 54449,
+    "name": "Farkhondeh Ghaem Maghami",
+    "fullname": "Farkhondeh Ghaem Maghami",
+    "age": "Reşit",
+    "location": "Kırşehir",
+    "date": "17/05/2026",
+    "reason": "Tartışma",
+    "by": "Erkek Arkadaşı",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/istanbulda-kaybolan-iranli-kadinin-kirsehirde-cesedi-bulunmustu-vahsetteki-sir-perdesi-aralandi-cinayeti-itiraf-etti-1-kisi-tutuklandi-43175593"
+    ],
+    "image": "https://i.anitsayac.com/ii/1432026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54449"
+  },
+  {
+    "id": 54450,
+    "name": "Türkan Biçer",
+    "fullname": "Türkan Biçer",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "17/05/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Nişanlısı",
+    "protection": "Yok",
+    "method": "Yükesekten Düşme",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/turkan-bicer-in-sir-olumu-ciplak-halde-balkondan-dusmus-p320283"
+    ],
+    "image": "https://i.anitsayac.com/ii/1442026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54450"
+  },
+  {
+    "id": 54451,
+    "name": "Nazife Dinçer",
+    "fullname": "Nazife Dinçer",
+    "age": "Reşit",
+    "location": "Konya",
+    "date": "16/05/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/parkta-elleri-kanli-halde-bulundu-anne-ve-babasini-oldurdugu-ortaya-cikti-p320210"
+    ],
+    "image": "https://i.anitsayac.com/ii/1452026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54451"
+  },
+  {
+    "id": 54448,
+    "name": "Amine Bozkurt",
+    "fullname": "Amine Bozkurt",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "15/05/2026",
+    "reason": "Tartışma",
+    "by": "Dayısı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/akran-zorbaligi-yine-can-aldi-son-kurban-15-yasindaki-abdulbaki-demirel-43173983"
+    ],
+    "image": "https://i.anitsayac.com/ii/1422026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54448"
+  },
+  {
     "id": 54447,
     "name": "Fatma Karakaya",
     "fullname": "Fatma Karakaya",
