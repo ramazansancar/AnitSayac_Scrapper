@@ -1,5 +1,23 @@
 [
   {
+    "id": 54453,
+    "name": "Arzu Özden",
+    "fullname": "Arzu Özden",
+    "age": "Reşit",
+    "location": "Mersin",
+    "date": "20/05/2026",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/caninin-rotasi-barakada-bitti-6-kisiyi-oldurdu-8-kisiyi-yaraladi-43177550"
+    ],
+    "image": "https://i.anitsayac.com/ii/1462026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54453"
+  },
+  {
     "id": 54449,
     "name": "Farkhondeh Ghaem Maghami",
     "fullname": "Farkhondeh Ghaem Maghami",
@@ -6889,6 +6907,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2132025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=49204"
+  },
+  {
+    "id": 54452,
+    "name": "Muazzez Bayhan",
+    "fullname": "Muazzez Bayhan",
+    "age": "Reşit",
+    "location": "Konya",
+    "date": "27/06/2025",
+    "reason": "Kıskançlık",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/cezaevinden-izinli-cikip-eski-esini-oldurdu-dere-yatagina-gomdu-p320672"
+    ],
+    "image": "https://i.anitsayac.com/ii/4592025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54452"
   },
   {
     "id": 49200,
