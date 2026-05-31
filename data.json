@@ -1,5 +1,59 @@
 [
   {
+    "id": 54457,
+    "name": "Emine Esen",
+    "fullname": "Emine Esen",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "26/05/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.evrensel.net/haber/5985982/mardin-kiziltepede-supheli-kadin-olumu-emine-esen-silahla-vurulmus-halde-bulundu"
+    ],
+    "image": "https://i.anitsayac.com/ii/1492026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54457"
+  },
+  {
+    "id": 54454,
+    "name": "Defne Boz",
+    "fullname": "Defne Boz",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "25/05/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/defnenin-supheli-olumu-43183518"
+    ],
+    "image": "https://i.anitsayac.com/ii/1472026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54454"
+  },
+  {
+    "id": 54455,
+    "name": "Rukiye Görgin",
+    "fullname": "Rukiye Görgin",
+    "age": "Reşit",
+    "location": "Sakarya",
+    "date": "25/05/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/golette-kadin-cesedi-bulundu-43183546"
+    ],
+    "image": "https://i.anitsayac.com/ii/1482026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54455"
+  },
+  {
     "id": 54453,
     "name": "Arzu Özden",
     "fullname": "Arzu Özden",
@@ -16,6 +70,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1462026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54453"
+  },
+  {
+    "id": 54458,
+    "name": "Zeliha Akkoyun",
+    "fullname": "Zeliha Akkoyun",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "18/05/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "vhttps://www.sozcu.com.tr/tip-ogrencisi-zeliha-dan-aci-haber-cansiz-bedeni-istanbul-bogazi-nda-bulundu-p320651"
+    ],
+    "image": "https://i.anitsayac.com/ii/1502026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54458"
   },
   {
     "id": 54449,
@@ -102316,6 +102388,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1232009.jpg",
     "url": "https://anitsayac.com/details.aspx?id=3346"
+  },
+  {
+    "id": 54456,
+    "name": "Nisan Yiğit",
+    "fullname": "Nisan Yiğit",
+    "age": "",
+    "location": "Şanlıurfa",
+    "date": "07/08/2026",
+    "reason": "Kuma olarak kabul görmeme",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/babamla-evlenemezsin-dedim-dinlemedi-9604698"
+    ],
+    "image": "https://i.anitsayac.com/ii/712008.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54456"
   },
   {
     "id": 196,
