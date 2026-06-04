@@ -1,5 +1,149 @@
 [
   {
+    "id": 54462,
+    "name": "İsmi Bilinmiyor",
+    "fullname": "İsmi Bilinmiyor",
+    "age": "Tespit Edilemeyen",
+    "location": "İstanbul",
+    "date": "03/06/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Tespit Edilemeyen",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/avcilarda-korkunc-olay-denizde-kadin-cesedi-bulundu-43191620"
+    ],
+    "image": "https://i.anitsayac.com/ii/1542026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54462"
+  },
+  {
+    "id": 54463,
+    "name": "Müjde Güngür",
+    "fullname": "Müjde Güngür",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "03/06/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/oglunun-gozu-onunde-esini-katletti-43192215"
+    ],
+    "image": "https://i.anitsayac.com/ii/1552026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54463"
+  },
+  {
+    "id": 54459,
+    "name": "Arzu Pekin",
+    "fullname": "Arzu Pekin",
+    "age": "Reşit",
+    "location": "Gümüşhane",
+    "date": "02/06/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/gumushanede-vahset-26-yasindaki-arzu-pekin-esi-tarafindan-odunla-dovulerek-olduruldu-43190910"
+    ],
+    "image": "https://i.anitsayac.com/ii/1512026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54459"
+  },
+  {
+    "id": 54460,
+    "name": "Türkan Biçer",
+    "fullname": "Türkan Biçer",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "02/06/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Nişanlısı",
+    "protection": "Yok",
+    "method": "Yükesekten Düşme",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/turkan-bicerin-dusme-ani-goruntusu-ortaya-cikti-1-5-dakika-balkonda-asili-kalmis-43191021"
+    ],
+    "image": "https://i.anitsayac.com/ii/1522026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54460"
+  },
+  {
+    "id": 54461,
+    "name": "Ayşe S.",
+    "fullname": "Ayşe S.",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "02/06/2026",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/annesini-bicaklayip-dehset-sacti-hastaneye-kaldirilan-kadin-hayatini-kaybetti-43191102"
+    ],
+    "image": "https://i.anitsayac.com/ii/1532026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54461"
+  },
+  {
+    "id": 54464,
+    "name": "Derya ÇeliK",
+    "fullname": "Derya ÇeliK",
+    "age": "Reşit",
+    "location": "Elazığ",
+    "date": "01/06/2026",
+    "reason": "Boşanma Talebi  Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/terk-edilmeyi-hazmedemeyen-koca-deryayi-katletti-43189214"
+    ],
+    "image": "https://i.anitsayac.com/ii/1562026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54464"
+  },
+  {
+    "id": 54465,
+    "name": "Ayten Öztürk",
+    "fullname": "Ayten Öztürk",
+    "age": "Reşit",
+    "location": "Kırklareli",
+    "date": "30/05/2026",
+    "reason": "Tartışma",
+    "by": "Yeğeni",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/yazar-ayten-ozturk-yegeni-tarafindan-olduruldu-43188139"
+    ],
+    "image": "https://i.anitsayac.com/ii/1572026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54465"
+  },
+  {
+    "id": 54466,
+    "name": "Maya Ülker",
+    "fullname": "Maya Ülker",
+    "age": "Reşit",
+    "location": "Çanakkale",
+    "date": "30/05/2026",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/73-yasindaki-adam-birlikte-yasadigi-kadini-sopayla-doverek-oldurdu-43188399"
+    ],
+    "image": "https://i.anitsayac.com/ii/1582026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54466"
+  },
+  {
     "id": 54457,
     "name": "Emine Esen",
     "fullname": "Emine Esen",
