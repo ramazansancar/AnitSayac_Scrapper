@@ -1,5 +1,59 @@
 [
   {
+    "id": 54469,
+    "name": "Arzu Pekin",
+    "fullname": "Arzu Pekin",
+    "age": "Reşit",
+    "location": "Gümüşhane",
+    "date": "07/06/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/1-5-yillik-esini-sopayla-dovup-katletti-firari-cani-yakalandiktan-sonra-tutuklandi-43196585"
+    ],
+    "image": "https://i.anitsayac.com/ii/1612026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54469"
+  },
+  {
+    "id": 54468,
+    "name": "Yağmur Demirkan",
+    "fullname": "Yağmur Demirkan",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "05/06/2026",
+    "reason": "Kız kardeşinin eşinin karısıyla ilişki yaşadığını düşünmesi",
+    "by": "Abisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/bursada-kanli-pusu-marketten-donen-kiz-kardesi-ve-enistesine-kursun-yagdirdi-43194157"
+    ],
+    "image": "https://i.anitsayac.com/ii/1602026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54468"
+  },
+  {
+    "id": 54467,
+    "name": "Heriman Altundağ",
+    "fullname": "Heriman Altundağ",
+    "age": "Reşit",
+    "location": "Şanlıurfa",
+    "date": "04/06/2026",
+    "reason": "Oğluna engel olmaya çalışırken",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/sanliurfada-kavgayi-ayirmaya-calisan-annesinin-olumune-neden-oldu-43192751"
+    ],
+    "image": "https://i.anitsayac.com/ii/1592026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54467"
+  },
+  {
     "id": 54462,
     "name": "İsmi Bilinmiyor",
     "fullname": "İsmi Bilinmiyor",
