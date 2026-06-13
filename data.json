@@ -1,5 +1,96 @@
 [
   {
+    "id": 54470,
+    "name": "Irmak Ayşe Koparan",
+    "fullname": "Irmak Ayşe Koparan",
+    "age": "Reşit",
+    "location": "Ağrı",
+    "date": "09/06/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/agrida-supheli-olum-irmak-ogretmen-evinde-olu-bulundu-43198435"
+    ],
+    "image": "https://i.anitsayac.com/ii/1622026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54470"
+  },
+  {
+    "id": 54471,
+    "name": "Ayfer Karakayışlı",
+    "fullname": "Ayfer Karakayışlı",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "09/06/2026",
+    "reason": "Kıskançlık",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Kimyasal Saldırı",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/agrida-supheli-olum-irmak-ogretmen-evinde-olu-bulundu-43198435"
+    ],
+    "image": "https://i.anitsayac.com/ii/1632026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54471"
+  },
+  {
+    "id": 54472,
+    "name": "Nurgül Aslan",
+    "fullname": "Nurgül Aslan",
+    "age": "Reşit",
+    "location": "Aydın",
+    "date": "09/06/2026",
+    "reason": "Aldatma Şüphesi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/yasak-ask-cinayetinde-can-veren-nurgul-un-cenazesini-ailesi-kabul-etmedi-p326484",
+      "https://www.milliyet.com.tr/gundem/hamile-esini-ve-yanindaki-kisiyi-katledip-itiraf-videosu-cekmisti-nefes-kesen-operasyonla-yakalandi-7601798"
+    ],
+    "image": "https://i.anitsayac.com/ii/1642026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54472"
+  },
+  {
+    "id": 54473,
+    "name": "Hamide Çiftçi",
+    "fullname": "Hamide Çiftçi",
+    "age": "Reşit",
+    "location": "Hakkari",
+    "date": "09/06/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sozcu.com.tr/yasadigi-evde-olu-bulunan-kadinin-kayip-esi-yakalandi-p326383"
+    ],
+    "image": "https://i.anitsayac.com/ii/1652026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=54473"
+  },
+  {
+    "id": 55452,
+    "name": "S.G.",
+    "fullname": "S.G.",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "08/06/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Hız Halinde ki Araçtan Atılma",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.birgun.net/haber/mugla-da-kadin-cinayeti-seyir-halindeki-otomobilden-yola-atildi-717032"
+    ],
+    "image": "https://i.anitsayac.com/ii/1692026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55452"
+  },
+  {
     "id": 54469,
     "name": "Arzu Pekin",
     "fullname": "Arzu Pekin",
@@ -18,6 +109,24 @@
     "url": "https://anitsayac.com/details.aspx?id=54469"
   },
   {
+    "id": 55453,
+    "name": "Metanet Altınpolat",
+    "fullname": "Metanet Altınpolat",
+    "age": "Reşit",
+    "location": "Denizli",
+    "date": "06/06/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sabah.com.tr/yasam/eski-sevgilisini-otomobilin-icinde-oldurdu-7597624"
+    ],
+    "image": "https://i.anitsayac.com/ii/1702026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55453"
+  },
+  {
     "id": 54468,
     "name": "Yağmur Demirkan",
     "fullname": "Yağmur Demirkan",
@@ -34,6 +143,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1602026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54468"
+  },
+  {
+    "id": 55451,
+    "name": "N.Ş.",
+    "fullname": "N.Ş.",
+    "age": "Reşit",
+    "location": "Konya",
+    "date": "05/06/2026",
+    "reason": "Gasp",
+    "by": "Komşusu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/5987079/konyada-kadin-cinayeti-komsusunu-olduren-erkek-gozaltina-alindi"
+    ],
+    "image": "https://i.anitsayac.com/ii/1682026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55451"
   },
   {
     "id": 54467,
@@ -160,6 +287,42 @@
     ],
     "image": "https://i.anitsayac.com/ii/1562026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54464"
+  },
+  {
+    "id": 55448,
+    "name": "Telli Novruzova",
+    "fullname": "Telli Novruzova",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "31/05/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.birgun.net/haber/chpde-28-pm-uyesi-istifa-etti-tuzuk-geregi-45-gun-icinde-kurultaya-gidilmesi-gerekiyor-717516"
+    ],
+    "image": "https://i.anitsayac.com/ii/1662026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55448"
+  },
+  {
+    "id": 55449,
+    "name": "Hene Ebu Zeynep",
+    "fullname": "Hene Ebu Zeynep",
+    "age": "Reşit",
+    "location": "Konya",
+    "date": "31/05/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.evrensel.net/haber/5986386/konyada-supheli-kadin-olumu-19-yasindaki-kadin-calistigi-kafenin-deposunda-olu-bulundu"
+    ],
+    "image": "https://i.anitsayac.com/ii/1672026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55449"
   },
   {
     "id": 54465,
@@ -29267,7 +29430,7 @@
     "source": [
       "https://www.hurriyet.com.tr/gundem/aydindaki-vahset-2-aylik-esini-bogazini-keserek-oldurmustu-akli-dengesinin-yerinde-olmadigi-karariyla-serbest-birakildi-42979943"
     ],
-    "image": "https://i.anitsayac.com/ii/2152022.jpg",
+    "image": "https://i.anitsayac.com/ii/4152022.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50366"
   },
   {
@@ -32688,6 +32851,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/4112022.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50222"
+  },
+  {
+    "id": 55450,
+    "name": "Burçak Şişman",
+    "fullname": "Burçak Şişman",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "01/04/2022",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/gundem/kagithanede-supheli-dusus-komadan-uyanan-kadin-esinin-kendisini-balkondan-ittigini-anlatti,1325365?_t=1781169357904"
+    ],
+    "image": "https://i.anitsayac.com/ii/4162022.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55450"
   },
   {
     "id": 7226,
@@ -75363,13 +75544,14 @@
     "age": "",
     "location": "İstanbul",
     "date": "26/03/2016",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
+    "reason": "Dansözlük Yapması",
+    "by": "Akrabası",
     "protection": "Yok",
     "method": "Ateşli Silah",
-    "status": "Tespit Edilemeyen",
+    "status": "Tutuklu",
     "source": [
-      "http://www.hurriyet.com.tr/daha-kac-kadin-olecek-yeter-artik-40076280"
+      "http://www.hurriyet.com.tr/daha-kac-kadin-olecek-yeter-artik-40076280",
+      "https://www.hurriyet.com.tr/gundem/son-dakika-10-yil-once-oldurulmustu-mezdeke-danscisi-aynur-kanbur-cinayetinde-3-supheli-yakalandi-43198350"
     ],
     "image": "https://i.anitsayac.com/ii/372016.jpg",
     "url": "https://anitsayac.com/details.aspx?id=1688"
