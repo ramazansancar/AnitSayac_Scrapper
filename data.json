@@ -1,5 +1,113 @@
 [
   {
+    "id": 55455,
+    "name": "Aslıhan Öztürk Bulak",
+    "fullname": "Aslıhan Öztürk Bulak",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "15/06/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/gundem/ogretmen-esini-ve-kayinpederini-olduren-zanlinin-ifadesine-ulasildi-surekli-tayin-istiyordu-ortak-hesaptaki-para-yuzunden-tartistik,1329031?_t=1781534249498"
+    ],
+    "image": "https://i.anitsayac.com/ii/1722026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55455"
+  },
+  {
+    "id": 55459,
+    "name": "Hedla Çin",
+    "fullname": "Hedla Çin",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "15/06/2026",
+    "reason": "Maganda Kurşunu",
+    "by": "Tanımadığı Biri",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/mardinde-korkunc-olay-maganda-kursunu-evinin-balkonunda-oturan-kadini-oldurdu-43206294"
+    ],
+    "image": "https://i.anitsayac.com/ii/1762026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55459"
+  },
+  {
+    "id": 55460,
+    "name": "Ulviye Yılmaz",
+    "fullname": "Ulviye Yılmaz",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "14/06/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/esini-silahla-oldurup-kizini-yaraladi-43205006"
+    ],
+    "image": "https://i.anitsayac.com/ii/1772026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55460"
+  },
+  {
+    "id": 55456,
+    "name": "Adilşah Gezer",
+    "fullname": "Adilşah Gezer",
+    "age": "Reşit",
+    "location": "Hakkari",
+    "date": "14/06/2026",
+    "reason": "Terkedilme",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://t24.com.tr/gundem/hakkaride-aile-katliami-uzman-cavus-kayinpederinin-evini-basti-4-olu,1328824?_t=1781534523096"
+    ],
+    "image": "https://i.anitsayac.com/ii/1732026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55456"
+  },
+  {
+    "id": 55457,
+    "name": "Habiba Demir",
+    "fullname": "Habiba Demir",
+    "age": "Reşit",
+    "location": "Hakkari",
+    "date": "14/06/2026",
+    "reason": "Kızını Damadından Korumaya Çalışırken",
+    "by": "Damadı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://t24.com.tr/gundem/hakkaride-aile-katliami-uzman-cavus-kayinpederinin-evini-basti-4-olu,1328824?_t=1781534523096"
+    ],
+    "image": "https://i.anitsayac.com/ii/1742026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55457"
+  },
+  {
+    "id": 55458,
+    "name": "Keve Demir",
+    "fullname": "Keve Demir",
+    "age": "Reşit",
+    "location": "Hakkari",
+    "date": "14/06/2026",
+    "reason": "Kocasının Kardeşini Korumaya Çalışırken",
+    "by": "Eniştesi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://t24.com.tr/gundem/hakkaride-aile-katliami-uzman-cavus-kayinpederinin-evini-basti-4-olu,1328824?_t=1781534523096"
+    ],
+    "image": "https://i.anitsayac.com/ii/1752026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55458"
+  },
+  {
     "id": 55454,
     "name": "Y.S.",
     "fullname": "Y.S.",
@@ -6683,12 +6791,13 @@
     "location": "Çanakkale",
     "date": "22/07/2025",
     "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
+    "by": "Sevgilisi",
     "protection": "Yok",
     "method": "Tespit Edilemeyen",
-    "status": "Soruşturma Sürüyor",
+    "status": "Tutuklu",
     "source": [
-      "https://www.sozcu.com.tr/canakkale-de-vahset-2-gun-sevgilisinin-strec-filme-sarilmis-cesediyle-yasadi-p197418"
+      "https://www.sozcu.com.tr/canakkale-de-vahset-2-gun-sevgilisinin-strec-filme-sarilmis-cesediyle-yasadi-p197418",
+      "https://t24.com.tr/gundem/dinara-alya-urkasimova-cinayetinde-karar-dexter-detayi-dosyaya-girmisti,1328781?_t=1781534987828"
     ],
     "image": "https://i.anitsayac.com/ii/2462025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50229"
@@ -8246,24 +8355,6 @@
     "url": "https://anitsayac.com/details.aspx?id=42197"
   },
   {
-    "id": 42190,
-    "name": "Hatice Çınar",
-    "fullname": "Hatice Çınar",
-    "age": "Reşit",
-    "location": "Ankara",
-    "date": "05/05/2025",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tanıdığı Birisi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/cani-komsu-42788821"
-    ],
-    "image": "https://i.anitsayac.com/ii/1612025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=42190"
-  },
-  {
     "id": 42193,
     "name": "Bahar Aksu",
     "fullname": "Bahar Aksu",
@@ -8280,6 +8371,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1642025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=42193"
+  },
+  {
+    "id": 42190,
+    "name": "Hatice Çınar",
+    "fullname": "Hatice Çınar",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "05/05/2025",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/cani-komsu-42788821"
+    ],
+    "image": "https://i.anitsayac.com/ii/1612025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42190"
   },
   {
     "id": 42191,
