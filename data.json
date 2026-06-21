@@ -1,21 +1,39 @@
 [
   {
-    "id": 55455,
-    "name": "Aslıhan Öztürk Bulak",
-    "fullname": "Aslıhan Öztürk Bulak",
+    "id": 55461,
+    "name": "Lamiya Azazi",
+    "fullname": "Lamiya Azazi",
     "age": "Reşit",
-    "location": "Antalya",
-    "date": "15/06/2026",
-    "reason": "Tartışma",
-    "by": "Kocası",
+    "location": "Hatay",
+    "date": "20/06/2026",
+    "reason": "Ayrılma Kararı",
+    "by": "Nişanlısı",
     "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
-      "https://t24.com.tr/gundem/ogretmen-esini-ve-kayinpederini-olduren-zanlinin-ifadesine-ulasildi-surekli-tayin-istiyordu-ortak-hesaptaki-para-yuzunden-tartistik,1329031?_t=1781534249498"
+      "https://t24.com.tr/gundem/hatay-ve-istanbulda-kadin-cinayeti-lamiya-ve-sultan-erkek-siddetiyle-katledildi,1330169?_t=1781965281642"
     ],
-    "image": "https://i.anitsayac.com/ii/1722026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=55455"
+    "image": "https://i.anitsayac.com/ii/1782026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55461"
+  },
+  {
+    "id": 55462,
+    "name": "Sultan Ç.",
+    "fullname": "Sultan Ç.",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "20/06/2026",
+    "reason": "Ayrılma Kararı",
+    "by": "Nişanlısı",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/gundem/hatay-ve-istanbulda-kadin-cinayeti-lamiya-ve-sultan-erkek-siddetiyle-katledildi,1330169?_t=1781965281642"
+    ],
+    "image": "https://i.anitsayac.com/ii/1792026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55462"
   },
   {
     "id": 55459,
@@ -36,22 +54,22 @@
     "url": "https://anitsayac.com/details.aspx?id=55459"
   },
   {
-    "id": 55460,
-    "name": "Ulviye Yılmaz",
-    "fullname": "Ulviye Yılmaz",
+    "id": 55455,
+    "name": "Aslıhan Öztürk Bulak",
+    "fullname": "Aslıhan Öztürk Bulak",
     "age": "Reşit",
-    "location": "Manisa",
-    "date": "14/06/2026",
+    "location": "Antalya",
+    "date": "15/06/2026",
     "reason": "Tartışma",
     "by": "Kocası",
     "protection": "Yok",
     "method": "Ateşli Silah",
     "status": "Tutuklu",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/esini-silahla-oldurup-kizini-yaraladi-43205006"
+      "https://t24.com.tr/gundem/ogretmen-esini-ve-kayinpederini-olduren-zanlinin-ifadesine-ulasildi-surekli-tayin-istiyordu-ortak-hesaptaki-para-yuzunden-tartistik,1329031?_t=1781534249498"
     ],
-    "image": "https://i.anitsayac.com/ii/1772026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=55460"
+    "image": "https://i.anitsayac.com/ii/1722026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55455"
   },
   {
     "id": 55456,
@@ -106,6 +124,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1752026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=55458"
+  },
+  {
+    "id": 55460,
+    "name": "Ulviye Yılmaz",
+    "fullname": "Ulviye Yılmaz",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "14/06/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/esini-silahla-oldurup-kizini-yaraladi-43205006"
+    ],
+    "image": "https://i.anitsayac.com/ii/1772026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55460"
   },
   {
     "id": 55454,
@@ -8355,24 +8391,6 @@
     "url": "https://anitsayac.com/details.aspx?id=42197"
   },
   {
-    "id": 42193,
-    "name": "Bahar Aksu",
-    "fullname": "Bahar Aksu",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "05/05/2025",
-    "reason": "Reddedilme",
-    "by": "Eski Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.cumhuriyet.com.tr/turkiye/kacirilmak-istendi-silahla-katledildi-kadinlar-bahar-aksu-icin-2335580"
-    ],
-    "image": "https://i.anitsayac.com/ii/1642025.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=42193"
-  },
-  {
     "id": 42190,
     "name": "Hatice Çınar",
     "fullname": "Hatice Çınar",
@@ -8389,6 +8407,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1612025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=42190"
+  },
+  {
+    "id": 42193,
+    "name": "Bahar Aksu",
+    "fullname": "Bahar Aksu",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "05/05/2025",
+    "reason": "Reddedilme",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/kacirilmak-istendi-silahla-katledildi-kadinlar-bahar-aksu-icin-2335580"
+    ],
+    "image": "https://i.anitsayac.com/ii/1642025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=42193"
   },
   {
     "id": 42191,
