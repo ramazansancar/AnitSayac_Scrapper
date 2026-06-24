@@ -1,5 +1,131 @@
 [
   {
+    "id": 55467,
+    "name": "Emine S.",
+    "fullname": "Emine S.",
+    "age": "Reşit",
+    "location": "Ordu",
+    "date": "23/06/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/vahsi-koca-esini-oldurdu-jandarma-ya-teslim-oldu-p330528"
+    ],
+    "image": "https://i.anitsayac.com/ii/1842026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55467"
+  },
+  {
+    "id": 55468,
+    "name": "Emine Kurt",
+    "fullname": "Emine Kurt",
+    "age": "Reşit",
+    "location": "Şanlıurfa",
+    "date": "23/06/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğulma",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/4-cocuk-annesi-emine-yi-bogarak-oldurup-intihar-susu-vermis-p330476"
+    ],
+    "image": "https://i.anitsayac.com/ii/1852026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55468"
+  },
+  {
+    "id": 55469,
+    "name": "Feray Timurkaan",
+    "fullname": "Feray Timurkaan",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "23/06/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/cani-baba-bir-aileyi-yok-etti-p330418"
+    ],
+    "image": "https://i.anitsayac.com/ii/1862026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55469"
+  },
+  {
+    "id": 55470,
+    "name": "Beyza Timurkaan",
+    "fullname": "Beyza Timurkaan",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "23/06/2026",
+    "reason": "Tartışma",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/cani-baba-bir-aileyi-yok-etti-p330418"
+    ],
+    "image": "https://i.anitsayac.com/ii/1872026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55470"
+  },
+  {
+    "id": 55464,
+    "name": "Zahide S.",
+    "fullname": "Zahide S.",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "22/06/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.sozcu.com.tr/ankara-da-dehset-karisini-piknikte-katletti-her-yerde-araniyor-p330164"
+    ],
+    "image": "https://i.anitsayac.com/ii/1812026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55464"
+  },
+  {
+    "id": 55466,
+    "name": "Birsen Yıldırım",
+    "fullname": "Birsen Yıldırım",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "22/06/2026",
+    "reason": "Namus  Tartışma",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/gundem/bosandiktan-sonra-evine-donen-kizini-olduren-baba-tutuklandi,1330681?_t=1782153415220"
+    ],
+    "image": "https://i.anitsayac.com/ii/1832026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55466"
+  },
+  {
+    "id": 55463,
+    "name": "Sultan Çağan",
+    "fullname": "Sultan Çağan",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "21/06/2026",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Darp, Boğulma",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/katili-tirnak-izleri-ele-verdi-tasla-kafasina-vurup-iple-bogdu-43212953"
+    ],
+    "image": "https://i.anitsayac.com/ii/1802026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55463"
+  },
+  {
     "id": 55461,
     "name": "Lamiya Azazi",
     "fullname": "Lamiya Azazi",
@@ -34,6 +160,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1792026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=55462"
+  },
+  {
+    "id": 55465,
+    "name": "Aysel Yıldırım",
+    "fullname": "Aysel Yıldırım",
+    "age": "Reşit",
+    "location": "Malatya",
+    "date": "19/06/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birileri",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "4 kişi gözaltında",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/3-aydir-aranan-aysel-katledilmis-43213838"
+    ],
+    "image": "https://i.anitsayac.com/ii/1822026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55465"
   },
   {
     "id": 55459,
