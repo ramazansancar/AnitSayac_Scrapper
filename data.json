@@ -1,5 +1,41 @@
 [
   {
+    "id": 55475,
+    "name": "Ece Naz",
+    "fullname": "Ece Naz",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "29/06/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birileri",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/gundem/18-yasindaki-ece-naz-basindan-vurularak-olduruldu,1332526?_t=1782756817577"
+    ],
+    "image": "https://i.anitsayac.com/ii/1892026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55475"
+  },
+  {
+    "id": 55471,
+    "name": "S.K.",
+    "fullname": "S.K.",
+    "age": "Reşit",
+    "location": "Erzincan",
+    "date": "26/06/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/erzincanda-dehset-eski-esi-ile-yanindaki-kisiyi-pompali-tufekle-oldurdu-43219152"
+    ],
+    "image": "https://i.anitsayac.com/ii/1882026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55471"
+  },
+  {
     "id": 55467,
     "name": "Emine S.",
     "fullname": "Emine S.",
@@ -16173,6 +16209,42 @@
     ],
     "image": "https://i.anitsayac.com/ii/1932024.jpg",
     "url": "https://anitsayac.com/details.aspx?id=36804"
+  },
+  {
+    "id": 55472,
+    "name": "Cemre Gürpınar",
+    "fullname": "Cemre Gürpınar",
+    "age": "Reşit",
+    "location": "Eskişehir",
+    "date": "15/06/2024",
+    "reason": "Tartışma",
+    "by": "Üvey Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.haberturk.com/eskisehir-haberleri/108445066-esini-ve-uvey-kizini-tabancayla-oldurup-intihar-etti"
+    ],
+    "image": "https://i.anitsayac.com/ii/4562024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55472"
+  },
+  {
+    "id": 55473,
+    "name": "Sibel Çifçi",
+    "fullname": "Sibel Çifçi",
+    "age": "Reşit",
+    "location": "Eskişehir",
+    "date": "15/06/2024",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.haberturk.com/eskisehir-haberleri/108445066-esini-ve-uvey-kizini-tabancayla-oldurup-intihar-etti"
+    ],
+    "image": "https://i.anitsayac.com/ii/4572024.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=55473"
   },
   {
     "id": 36802,
