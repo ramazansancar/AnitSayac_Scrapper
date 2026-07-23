@@ -552,16 +552,17 @@ func main() {
 	c.OnHTML("div#divcounter", func(e *colly.HTMLElement) {
 		e.ForEach("span.xxy", func(i int, e *colly.HTMLElement) {
 			// Detail url: https://anitsayac.com/details.aspx?id=38931
-			detail := getArticleContent(baseUrl + "/" + e.ChildAttr("span.xxy > a", "href"))
+			// Inside ForEach("span.xxy"), e IS the span, so target its child <a> directly.
+			detail := getArticleContent(baseUrl + "/" + e.ChildAttr("a", "href"))
 			incident := Incident{
 				Id: func() int {
 					/*
 						<span class="xxy bgyear2025"> <a href="details.aspx?id=50364" data-width="800" data-height="380" class="html5lightbox" adata-group="mygroup">Keziban Pars</a></span>
 					*/
-					id, _ := strconv.Atoi(strings.Split(e.ChildAttr("span.xxy > a", "href"), "=")[1])
+					id, _ := strconv.Atoi(strings.Split(e.ChildAttr("a", "href"), "=")[1])
 					return id
 				}(),
-				Name:       e.ChildText("span.xxy > a"),
+				Name:       e.ChildText("a"),
 				FullName:   detail.Name,
 				Age:        detail.Age,
 				Location:   detail.Location,
@@ -573,7 +574,7 @@ func main() {
 				Status:     detail.Status,
 				Source:     detail.Source,
 				Image:      detail.Image,
-				Url:        baseUrl + "/" + e.ChildAttr("span.xxy > a", "href"),
+				Url:        baseUrl + "/" + e.ChildAttr("a", "href"),
 			}
 
 			incidents = append(incidents, incident)
