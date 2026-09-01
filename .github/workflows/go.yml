@@ -8,14 +8,21 @@ on:
   #  branches:
   #    - main
   schedule:
-    - cron: '0 0 * * *' # every day at midnight for UTC
+    - cron: '30 3 * * *' # every day at 03:30 UTC (06:30 Europe/Istanbul)
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
+# Avoid a slow scheduled run overlapping with the next one.
+concurrency:
+  group: scrape-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    # A healthy run takes ~20 minutes; this only caps a run that hangs.
+    timeout-minutes: 60
 
     steps:
     - uses: actions/checkout@v4
@@ -23,9 +30,9 @@ jobs:
     - name: Set up Go
       uses: actions/setup-go@v5
       with:
-        go-version: 1.21
+        go-version-file: go.mod
         check-latest: false
-        cache: false
+        cache: true
 
     - name: Install dependencies and build
       run: go mod download -x
@@ -34,6 +41,9 @@ jobs:
       run: go build -o crawler crawler.go
 
     - name: Run
+      # The crawler retries failed requests on its own and exits non-zero when it
+      # cannot produce a complete data set, so a scraping outage fails the job
+      # instead of silently committing nothing.
       run: go run .
 
     - name: Check if files were updated
