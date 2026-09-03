@@ -1,5 +1,23 @@
 [
   {
+    "id": 56505,
+    "name": "Nisa Nur Oğul",
+    "fullname": "Nisa Nur Oğul",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "02/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sozcu.com.tr/kagithane-de-26-yasindaki-nisa-nur-26-kattan-dustu-p354723"
+    ],
+    "image": "https://i.anitsayac.com/ii/2342026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=56505"
+  },
+  {
     "id": 56503,
     "name": "Asya Erdoğan",
     "fullname": "Asya Erdoğan",
@@ -30008,6 +30026,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/3032022.jpg",
     "url": "https://anitsayac.com/details.aspx?id=17294"
+  },
+  {
+    "id": 56504,
+    "name": "Zeynep Yıldırım",
+    "fullname": "Zeynep Yıldırım",
+    "age": "Reşit Değil",
+    "location": "İstanbul",
+    "date": "04/10/2022",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/zeynep-yildirim-dosyasinda-korkunc-gercek-cezaevinden-getirildi-cesedin-yerini-gosterdi-1739867"
+    ],
+    "image": "https://i.anitsayac.com/ii/4172022.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=56504"
   },
   {
     "id": 19332,
