@@ -1,5 +1,23 @@
 [
   {
+    "id": 56507,
+    "name": "Dilek Bağrıaçık",
+    "fullname": "Dilek Bağrıaçık",
+    "age": "Reşit",
+    "location": "Kahramanmaraş",
+    "date": "03/09/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/bakan-gurlek-duyurdu-ankaradaki-seri-cinayetlerin-faili-yakalandi-43281425"
+    ],
+    "image": "https://i.anitsayac.com/ii/2352026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=56507"
+  },
+  {
     "id": 56505,
     "name": "Nisa Nur Oğul",
     "fullname": "Nisa Nur Oğul",
@@ -57765,6 +57783,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/382019.jpg",
     "url": "https://anitsayac.com/details.aspx?id=2773"
+  },
+  {
+    "id": 56506,
+    "name": "Hüsna Ala",
+    "fullname": "Hüsna Ala",
+    "age": "Reşit",
+    "location": "Osmaniye",
+    "date": "13/02/2019",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/bakan-gurlek-duyurdu-ankaradaki-seri-cinayetlerin-faili-yakalandi-43281425"
+    ],
+    "image": "https://i.anitsayac.com/ii/4312019.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=56506"
   },
   {
     "id": 2771,
