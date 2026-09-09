@@ -1,5 +1,23 @@
 [
   {
+    "id": 56508,
+    "name": "Saliha Özkol",
+    "fullname": "Saliha Özkol",
+    "age": "Reşit",
+    "location": "Kıbrıs",
+    "date": "07/09/2026",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Kesici Alet",
+    "status": "İntlhara Teşebbüs",
+    "source": [
+      "https://www.yeniduzen.com/aygunde-cinayet-199100h.htm"
+    ],
+    "image": "https://i.anitsayac.com/ii/2362026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=56508"
+  },
+  {
     "id": 56507,
     "name": "Dilek Bağrıaçık",
     "fullname": "Dilek Bağrıaçık",
@@ -73,8 +91,8 @@
   },
   {
     "id": 56502,
-    "name": "Gülşah Yıldırım",
-    "fullname": "Gülşah Yıldırım",
+    "name": "Elif Gülşah Yıldırım",
+    "fullname": "Elif Gülşah Yıldırım",
     "age": "Reşit",
     "location": "İstanbul",
     "date": "30/08/2026",
