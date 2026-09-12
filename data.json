@@ -1,5 +1,59 @@
 [
   {
+    "id": 57509,
+    "name": "Merve Emin",
+    "fullname": "Merve Emin",
+    "age": "Reşit",
+    "location": "Bursa",
+    "date": "11/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/bursada-aci-olay-4uncu-katin-balkonundan-dusen-merve-emin-hayatini-kaybetti-43303795"
+    ],
+    "image": "https://i.anitsayac.com/ii/2382026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57509"
+  },
+  {
+    "id": 57510,
+    "name": "Nursel Akyol",
+    "fullname": "Nursel Akyol",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "11/09/2026",
+    "reason": "Tartışma",
+    "by": "Kiracısı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/istanbuldaki-vahsette-dikkat-ceken-detaylar-ortaya-cikti-ev-sahibi-cifti-olduren-kiraci-ifadesinde-bunlari-anlatti-43303529"
+    ],
+    "image": "https://i.anitsayac.com/ii/2392026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57510"
+  },
+  {
+    "id": 57511,
+    "name": "Nurcan Akpirinç",
+    "fullname": "Nurcan Akpirinç",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "11/09/2026",
+    "reason": "Tartışma",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Asılarak",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/diyarbakirda-supheli-olum-evde-yok-dediler-2-saat-sonra-aci-haberi-geldi-43303420"
+    ],
+    "image": "https://i.anitsayac.com/ii/2402026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57511"
+  },
+  {
     "id": 56509,
     "name": "Hayriye Üykü",
     "fullname": "Hayriye Üykü",
