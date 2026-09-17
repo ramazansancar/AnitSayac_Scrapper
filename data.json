@@ -1,5 +1,59 @@
 [
   {
+    "id": 57513,
+    "name": "Ayşegül Çoşkun",
+    "fullname": "Ayşegül Çoşkun",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "16/09/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.sozcu.com.tr/antalya-da-katliam-yapti-esini-kaynanasini-ve-kayinbabasini-kursun-yagmuruna-tuttu-p358743"
+    ],
+    "image": "https://i.anitsayac.com/ii/2422026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57513"
+  },
+  {
+    "id": 57514,
+    "name": "Cemile Engel",
+    "fullname": "Cemile Engel",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "16/09/2026",
+    "reason": "Kızının Damadından Boşanma Talebi",
+    "by": "Damadı",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.sozcu.com.tr/antalya-da-katliam-yapti-esini-kaynanasini-ve-kayinbabasini-kursun-yagmuruna-tuttu-p358743"
+    ],
+    "image": "https://i.anitsayac.com/ii/2432026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57514"
+  },
+  {
+    "id": 57515,
+    "name": "Hatice Güngör",
+    "fullname": "Hatice Güngör",
+    "age": "Reşit Değil",
+    "location": "Aydın",
+    "date": "16/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "İntihar",
+    "source": [
+      "https://www.sozcu.com.tr/yurek-parcalayan-aile-faciasi-p358594"
+    ],
+    "image": "https://i.anitsayac.com/ii/2442026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57515"
+  },
+  {
     "id": 57512,
     "name": "Narin Süer",
     "fullname": "Narin Süer",
