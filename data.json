@@ -1,5 +1,95 @@
 [
   {
+    "id": 57516,
+    "name": "Didar Filiz",
+    "fullname": "Didar Filiz",
+    "age": "Reşit",
+    "location": "Osmaniye",
+    "date": "18/09/2026",
+    "reason": "Tartışma",
+    "by": "Kocası, Akrabaları",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/6-aylik-hamile-kadin-dovulerek-olduruldu-esi-ve-3-akrabasi-gozaltina-alindi-2538852"
+    ],
+    "image": "https://i.anitsayac.com/ii/2452026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57516"
+  },
+  {
+    "id": 57517,
+    "name": "Kezban Kabukçu",
+    "fullname": "Kezban Kabukçu",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "18/09/2026",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/dehset-evi-43310641"
+    ],
+    "image": "https://i.anitsayac.com/ii/2462026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57517"
+  },
+  {
+    "id": 57518,
+    "name": "Mizgin Kılıç",
+    "fullname": "Mizgin Kılıç",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "18/09/2026",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/eski-esini-katletti-43310643"
+    ],
+    "image": "https://i.anitsayac.com/ii/2472026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57518"
+  },
+  {
+    "id": 57519,
+    "name": "Seher Geçinir",
+    "fullname": "Seher Geçinir",
+    "age": "Reşit",
+    "location": "Batman",
+    "date": "18/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/aile-faciasinda-4-olu-belediye-baskani-korkunc-bir-olayla-sarsildik-43311537"
+    ],
+    "image": "https://i.anitsayac.com/ii/2482026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57519"
+  },
+  {
+    "id": 57520,
+    "name": "Efnan Geçinir",
+    "fullname": "Efnan Geçinir",
+    "age": "Reşit Değil",
+    "location": "Batman",
+    "date": "18/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/aile-faciasinda-4-olu-belediye-baskani-korkunc-bir-olayla-sarsildik-43311537"
+    ],
+    "image": "https://i.anitsayac.com/ii/2492026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57520"
+  },
+  {
     "id": 57513,
     "name": "Ayşegül Çoşkun",
     "fullname": "Ayşegül Çoşkun",
