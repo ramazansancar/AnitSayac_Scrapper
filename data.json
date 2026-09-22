@@ -1,5 +1,41 @@
 [
   {
+    "id": 57522,
+    "name": "Fadime Ünlü",
+    "fullname": "Fadime Ünlü",
+    "age": "Reşit",
+    "location": "Tekirdağ",
+    "date": "21/09/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/esini-oldurup-sabaha-kadar-basinda-bekledi-evlada-en-aci-telefon-annenizi-oldurdum-43314078"
+    ],
+    "image": "https://i.anitsayac.com/ii/2512026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57522"
+  },
+  {
+    "id": 57521,
+    "name": "Merve Keklikçi",
+    "fullname": "Merve Keklikçi",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "20/09/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/gaziantepte-kan-donduran-olay-evde-esini-oldurdu-sokaga-cikip-rastgele-ates-acti-4-yarali-43313548"
+    ],
+    "image": "https://i.anitsayac.com/ii/2502026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57521"
+  },
+  {
     "id": 57516,
     "name": "Didar Filiz",
     "fullname": "Didar Filiz",
@@ -88,6 +124,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2492026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57520"
+  },
+  {
+    "id": 57525,
+    "name": "Yasemin Yanık",
+    "fullname": "Yasemin Yanık",
+    "age": "Reşit",
+    "location": "Çorum",
+    "date": "17/09/2026",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.haberturk.com/gundem/son-dakika-haberi-markette-katledilen-yasemin-yanik-a-veda-corum-haberleri-3913171"
+    ],
+    "image": "https://i.anitsayac.com/ii/2542026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57525"
   },
   {
     "id": 57513,
@@ -288,6 +342,24 @@
     "url": "https://anitsayac.com/details.aspx?id=56505"
   },
   {
+    "id": 57523,
+    "name": "Berfin Zelal Kaya",
+    "fullname": "Berfin Zelal Kaya",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "01/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.sozcu.com.tr/eve-giren-polis-ekipleri-genc-kizi-kanlar-icerisinde-buldu-p354541"
+    ],
+    "image": "https://i.anitsayac.com/ii/2522026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57523"
+  },
+  {
     "id": 56503,
     "name": "Asya Erdoğan",
     "fullname": "Asya Erdoğan",
@@ -448,6 +520,25 @@
     ],
     "image": "https://i.anitsayac.com/ii/2232026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=56490"
+  },
+  {
+    "id": 57524,
+    "name": "Sevilay Dönge",
+    "fullname": "Sevilay Dönge",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "15/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/samsun-genc-kadin-balkondan-duserek-oldu-p349666",
+      "https://www.bafrahaber.com/sevilayin-supheli-olumune-1-tutuklama--248895.html"
+    ],
+    "image": "https://i.anitsayac.com/ii/2532026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57524"
   },
   {
     "id": 56489,
