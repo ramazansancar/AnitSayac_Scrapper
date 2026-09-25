@@ -1,5 +1,41 @@
 [
   {
+    "id": 57527,
+    "name": "Fatma Özcan",
+    "fullname": "Fatma Özcan",
+    "age": "Reşit",
+    "location": "Karaman",
+    "date": "24/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Zehir",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/karamanda-kan-donduran-olay-bosanma-asamasindaki-cift-evlerinde-olu-bulundu-ekipler-siya"
+    ],
+    "image": "https://i.anitsayac.com/ii/2562026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57527"
+  },
+  {
+    "id": 57528,
+    "name": "Buse Akgün Gök",
+    "fullname": "Buse Akgün Gök",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "24/09/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/okul-bahcesinde-bicaklanan-buse-7-gun-sonra-hayatini-kaybetti-p363231"
+    ],
+    "image": "https://i.anitsayac.com/ii/2572026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57528"
+  },
+  {
     "id": 57526,
     "name": "Ayşe K.",
     "fullname": "Ayşe K.",
