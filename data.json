@@ -1,5 +1,60 @@
 [
   {
+    "id": 57532,
+    "name": "Mümire Acar",
+    "fullname": "Mümire Acar",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "27/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Sillah",
+    "status": "Soruştuma Sürüyor",
+    "source": [
+      "https://www.sozcu.com.tr/yeni-evli-cift-evlerinde-vurularak-olduruldu-p363835"
+    ],
+    "image": "https://i.anitsayac.com/ii/2602026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57532"
+  },
+  {
+    "id": 57530,
+    "name": "Ayfer Çakmak",
+    "fullname": "Ayfer Çakmak",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "27/09/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/diyarbakir-da-kacmaya-calisan-esini-merdivenlerde-tufekle-vurup-oldurdu-p363909"
+    ],
+    "image": "https://i.anitsayac.com/ii/2582026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57530"
+  },
+  {
+    "id": 57531,
+    "name": "Fatma Çiğli",
+    "fullname": "Fatma Çiğli",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "27/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/bosandigi-kocasi-tarafindan-olduruldu-p363843",
+      "https://www.sozcu.com.tr/fatma-yi-sokakta-hayattan-koparmisti-cani-koca-yakalandi-p364107"
+    ],
+    "image": "https://i.anitsayac.com/ii/2592026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57531"
+  },
+  {
     "id": 57527,
     "name": "Fatma Özcan",
     "fullname": "Fatma Özcan",
@@ -81043,6 +81098,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/842015.jpg",
     "url": "https://anitsayac.com/details.aspx?id=1491"
+  },
+  {
+    "id": 57529,
+    "name": "Meral Babacan",
+    "fullname": "Meral Babacan",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "06/07/2015",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/manisada-11-yillik-sir-perdesi-aralandi-meral-babacan-cinayeti-aydinlatildi-43320889"
+    ],
+    "image": "https://i.anitsayac.com/ii/3012015.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57529"
   },
   {
     "id": 1515,
