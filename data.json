@@ -1,5 +1,41 @@
 [
   {
+    "id": 57536,
+    "name": "Fadime Akbal",
+    "fullname": "Fadime Akbal",
+    "age": "Reşit",
+    "location": "Aydın",
+    "date": "08/10/2026",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok (EskiUzaklştırma Kararı Var)",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/maltepede-6-katli-bina-coktu-arama-kurtarma-ekibi-sevk-edildi-43333414"
+    ],
+    "image": "https://i.anitsayac.com/ii/2642026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57536"
+  },
+  {
+    "id": 57537,
+    "name": "Merve F.",
+    "fullname": "Merve F.",
+    "age": "Reşit Değil",
+    "location": "Adıyaman",
+    "date": "08/10/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/evde-tabancayla-oynayan-16-yasindaki-merve-kazara-kendini-vurdu-43333484"
+    ],
+    "image": "https://i.anitsayac.com/ii/2652026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57537"
+  },
+  {
     "id": 57535,
     "name": "Gökçe Alkan",
     "fullname": "Gökçe Alkan",
