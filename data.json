@@ -1,5 +1,41 @@
 [
   {
+    "id": 57540,
+    "name": "Canan Yıldırım",
+    "fullname": "Canan Yıldırım",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "12/10/2026",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Bouğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/birlikte-yasadigi-kadini-vahsice-oldurup-teslim-oldu-43338194"
+    ],
+    "image": "https://i.anitsayac.com/ii/2672026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57540"
+  },
+  {
+    "id": 57539,
+    "name": "Füsun Yuruğkural",
+    "fullname": "Füsun Yuruğkural",
+    "age": "Reşit",
+    "location": "İzmit/Kocaeli",
+    "date": "09/10/2026",
+    "reason": "Husumet",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/mal-paylasimi-davasinin-gorulecegi-gun-eski-esini-oldurdu-gorgu-tanigi-dehseti-anlatti-abi-yapma-diye-y"
+    ],
+    "image": "https://i.anitsayac.com/ii/2662026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57539"
+  },
+  {
     "id": 57536,
     "name": "Fadime Akbal",
     "fullname": "Fadime Akbal",
@@ -34,6 +70,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2652026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57537"
+  },
+  {
+    "id": 57541,
+    "name": "Gülşah Oktay",
+    "fullname": "Gülşah Oktay",
+    "age": "Reşit",
+    "location": "Trabzon",
+    "date": "06/10/2026",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/trabzondaki-kadin-cinayetinde-yeni-detaylar-kendisini-olduren-eski-esinin-14-gun-once-hayatini-kurtarmis-43336724"
+    ],
+    "image": "https://i.anitsayac.com/ii/2682026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57541"
   },
   {
     "id": 57535,
