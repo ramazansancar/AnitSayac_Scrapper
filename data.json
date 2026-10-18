@@ -613,6 +613,42 @@
     "url": "https://anitsayac.com/details.aspx?id=57523"
   },
   {
+    "id": 57544,
+    "name": "Asya Aydoğan",
+    "fullname": "Asya Aydoğan",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "31/08/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberhurriyeti.com/haber/28613763/kadin-cinayetleri-durmuyor-bosanmak-isteyen-asya-aydogan-katledildi"
+    ],
+    "image": "https://i.anitsayac.com/ii/2712026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57544"
+  },
+  {
+    "id": 57545,
+    "name": "A.O.",
+    "fullname": "A.O.",
+    "age": "Reşit",
+    "location": "Kahramanmaraş",
+    "date": "31/08/2026",
+    "reason": "Boşanma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.evrensel.net/haber/5998571/maras-ta-kadin-cinayeti-bosandigi-erkek-tarafindan-olduruldu"
+    ],
+    "image": "https://i.anitsayac.com/ii/2722026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57545"
+  },
+  {
     "id": 56503,
     "name": "Asya Erdoğan",
     "fullname": "Asya Erdoğan",
@@ -665,6 +701,114 @@
     ],
     "image": "https://i.anitsayac.com/ii/2322026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=56502"
+  },
+  {
+    "id": 57552,
+    "name": "Neslihan K.",
+    "fullname": "Neslihan K.",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "30/08/2026",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.birgun.net/haber/ankara-da-neslihan-k-tabancayla-vurularak-katledildi-fail-intihar-etti-731877"
+    ],
+    "image": "https://i.anitsayac.com/ii/2792026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57552"
+  },
+  {
+    "id": 57551,
+    "name": "Seve Cihangir",
+    "fullname": "Seve Cihangir",
+    "age": "Reşit",
+    "location": "Batman",
+    "date": "29/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/batman-da-vahset-annesini-oldurup-cansiz-bedenini-cop-konteynerine-atti-2533438"
+    ],
+    "image": "https://i.anitsayac.com/ii/2782026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57551"
+  },
+  {
+    "id": 57549,
+    "name": "Sultan Kara",
+    "fullname": "Sultan Kara",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "29/08/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-sultan-kara-cinayeti-protesto-edildi-kadinlar-olduruldukten-sonra-degil-hayattayken-korunmalidir-2533261"
+    ],
+    "image": "https://i.anitsayac.com/ii/2762026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57549"
+  },
+  {
+    "id": 57556,
+    "name": "Belinay Sakar",
+    "fullname": "Belinay Sakar",
+    "age": "Reşit Değil",
+    "location": "Kocaeli",
+    "date": "28/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sozcu.com.tr/3-kardesin-sir-olumunde-yeni-bulgular-p353531"
+    ],
+    "image": "https://i.anitsayac.com/ii/2832026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57556"
+  },
+  {
+    "id": 57557,
+    "name": "Güşah Sakar",
+    "fullname": "Güşah Sakar",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "28/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sozcu.com.tr/3-kardesin-sir-olumunde-yeni-bulgular-p353531"
+    ],
+    "image": "https://i.anitsayac.com/ii/2842026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57557"
+  },
+  {
+    "id": 57558,
+    "name": "Büşra Yıldız",
+    "fullname": "Büşra Yıldız",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "26/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sabah.com.tr/yasam/1-cocuk-annesi-kadinin-feci-sonu-balkondan-duserek-can-verdi-7648773"
+    ],
+    "image": "https://i.anitsayac.com/ii/2852026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57558"
   },
   {
     "id": 56498,
@@ -757,22 +901,40 @@
     "url": "https://anitsayac.com/details.aspx?id=56493"
   },
   {
-    "id": 56490,
-    "name": "Özlem Gültekin",
-    "fullname": "Özlem Gültekin",
+    "id": 57555,
+    "name": "Damla S.",
+    "fullname": "Damla S.",
     "age": "Reşit",
-    "location": "İzmir",
-    "date": "15/08/2026",
+    "location": "Çorum",
+    "date": "18/08/2026",
     "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
     "method": "Tespit Edilemeyen",
     "status": "Soruşturma Sürüyor",
     "source": [
-      "https://www.sozcu.com.tr/unlu-haber-spikerinin-esinin-olumu-supheli-bulundu-p349566"
+      "https://www.corumtime.com/33-yasindaki-genc-kadin-evinde-olu-bulundu.html"
     ],
-    "image": "https://i.anitsayac.com/ii/2232026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=56490"
+    "image": "https://i.anitsayac.com/ii/2822026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57555"
+  },
+  {
+    "id": 57543,
+    "name": "Fatma Sütçü",
+    "fullname": "Fatma Sütçü",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "15/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://gundemfethiye.com.tr/fethiyede-kadin-cinayeti-bir-erkek-annesini-oldurdu-168456/"
+    ],
+    "image": "https://i.anitsayac.com/ii/2702026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57543"
   },
   {
     "id": 57524,
@@ -794,6 +956,24 @@
     "url": "https://anitsayac.com/details.aspx?id=57524"
   },
   {
+    "id": 56490,
+    "name": "Özlem Gültekin",
+    "fullname": "Özlem Gültekin",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "15/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sozcu.com.tr/unlu-haber-spikerinin-esinin-olumu-supheli-bulundu-p349566"
+    ],
+    "image": "https://i.anitsayac.com/ii/2232026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=56490"
+  },
+  {
     "id": 56489,
     "name": "Asya Cebe",
     "fullname": "Asya Cebe",
@@ -810,6 +990,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2222026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=56489"
+  },
+  {
+    "id": 57548,
+    "name": "Sevilay Kabadayı",
+    "fullname": "Sevilay Kabadayı",
+    "age": "Reşit",
+    "location": "Şanlıurfa",
+    "date": "12/08/2026",
+    "reason": "Töre Cinayeti",
+    "by": "Sevgilisinin Ailesi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://karadenizgazete.com.tr/gundem/sanliurfada-vahset-4-cocuk-annesi-32-yasindaki-sevilayi-oldurup-yaktilar/621866"
+    ],
+    "image": "https://i.anitsayac.com/ii/2752026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57548"
   },
   {
     "id": 56494,
@@ -866,6 +1064,42 @@
     "url": "https://anitsayac.com/details.aspx?id=55513"
   },
   {
+    "id": 57554,
+    "name": "Ceren Önüt",
+    "fullname": "Ceren Önüt",
+    "age": "Reşit",
+    "location": "Edirne",
+    "date": "10/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.gazetebirlik.com/magazin/ceren-onut-kimdir-kac-yasinda-nereli-evli-mi-nasil-oldu-ailesi-kim-ve-olum-sebebi-belli-oldu-mu/1063123"
+    ],
+    "image": "https://i.anitsayac.com/ii/2812026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57554"
+  },
+  {
+    "id": 57550,
+    "name": "Sebire Dönmez",
+    "fullname": "Sebire Dönmez",
+    "age": "Reşit",
+    "location": "Kütahya",
+    "date": "08/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocasının Abisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://yeniyasamgazetesi9.com/kutahyada-kadin-katliami-2/"
+    ],
+    "image": "https://i.anitsayac.com/ii/2772026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57550"
+  },
+  {
     "id": 55509,
     "name": "Nilda Müge Şahin",
     "fullname": "Nilda Müge Şahin",
@@ -882,6 +1116,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2192026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=55509"
+  },
+  {
+    "id": 57546,
+    "name": "İpek Gezer",
+    "fullname": "İpek Gezer",
+    "age": "Reşit",
+    "location": "Niğde",
+    "date": "05/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.evrensel.net/haber/5995218/nigde-de-kadin-cinayeti-ipek-gezer-otomobilde-vurularak-olduruldu"
+    ],
+    "image": "https://i.anitsayac.com/ii/2732026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57546"
   },
   {
     "id": 56492,
@@ -990,6 +1242,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2092026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=55496"
+  },
+  {
+    "id": 57553,
+    "name": "Refia Usta",
+    "fullname": "Refia Usta",
+    "age": "Reşit",
+    "location": "Samsun",
+    "date": "29/07/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yanarak",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.yenisafak.com/gundem/bafrada-feci-son-92-yasindaki-kadin-tarlada-yanmis-halde-bulundu-4843980"
+    ],
+    "image": "https://i.anitsayac.com/ii/2802026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57553"
   },
   {
     "id": 55497,
@@ -1262,6 +1532,24 @@
     "url": "https://anitsayac.com/details.aspx?id=55488"
   },
   {
+    "id": 57547,
+    "name": "Sevil Işıktekin",
+    "fullname": "Sevil Işıktekin",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "14/07/2026",
+    "reason": "Tartışma",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Darp",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/kan-donduran-cinayet-genc-kadin-sevgilisi-tarafindan-dovulerek-olduruldu-43239771"
+    ],
+    "image": "https://i.anitsayac.com/ii/2742026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57547"
+  },
+  {
     "id": 55481,
     "name": "Sergül Şen",
     "fullname": "Sergül Şen",
@@ -1404,6 +1692,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1912026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=55477"
+  },
+  {
+    "id": 57542,
+    "name": "Leyla Özdemir",
+    "fullname": "Leyla Özdemir",
+    "age": "Reşit",
+    "location": "Bitlis",
+    "date": "08/07/2026",
+    "reason": "Töre Cinayeti",
+    "by": "Kocası ve Kocasının Ailesi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/yengesiyle-iliskisi-duyulmasin-diye-karisini-oldurdu-p334640"
+    ],
+    "image": "https://i.anitsayac.com/ii/2692026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57542"
   },
   {
     "id": 55478,
