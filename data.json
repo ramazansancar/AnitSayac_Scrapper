@@ -1,5 +1,41 @@
 [
   {
+    "id": 57560,
+    "name": "Yadigar Yılmaz",
+    "fullname": "Yadigar Yılmaz",
+    "age": "Reşit",
+    "location": "Eskişehir",
+    "date": "17/10/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sozcu.com.tr/komsusunun-evinde-fenalasip-oldu-p369958"
+    ],
+    "image": "https://i.anitsayac.com/ii/2862026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57560"
+  },
+  {
+    "id": 57561,
+    "name": "Müyesser Kartav",
+    "fullname": "Müyesser Kartav",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "12/10/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/muyesserin-supheli-olumu-43338166"
+    ],
+    "image": "https://i.anitsayac.com/ii/2872026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57561"
+  },
+  {
     "id": 57540,
     "name": "Canan Yıldırım",
     "fullname": "Canan Yıldırım",
