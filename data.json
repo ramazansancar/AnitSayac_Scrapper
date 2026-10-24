@@ -1,5 +1,41 @@
 [
   {
+    "id": 57562,
+    "name": "Sevda Dinler",
+    "fullname": "Sevda Dinler",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "23/10/2026",
+    "reason": "Reddedilme",
+    "by": "Komşusu",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sozcu.com.tr/sevda-nin-katili-kapi-komsusu-cikti-acili-annenin-anlattiklari-kahretti-p371943"
+    ],
+    "image": "https://i.anitsayac.com/ii/2882026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57562"
+  },
+  {
+    "id": 57563,
+    "name": "Özge Penbegül",
+    "fullname": "Özge Penbegül",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "22/10/2026",
+    "reason": "Tartışma",
+    "by": "Nişanlısı",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "intihar",
+    "source": [
+      "https://www.sozcu.com.tr/polis-avukat-nisanlisini-oldurup-intihar-etti-p371767"
+    ],
+    "image": "https://i.anitsayac.com/ii/2892026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57563"
+  },
+  {
     "id": 57560,
     "name": "Yadigar Yılmaz",
     "fullname": "Yadigar Yılmaz",
