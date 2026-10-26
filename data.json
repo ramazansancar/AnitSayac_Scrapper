@@ -1,5 +1,23 @@
 [
   {
+    "id": 57564,
+    "name": "Aisulu Bekmakhanova",
+    "fullname": "Aisulu Bekmakhanova",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "25/10/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/balkondan-yan-binanin-catisina-gecmisti-tenteye-basinca-metrelerce-yukseklikten-dustu-43354295"
+    ],
+    "image": "https://i.anitsayac.com/ii/2902026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57564"
+  },
+  {
     "id": 57562,
     "name": "Sevda Dinler",
     "fullname": "Sevda Dinler",
@@ -8204,6 +8222,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2722025.jpg",
     "url": "https://anitsayac.com/details.aspx?id=50258"
+  },
+  {
+    "id": 57565,
+    "name": "Aleyna Kaya",
+    "fullname": "Aleyna Kaya",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "11/08/2025",
+    "reason": "Reddedilme",
+    "by": "Eski Sevgilisi",
+    "protection": "Yok",
+    "method": "İntihar",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/aleyna-icin-ezber-bozan-mutalaa-intihara-sevk-degil-kasten-oldurme-43352952"
+    ],
+    "image": "https://i.anitsayac.com/ii/4612025.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57565"
   },
   {
     "id": 50255,
