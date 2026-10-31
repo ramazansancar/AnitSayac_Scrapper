@@ -1,5 +1,41 @@
 [
   {
+    "id": 57568,
+    "name": "Aynur Ekici",
+    "fullname": "Aynur Ekici",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "30/10/2026",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.sozcu.com.tr/kendisinden-kacan-eski-esini-bulup-oldurdu-cebinden-cikan-not-dehsete-dusurdu-p374400"
+    ],
+    "image": "https://i.anitsayac.com/ii/2932026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57568"
+  },
+  {
+    "id": 57567,
+    "name": "Aleyna Akdoğan",
+    "fullname": "Aleyna Akdoğan",
+    "age": "Reşit",
+    "location": "Trabzon",
+    "date": "28/10/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihara Teşebbüs",
+    "source": [
+      "https://www.61saat.com/trabzona-aci-haber-esi-tarafindan-silahla-vurularak-olduruldu"
+    ],
+    "image": "https://i.anitsayac.com/ii/2922026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57567"
+  },
+  {
     "id": 57566,
     "name": "Nesrin Candan",
     "fullname": "Nesrin Candan",
