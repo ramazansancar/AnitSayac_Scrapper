@@ -18,6 +18,24 @@
     "url": "https://anitsayac.com/details.aspx?id=57568"
   },
   {
+    "id": 57569,
+    "name": "E.K.",
+    "fullname": "E.K.",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "30/10/2026",
+    "reason": "Tartışma",
+    "by": "Babası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/ankarada-dehset-anlari-kizi-ile-erkek-arkadasini-oldurdu-43361128"
+    ],
+    "image": "https://i.anitsayac.com/ii/2942026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57569"
+  },
+  {
     "id": 57567,
     "name": "Aleyna Akdoğan",
     "fullname": "Aleyna Akdoğan",
@@ -1027,6 +1045,114 @@
     "url": "https://anitsayac.com/details.aspx?id=56497"
   },
   {
+    "id": 57574,
+    "name": "Belinay Sakar",
+    "fullname": "Belinay Sakar",
+    "age": "Reşit Değil",
+    "location": "Kocaeli",
+    "date": "21/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/sarigul-ailesinin-kara-kutusu-konustu-sarigul-parayi-4-ulkede-akladi-iddiasi-43361528"
+    ],
+    "image": "https://i.anitsayac.com/ii/2972026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57574"
+  },
+  {
+    "id": 57575,
+    "name": "Gülşah Sakar",
+    "fullname": "Gülşah Sakar",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "21/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/sarigul-ailesinin-kara-kutusu-konustu-sarigul-parayi-4-ulkede-akladi-iddiasi-43361528"
+    ],
+    "image": "https://i.anitsayac.com/ii/2982026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57575"
+  },
+  {
+    "id": 57572,
+    "name": "Ayten Harputlugil",
+    "fullname": "Ayten Harputlugil",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "20/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/antalyada-aci-olay-cilingirle-girilen-evde-anne-ve-kizi-olu-bulundu-43279679"
+    ],
+    "image": "https://i.anitsayac.com/ii/2952026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57572"
+  },
+  {
+    "id": 57573,
+    "name": "Nilgün Harputlugil",
+    "fullname": "Nilgün Harputlugil",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "20/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/antalyada-aci-olay-cilingirle-girilen-evde-anne-ve-kizi-olu-bulundu-43279679"
+    ],
+    "image": "https://i.anitsayac.com/ii/2962026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57573"
+  },
+  {
+    "id": 57579,
+    "name": "Fatma Koç",
+    "fullname": "Fatma Koç",
+    "age": "Reşit",
+    "location": "Afyonkarahisar",
+    "date": "19/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.babaocagi.com.tr/afyonkarahisarda-supheli-kadin-olumu-4-kattan-dustu"
+    ],
+    "image": "https://i.anitsayac.com/ii/3022026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57579"
+  },
+  {
+    "id": 57584,
+    "name": "Hasret Kuş",
+    "fullname": "Hasret Kuş",
+    "age": "Reşit",
+    "location": "Elazığ",
+    "date": "18/08/2026",
+    "reason": "Kaza",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.haberturk.com/gundem/son-dakika-kurt-sandi-ates-etti-karisini-oldurdu-3906369"
+    ],
+    "image": "https://i.anitsayac.com/ii/3062026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57584"
+  },
+  {
     "id": 56493,
     "name": "Selin Gökhan",
     "fullname": "Selin Gökhan",
@@ -1154,6 +1280,24 @@
     "url": "https://anitsayac.com/details.aspx?id=57548"
   },
   {
+    "id": 57580,
+    "name": "Naciye Işık",
+    "fullname": "Naciye Işık",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "12/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://ilketv.com.tr/mardin-nusaybinde-supheli-kadin-olumu/"
+    ],
+    "image": "https://i.anitsayac.com/ii/3032026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57580"
+  },
+  {
     "id": 56494,
     "name": "Bedriye Naz",
     "fullname": "Bedriye Naz",
@@ -1226,6 +1370,60 @@
     "url": "https://anitsayac.com/details.aspx?id=57554"
   },
   {
+    "id": 57581,
+    "name": "Hatice Alkan",
+    "fullname": "Hatice Alkan",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "10/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/muglada-korkunc-olay-evli-cift-evlerinde-silahla-vurulmus-halde-olu-bulundu-43268572"
+    ],
+    "image": "https://i.anitsayac.com/ii/3042026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57581"
+  },
+  {
+    "id": 57576,
+    "name": "Ümmühan Dilek Ata",
+    "fullname": "Ümmühan Dilek Ata",
+    "age": "Reşit",
+    "location": "Karaman",
+    "date": "10/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Asılarak",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.yeniakit.com.tr/foto-galeri/kayip-kadin-ormanda-olu-bulundu-intihar-mi-cinayet-mi-169861/2"
+    ],
+    "image": "https://i.anitsayac.com/ii/2992026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57576"
+  },
+  {
+    "id": 57577,
+    "name": "Latife İbadova",
+    "fullname": "Latife İbadova",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "10/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/azerbaycan-uyruklu-kadin-evinde-olu-bulundu-birlikte-yasadigi-adam-ihbardan-hemen-once-ayrildi-43268151"
+    ],
+    "image": "https://i.anitsayac.com/ii/3002026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57577"
+  },
+  {
     "id": 57550,
     "name": "Sebire Dönmez",
     "fullname": "Sebire Dönmez",
@@ -1242,6 +1440,42 @@
     ],
     "image": "https://i.anitsayac.com/ii/2772026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57550"
+  },
+  {
+    "id": 57578,
+    "name": "Rabia Sultan Mantı",
+    "fullname": "Rabia Sultan Mantı",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "07/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/adanada-gizemli-olumler-genc-kadin-otomobilde-is-yeri-sahibi-dukkanda-7636967"
+    ],
+    "image": "https://i.anitsayac.com/ii/3012026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57578"
+  },
+  {
+    "id": 57583,
+    "name": "Dilek Sargın",
+    "fullname": "Dilek Sargın",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "07/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sabah.com.tr/yasam/genc-kadin-evinin-yatak-odasinda-olu-bulundu-7637193"
+    ],
+    "image": "https://i.anitsayac.com/ii/3052026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57583"
   },
   {
     "id": 55509,
