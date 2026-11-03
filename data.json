@@ -1,5 +1,23 @@
 [
   {
+    "id": 57585,
+    "name": "Şefika Yeşildağ",
+    "fullname": "Şefika Yeşildağ",
+    "age": "Reşit",
+    "location": "Aksaray",
+    "date": "02/11/2026",
+    "reason": "Tartışma",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/aksarayda-vahset-eski-esini-15-bicak-bicak-darbesiyle-oldurdu-43363100"
+    ],
+    "image": "https://i.anitsayac.com/ii/3072026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57585"
+  },
+  {
     "id": 57568,
     "name": "Aynur Ekici",
     "fullname": "Aynur Ekici",
@@ -19,8 +37,8 @@
   },
   {
     "id": 57569,
-    "name": "E.K.",
-    "fullname": "E.K.",
+    "name": "Elif Kesen",
+    "fullname": "Elif Kesen",
     "age": "Reşit",
     "location": "Ankara",
     "date": "30/10/2026",
