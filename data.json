@@ -1,5 +1,79 @@
 [
   {
+    "id": 57595,
+    "name": "Hülya Aktaş",
+    "fullname": "Hülya Aktaş",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "06/11/2026",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/manisada-tartistigi-annesi-ile-kardesini-bicaklayarak-oldurdu-kacarken-ablasina-itiraf-etti-43368232"
+    ],
+    "image": "https://i.anitsayac.com/ii/3162026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57595"
+  },
+  {
+    "id": 57596,
+    "name": "Ayşe Sena Demir",
+    "fullname": "Ayşe Sena Demir",
+    "age": "Reşit",
+    "location": "Afyonkarahisar",
+    "date": "06/11/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/afyonkarahisardaki-vahsette-yurek-burkan-detay-ayse-sena-ogretmenin-annesi-korkunc-olayi-televizyondan-ogrendi-43368272",
+      "https://www.hurriyet.com.tr/gundem/8-kisinin-oldugu-olayin-perde-arkasi-gelin-anlasalim-diyerek-pusu-kurdu-kacarken-kursun-yagdirdi-43367780"
+    ],
+    "image": "https://i.anitsayac.com/ii/3172026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57596"
+  },
+  {
+    "id": 57597,
+    "name": "Hilal Mete",
+    "fullname": "Hilal Mete",
+    "age": "Reşit",
+    "location": "Afyonkarahisa",
+    "date": "06/11/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/katledilen-hilal-ogretmen-son-yolculuguna-ugurlandi-esinin-vedasi-yurekleri-dagladi-43368330",
+      "https://www.hurriyet.com.tr/gundem/8-kisinin-oldugu-olayin-perde-arkasi-gelin-anlasalim-diyerek-pusu-kurdu-kacarken-kursun-yagdirdi-43367780"
+    ],
+    "image": "https://i.anitsayac.com/ii/3182026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57597"
+  },
+  {
+    "id": 57598,
+    "name": "Latife Mengüç",
+    "fullname": "Latife Mengüç",
+    "age": "ReŞİT",
+    "location": "Samsun",
+    "date": "05/11/2026",
+    "reason": "Ayrılma Talebi",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/ayrilik-tartismasi-olumle-bitti-sevgilisini-oldurup-ayni-silahla-yasamina-son-verdi-43367073"
+    ],
+    "image": "https://i.anitsayac.com/ii/3192026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57598"
+  },
+  {
     "id": 57594,
     "name": "Melek Gökçer",
     "fullname": "Melek Gökçer",
@@ -52,6 +126,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/3142026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57593"
+  },
+  {
+    "id": 57599,
+    "name": "Ezgi Çetin",
+    "fullname": "Ezgi Çetin",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "03/11/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.sozcu.com.tr/kyk-yurdunda-supheli-olum-ezgi-cetin-yasamini-yitirdi-p375747"
+    ],
+    "image": "https://i.anitsayac.com/ii/3202026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57599"
   },
   {
     "id": 57585,
@@ -1458,6 +1550,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/3032026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57580"
+  },
+  {
+    "id": 57600,
+    "name": "Gülistan Karadağ",
+    "fullname": "Gülistan Karadağ",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "11/08/2026",
+    "reason": "Uyuşturucu",
+    "by": "Tanıdığı Birileri",
+    "protection": "Yok",
+    "method": "Yüksek Dozda Uyuşturucu",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/diyarbakirda-arazide-cansiz-bedeni-bulunmustu-gulistanin-olumune-iliskin-2-supheli-tutuklandi-43269728"
+    ],
+    "image": "https://i.anitsayac.com/ii/3212026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57600"
   },
   {
     "id": 56494,
