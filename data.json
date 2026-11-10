@@ -1,21 +1,21 @@
 [
   {
-    "id": 57595,
-    "name": "Hülya Aktaş",
-    "fullname": "Hülya Aktaş",
+    "id": 57601,
+    "name": "Hatice K.",
+    "fullname": "Hatice K.",
     "age": "Reşit",
-    "location": "Manisa",
-    "date": "06/11/2026",
-    "reason": "Tartışma",
+    "location": "Antalya",
+    "date": "09/11/2026",
+    "reason": "Tespit Edilemeyen",
     "by": "Oğlu",
     "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/manisada-tartistigi-annesi-ile-kardesini-bicaklayarak-oldurdu-kacarken-ablasina-itiraf-etti-43368232"
+      "https://www.hurriyet.com.tr/gundem/kasta-aile-faciasi-anne-ve-babasini-vurduktan-sonra-intihar-etti-43371463"
     ],
-    "image": "https://i.anitsayac.com/ii/3162026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57595"
+    "image": "https://i.anitsayac.com/ii/3222026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57601"
   },
   {
     "id": 57596,
@@ -56,6 +56,43 @@
     "url": "https://anitsayac.com/details.aspx?id=57597"
   },
   {
+    "id": 57595,
+    "name": "Hülya Aktaş",
+    "fullname": "Hülya Aktaş",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "06/11/2026",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/manisada-tartistigi-annesi-ile-kardesini-bicaklayarak-oldurdu-kacarken-ablasina-itiraf-etti-43368232"
+    ],
+    "image": "https://i.anitsayac.com/ii/3162026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57595"
+  },
+  {
+    "id": 57594,
+    "name": "Melek Gökçer",
+    "fullname": "Melek Gökçer",
+    "age": "Reşit Değil",
+    "location": "Adana",
+    "date": "05/11/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Dayısı ve Eşi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/yere-dustu-ates-aldi-demislerdi-12-yasindaki-melekten-aci-haber-geldi-43367042",
+      "https://www.hurriyet.com.tr/gundem/once-kaza-dediler-sonra-yenge-itiraf-etti-13-yasindaki-melekin-olumunde-dayi-ve-yenge-cezaevinde-43371054"
+    ],
+    "image": "https://i.anitsayac.com/ii/3152026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57594"
+  },
+  {
     "id": 57598,
     "name": "Latife Mengüç",
     "fullname": "Latife Mengüç",
@@ -72,24 +109,6 @@
     ],
     "image": "https://i.anitsayac.com/ii/3192026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57598"
-  },
-  {
-    "id": 57594,
-    "name": "Melek Gökçer",
-    "fullname": "Melek Gökçer",
-    "age": "Reşit Değil",
-    "location": "Adana",
-    "date": "05/11/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Dayısı ve Eşi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/yere-dustu-ates-aldi-demislerdi-12-yasindaki-melekten-aci-haber-geldi-43367042"
-    ],
-    "image": "https://i.anitsayac.com/ii/3152026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57594"
   },
   {
     "id": 57592,
