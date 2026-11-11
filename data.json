@@ -1,5 +1,23 @@
 [
   {
+    "id": 57602,
+    "name": "Rukiye Demirel",
+    "fullname": "Rukiye Demirel",
+    "age": "Reşit",
+    "location": "Niğde",
+    "date": "10/11/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/9-kattan-duserek-hayatini-kaybeden-rukiye-demirelin-esi-cinayet-suphelisi-olarak-tutuklandi-43373179"
+    ],
+    "image": "https://i.anitsayac.com/ii/3232026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57602"
+  },
+  {
     "id": 57601,
     "name": "Hatice K.",
     "fullname": "Hatice K.",
@@ -16,6 +34,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/3222026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57601"
+  },
+  {
+    "id": 57595,
+    "name": "Hülya Aktaş",
+    "fullname": "Hülya Aktaş",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "06/11/2026",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/manisada-tartistigi-annesi-ile-kardesini-bicaklayarak-oldurdu-kacarken-ablasina-itiraf-etti-43368232"
+    ],
+    "image": "https://i.anitsayac.com/ii/3162026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57595"
   },
   {
     "id": 57596,
@@ -56,22 +92,22 @@
     "url": "https://anitsayac.com/details.aspx?id=57597"
   },
   {
-    "id": 57595,
-    "name": "Hülya Aktaş",
-    "fullname": "Hülya Aktaş",
-    "age": "Reşit",
-    "location": "Manisa",
-    "date": "06/11/2026",
-    "reason": "Tartışma",
-    "by": "Oğlu",
+    "id": 57598,
+    "name": "Latife Mengüç",
+    "fullname": "Latife Mengüç",
+    "age": "ReŞİT",
+    "location": "Samsun",
+    "date": "05/11/2026",
+    "reason": "Ayrılma Talebi",
+    "by": "Sevgilisi",
     "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/manisada-tartistigi-annesi-ile-kardesini-bicaklayarak-oldurdu-kacarken-ablasina-itiraf-etti-43368232"
+      "https://www.hurriyet.com.tr/gundem/ayrilik-tartismasi-olumle-bitti-sevgilisini-oldurup-ayni-silahla-yasamina-son-verdi-43367073"
     ],
-    "image": "https://i.anitsayac.com/ii/3162026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57595"
+    "image": "https://i.anitsayac.com/ii/3192026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57598"
   },
   {
     "id": 57594,
@@ -91,24 +127,6 @@
     ],
     "image": "https://i.anitsayac.com/ii/3152026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57594"
-  },
-  {
-    "id": 57598,
-    "name": "Latife Mengüç",
-    "fullname": "Latife Mengüç",
-    "age": "ReŞİT",
-    "location": "Samsun",
-    "date": "05/11/2026",
-    "reason": "Ayrılma Talebi",
-    "by": "Sevgilisi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/ayrilik-tartismasi-olumle-bitti-sevgilisini-oldurup-ayni-silahla-yasamina-son-verdi-43367073"
-    ],
-    "image": "https://i.anitsayac.com/ii/3192026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57598"
   },
   {
     "id": 57592,
