@@ -1,5 +1,59 @@
 [
   {
+    "id": 57603,
+    "name": "Pelin Pınar",
+    "fullname": "Pelin Pınar",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "12/11/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/doktor-pelin-pinar-8-kattan-duserek-hayatini-kaybetmisti-sevgilisinin-supheli-olarak-verdigi-ifade-ortaya-cikti-43375308"
+    ],
+    "image": "https://i.anitsayac.com/ii/3242026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57603"
+  },
+  {
+    "id": 57604,
+    "name": "Şefika Yeşildağ",
+    "fullname": "Şefika Yeşildağ",
+    "age": "Reşit",
+    "location": "Aksaray",
+    "date": "12/11/2026",
+    "reason": "Reddedilme",
+    "by": "Eski Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/eski-es-cinayetinde-kahreden-ayrinti-anahtari-gizlice-alip-sabah-evde-beklemis-43375333"
+    ],
+    "image": "https://i.anitsayac.com/ii/3252026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57604"
+  },
+  {
+    "id": 57605,
+    "name": "Yuliia Studylko",
+    "fullname": "Yuliia Studylko",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "11/11/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Erkek Arkadaşı",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/gundem/alanyada-ukraynali-kadin-turistin-supheli-olumu-finlandiyali-erkek-arkadasi-cinsel-saldiri-suclamasiyla-tutuklandi,1358357?_t=1794411433861"
+    ],
+    "image": "https://i.anitsayac.com/ii/3262026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57605"
+  },
+  {
     "id": 57602,
     "name": "Rukiye Demirel",
     "fullname": "Rukiye Demirel",
@@ -34,24 +88,6 @@
     ],
     "image": "https://i.anitsayac.com/ii/3222026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57601"
-  },
-  {
-    "id": 57595,
-    "name": "Hülya Aktaş",
-    "fullname": "Hülya Aktaş",
-    "age": "Reşit",
-    "location": "Manisa",
-    "date": "06/11/2026",
-    "reason": "Tartışma",
-    "by": "Oğlu",
-    "protection": "Yok",
-    "method": "Kesici Alet",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/manisada-tartistigi-annesi-ile-kardesini-bicaklayarak-oldurdu-kacarken-ablasina-itiraf-etti-43368232"
-    ],
-    "image": "https://i.anitsayac.com/ii/3162026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57595"
   },
   {
     "id": 57596,
@@ -92,22 +128,22 @@
     "url": "https://anitsayac.com/details.aspx?id=57597"
   },
   {
-    "id": 57598,
-    "name": "Latife Mengüç",
-    "fullname": "Latife Mengüç",
-    "age": "ReŞİT",
-    "location": "Samsun",
-    "date": "05/11/2026",
-    "reason": "Ayrılma Talebi",
-    "by": "Sevgilisi",
+    "id": 57595,
+    "name": "Hülya Aktaş",
+    "fullname": "Hülya Aktaş",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "06/11/2026",
+    "reason": "Tartışma",
+    "by": "Oğlu",
     "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
     "source": [
-      "https://www.hurriyet.com.tr/gundem/ayrilik-tartismasi-olumle-bitti-sevgilisini-oldurup-ayni-silahla-yasamina-son-verdi-43367073"
+      "https://www.hurriyet.com.tr/gundem/manisada-tartistigi-annesi-ile-kardesini-bicaklayarak-oldurdu-kacarken-ablasina-itiraf-etti-43368232"
     ],
-    "image": "https://i.anitsayac.com/ii/3192026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57598"
+    "image": "https://i.anitsayac.com/ii/3162026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57595"
   },
   {
     "id": 57594,
@@ -127,6 +163,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/3152026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57594"
+  },
+  {
+    "id": 57598,
+    "name": "Latife Mengüç",
+    "fullname": "Latife Mengüç",
+    "age": "ReŞİT",
+    "location": "Samsun",
+    "date": "05/11/2026",
+    "reason": "Ayrılma Talebi",
+    "by": "Sevgilisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/ayrilik-tartismasi-olumle-bitti-sevgilisini-oldurup-ayni-silahla-yasamina-son-verdi-43367073"
+    ],
+    "image": "https://i.anitsayac.com/ii/3192026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57598"
   },
   {
     "id": 57592,
@@ -1679,24 +1733,6 @@
     "url": "https://anitsayac.com/details.aspx?id=57554"
   },
   {
-    "id": 57581,
-    "name": "Hatice Alkan",
-    "fullname": "Hatice Alkan",
-    "age": "Reşit",
-    "location": "Muğla",
-    "date": "10/08/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/muglada-korkunc-olay-evli-cift-evlerinde-silahla-vurulmus-halde-olu-bulundu-43268572"
-    ],
-    "image": "https://i.anitsayac.com/ii/3042026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57581"
-  },
-  {
     "id": 57576,
     "name": "Ümmühan Dilek Ata",
     "fullname": "Ümmühan Dilek Ata",
@@ -1733,6 +1769,24 @@
     "url": "https://anitsayac.com/details.aspx?id=57577"
   },
   {
+    "id": 57581,
+    "name": "Hatice Alkan",
+    "fullname": "Hatice Alkan",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "10/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/muglada-korkunc-olay-evli-cift-evlerinde-silahla-vurulmus-halde-olu-bulundu-43268572"
+    ],
+    "image": "https://i.anitsayac.com/ii/3042026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57581"
+  },
+  {
     "id": 57550,
     "name": "Sebire Dönmez",
     "fullname": "Sebire Dönmez",
@@ -1751,24 +1805,6 @@
     "url": "https://anitsayac.com/details.aspx?id=57550"
   },
   {
-    "id": 57578,
-    "name": "Rabia Sultan Mantı",
-    "fullname": "Rabia Sultan Mantı",
-    "age": "Reşit",
-    "location": "Adana",
-    "date": "07/08/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Soruşturma Sürüyor",
-    "source": [
-      "https://www.milliyet.com.tr/gundem/adanada-gizemli-olumler-genc-kadin-otomobilde-is-yeri-sahibi-dukkanda-7636967"
-    ],
-    "image": "https://i.anitsayac.com/ii/3012026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57578"
-  },
-  {
     "id": 57583,
     "name": "Dilek Sargın",
     "fullname": "Dilek Sargın",
@@ -1785,6 +1821,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/3052026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57583"
+  },
+  {
+    "id": 57578,
+    "name": "Rabia Sultan Mantı",
+    "fullname": "Rabia Sultan Mantı",
+    "age": "Reşit",
+    "location": "Adana",
+    "date": "07/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.milliyet.com.tr/gundem/adanada-gizemli-olumler-genc-kadin-otomobilde-is-yeri-sahibi-dukkanda-7636967"
+    ],
+    "image": "https://i.anitsayac.com/ii/3012026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57578"
   },
   {
     "id": 55509,
