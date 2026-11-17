@@ -561,6 +561,24 @@
     "url": "https://anitsayac.com/details.aspx?id=57533"
   },
   {
+    "id": 57609,
+    "name": "Betül Arık",
+    "fullname": "Betül Arık",
+    "age": "Reşit",
+    "location": "Sakarya",
+    "date": "28/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/esi-tarafindan-bicaklanmisti-23-gun-sonra-hayatini-kaybetti-43322686"
+    ],
+    "image": "https://i.anitsayac.com/ii/3282026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57609"
+  },
+  {
     "id": 57532,
     "name": "Mümire Acar",
     "fullname": "Mümire Acar",
@@ -688,6 +706,42 @@
     "url": "https://anitsayac.com/details.aspx?id=57522"
   },
   {
+    "id": 57608,
+    "name": "Fadime Sarıca",
+    "fullname": "Fadime Sarıca",
+    "age": "Reşit",
+    "location": "Konya",
+    "date": "21/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Boğularak",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.evrensel.net/haber/6001406/konya-da-kadin-cinayeti-fadime-sarica-evli-oldugu-erkek-tarafindan-bogularak-olduruldu"
+    ],
+    "image": "https://i.anitsayac.com/ii/2972026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57608"
+  },
+  {
+    "id": 57612,
+    "name": "Emine Çil",
+    "fullname": "Emine Çil",
+    "age": "Reşit",
+    "location": "Hatay",
+    "date": "21/09/2026",
+    "reason": "Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/bosanma-asamasindaki-esi-tarafindan-oldurulen-kadinin-olaydan-2-saat-onceki-paylasimlari-dikkat-cekti-2539417"
+    ],
+    "image": "https://i.anitsayac.com/ii/3312026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57612"
+  },
+  {
     "id": 57521,
     "name": "Merve Keklikçi",
     "fullname": "Merve Keklikçi",
@@ -812,6 +866,42 @@
     ],
     "image": "https://i.anitsayac.com/ii/2542026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57525"
+  },
+  {
+    "id": 57610,
+    "name": "Ayşegül Çoşkun",
+    "fullname": "Ayşegül Çoşkun",
+    "age": "Reşit",
+    "location": "Antalya",
+    "date": "17/09/2026",
+    "reason": "Boşanma Talebi  Tartışma",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/gundem/antalyada-dehset-esi-kayinvalidesi-ve-kayinpederini-oldurdu-ormanda-yakalandi,1348260?_t=179487068244"
+    ],
+    "image": "https://i.anitsayac.com/ii/3292026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57610"
+  },
+  {
+    "id": 57611,
+    "name": "M.K.",
+    "fullname": "M.K.",
+    "age": "Reşit",
+    "location": "Diyarbakır",
+    "date": "17/09/2026",
+    "reason": "Reddedilme",
+    "by": "Eskİ Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.evrensel.net/haber/6000911/diyarbakir-da-kadin-cinayeti-bosandigi-erkek-tarafindan-olduruldu"
+    ],
+    "image": "https://i.anitsayac.com/ii/3302026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57611"
   },
   {
     "id": 57513,
@@ -1372,42 +1462,6 @@
     "url": "https://anitsayac.com/details.aspx?id=57591"
   },
   {
-    "id": 57588,
-    "name": "Saniye Gür",
-    "fullname": "Saniye Gür",
-    "age": "Reşit",
-    "location": "Tekirdağ",
-    "date": "21/08/2026",
-    "reason": "Kaza",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Darp, Çarpma",
-    "status": "Soruşturma Sürüyor",
-    "source": [
-      "https://yerel-haberler.haberturk.com/tekirdag-haberleri/tekirdagda-esinin-kullandigi-kamyonetin-altinda-kalan-kadin-oldu-42270127"
-    ],
-    "image": "https://i.anitsayac.com/ii/3092026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57588"
-  },
-  {
-    "id": 57574,
-    "name": "Belinay Sakar",
-    "fullname": "Belinay Sakar",
-    "age": "Reşit Değil",
-    "location": "Kocaeli",
-    "date": "21/08/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Soruşturma Sürüyor",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/sarigul-ailesinin-kara-kutusu-konustu-sarigul-parayi-4-ulkede-akladi-iddiasi-43361528"
-    ],
-    "image": "https://i.anitsayac.com/ii/2972026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57574"
-  },
-  {
     "id": 57575,
     "name": "Gülşah Sakar",
     "fullname": "Gülşah Sakar",
@@ -1424,6 +1478,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2982026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57575"
+  },
+  {
+    "id": 57588,
+    "name": "Saniye Gür",
+    "fullname": "Saniye Gür",
+    "age": "Reşit",
+    "location": "Tekirdağ",
+    "date": "21/08/2026",
+    "reason": "Kaza",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Darp, Çarpma",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://yerel-haberler.haberturk.com/tekirdag-haberleri/tekirdagda-esinin-kullandigi-kamyonetin-altinda-kalan-kadin-oldu-42270127"
+    ],
+    "image": "https://i.anitsayac.com/ii/3092026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57588"
   },
   {
     "id": 57572,
@@ -1661,24 +1733,6 @@
     "url": "https://anitsayac.com/details.aspx?id=57580"
   },
   {
-    "id": 57600,
-    "name": "Gülistan Karadağ",
-    "fullname": "Gülistan Karadağ",
-    "age": "Reşit",
-    "location": "Diyarbakır",
-    "date": "11/08/2026",
-    "reason": "Uyuşturucu",
-    "by": "Tanıdığı Birileri",
-    "protection": "Yok",
-    "method": "Yüksek Dozda Uyuşturucu",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/diyarbakirda-arazide-cansiz-bedeni-bulunmustu-gulistanin-olumune-iliskin-2-supheli-tutuklandi-43269728"
-    ],
-    "image": "https://i.anitsayac.com/ii/3212026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57600"
-  },
-  {
     "id": 56494,
     "name": "Bedriye Naz",
     "fullname": "Bedriye Naz",
@@ -1709,7 +1763,8 @@
     "method": "Tespit Edilemeyen",
     "status": "Tutuklu",
     "source": [
-      "https://www.sozcu.com.tr/gulistan-in-olumuyle-ilgili-yeni-gelisme-p344411"
+      "https://www.sozcu.com.tr/gulistan-in-olumuyle-ilgili-yeni-gelisme-p344411",
+      "https://www.hurriyet.com.tr/gundem/diyarbakirda-arazide-cansiz-bedeni-bulunmustu-gulistanin-olumune-iliskin-2-supheli-tutuklandi-43269728"
     ],
     "image": "https://i.anitsayac.com/ii/2202026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=55512"
@@ -1751,6 +1806,24 @@
     "url": "https://anitsayac.com/details.aspx?id=57554"
   },
   {
+    "id": 57581,
+    "name": "Hatice Alkan",
+    "fullname": "Hatice Alkan",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "10/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "İntihar",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/muglada-korkunc-olay-evli-cift-evlerinde-silahla-vurulmus-halde-olu-bulundu-43268572"
+    ],
+    "image": "https://i.anitsayac.com/ii/3042026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57581"
+  },
+  {
     "id": 57576,
     "name": "Ümmühan Dilek Ata",
     "fullname": "Ümmühan Dilek Ata",
@@ -1787,24 +1860,6 @@
     "url": "https://anitsayac.com/details.aspx?id=57577"
   },
   {
-    "id": 57581,
-    "name": "Hatice Alkan",
-    "fullname": "Hatice Alkan",
-    "age": "Reşit",
-    "location": "Muğla",
-    "date": "10/08/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "İntihar",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/muglada-korkunc-olay-evli-cift-evlerinde-silahla-vurulmus-halde-olu-bulundu-43268572"
-    ],
-    "image": "https://i.anitsayac.com/ii/3042026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57581"
-  },
-  {
     "id": 57550,
     "name": "Sebire Dönmez",
     "fullname": "Sebire Dönmez",
@@ -1823,24 +1878,6 @@
     "url": "https://anitsayac.com/details.aspx?id=57550"
   },
   {
-    "id": 57583,
-    "name": "Dilek Sargın",
-    "fullname": "Dilek Sargın",
-    "age": "Reşit",
-    "location": "İstanbul",
-    "date": "07/08/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Soruşturma Sürüyor",
-    "source": [
-      "https://www.sabah.com.tr/yasam/genc-kadin-evinin-yatak-odasinda-olu-bulundu-7637193"
-    ],
-    "image": "https://i.anitsayac.com/ii/3052026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57583"
-  },
-  {
     "id": 57578,
     "name": "Rabia Sultan Mantı",
     "fullname": "Rabia Sultan Mantı",
@@ -1857,6 +1894,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/3012026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57578"
+  },
+  {
+    "id": 57583,
+    "name": "Dilek Sargın",
+    "fullname": "Dilek Sargın",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "07/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sabah.com.tr/yasam/genc-kadin-evinin-yatak-odasinda-olu-bulundu-7637193"
+    ],
+    "image": "https://i.anitsayac.com/ii/3052026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57583"
   },
   {
     "id": 55509,
@@ -3406,6 +3461,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/1402026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=54446"
+  },
+  {
+    "id": 57607,
+    "name": "F.A.K.",
+    "fullname": "F.A.K.",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "05/05/2026",
+    "reason": "Aile içi istismar",
+    "by": "Akrabaları",
+    "protection": "Yok",
+    "method": "İntihar",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.bursahakimiyet.com.tr/gundem/gaziantep-te-13-yasindaki-kizin-olumunde-istismar-suphesi-1621604"
+    ],
+    "image": "https://i.anitsayac.com/ii/3212026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57607"
   },
   {
     "id": 54441,
