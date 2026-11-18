@@ -561,6 +561,24 @@
     "url": "https://anitsayac.com/details.aspx?id=57533"
   },
   {
+    "id": 57614,
+    "name": "Nalan Temelkıran",
+    "fullname": "Nalan Temelkıran",
+    "age": "Reşit",
+    "location": "Kütahya",
+    "date": "30/09/2026",
+    "reason": "Katil kızına büyü yaptığını düşünüyor",
+    "by": "Tanımadığı Birisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.dha.com.tr/gundem/2-cocuk-annesi-kadinin-cinayet-suphelisi-tutuklandi-2954050"
+    ],
+    "image": "https://i.anitsayac.com/ii/3332026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57614"
+  },
+  {
     "id": 57609,
     "name": "Betül Arık",
     "fullname": "Betül Arık",
@@ -632,6 +650,42 @@
     ],
     "image": "https://i.anitsayac.com/ii/2592026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57531"
+  },
+  {
+    "id": 57621,
+    "name": "Hasret E.",
+    "fullname": "Hasret E.",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "25/09/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Kesic Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/manisa-da-kadin-cinayeti-evli-oldugu-erkek-tarafindan-katledildi-2541020"
+    ],
+    "image": "https://i.anitsayac.com/ii/3402026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57621"
+  },
+  {
+    "id": 57613,
+    "name": "Ayşe Kapçı",
+    "fullname": "Ayşe Kapçı",
+    "age": "Reşit",
+    "location": "Isparta",
+    "date": "24/09/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.sabah.com.tr/yasam/ayse-cani-kocadan-kacamadi-7666707"
+    ],
+    "image": "https://i.anitsayac.com/ii/3322026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57613"
   },
   {
     "id": 57527,
@@ -706,6 +760,42 @@
     "url": "https://anitsayac.com/details.aspx?id=57522"
   },
   {
+    "id": 57617,
+    "name": "Ayşegüln Yaşar",
+    "fullname": "Ayşegüln Yaşar",
+    "age": "Reşit",
+    "location": "Kahramanmaraş",
+    "date": "21/09/2026",
+    "reason": "Ziynet Eşyaları İçin",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.atv.com.tr/muge-anli-ile-tatli-sert/galeri/aysegul-yasar-ile-ilgili-kan-donduran-gelisme-muge-anlida-aranan-kadinin-cansiz-bedeni-bulundu"
+    ],
+    "image": "https://i.anitsayac.com/ii/3362026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57617"
+  },
+  {
+    "id": 57618,
+    "name": "İpek İpek",
+    "fullname": "İpek İpek",
+    "age": "Reşit",
+    "location": "Sakarya",
+    "date": "21/09/2026",
+    "reason": "Tartışma",
+    "by": "Oğlu",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.haberturk.com/gundem/son-dakika-haberi-16-yasindaki-genc-annesini-oldurdu-katil-evlat-araniyor-3913954"
+    ],
+    "image": "https://i.anitsayac.com/ii/3372026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57618"
+  },
+  {
     "id": 57608,
     "name": "Fadime Sarıca",
     "fullname": "Fadime Sarıca",
@@ -740,6 +830,42 @@
     ],
     "image": "https://i.anitsayac.com/ii/3312026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57612"
+  },
+  {
+    "id": 57615,
+    "name": "Meve K.",
+    "fullname": "Meve K.",
+    "age": "Reşit",
+    "location": "Gaziantep",
+    "date": "20/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://ilketv.com.tr/gaziantepte-kadin-cinayeti-evli-oldugu-kadini-oldurup-rastgele-ates-acti-1-olu-3u-cocuk-4-yarali/"
+    ],
+    "image": "https://i.anitsayac.com/ii/3342026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57615"
+  },
+  {
+    "id": 57620,
+    "name": "Ayşe Pabuccu",
+    "fullname": "Ayşe Pabuccu",
+    "age": "Reşit",
+    "location": "Denizli",
+    "date": "20/09/2026",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/tartistigi-kardeslerden-birini-oldurdu-digerini-yaraladi-2539320"
+    ],
+    "image": "https://i.anitsayac.com/ii/3392026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57620"
   },
   {
     "id": 57521,
@@ -904,6 +1030,24 @@
     "url": "https://anitsayac.com/details.aspx?id=57611"
   },
   {
+    "id": 57619,
+    "name": "Gül T.",
+    "fullname": "Gül T.",
+    "age": "Reşit",
+    "location": "Manisa",
+    "date": "16/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Aranıyor",
+    "source": [
+      "https://www.gercekizmir.com/haber/Kadin-cinayeti-Seyir-halindeki-araca-ates-acti/199567"
+    ],
+    "image": "https://i.anitsayac.com/ii/3382026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57619"
+  },
+  {
     "id": 57513,
     "name": "Ayşegül Çoşkun",
     "fullname": "Ayşegül Çoşkun",
@@ -974,6 +1118,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2412026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57512"
+  },
+  {
+    "id": 57616,
+    "name": "Narin S.",
+    "fullname": "Narin S.",
+    "age": "Reşit",
+    "location": "Mersin",
+    "date": "13/09/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Var (Uzaklaştırma Kararı)",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/tarsus-ta-uzaklastirma-kararina-ragmen-dehset-46-yasindaki-kadinin-is-yerinde-oldurup-hayatina-son-verdi-2537163"
+    ],
+    "image": "https://i.anitsayac.com/ii/3352026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57616"
   },
   {
     "id": 57509,
@@ -1462,24 +1624,6 @@
     "url": "https://anitsayac.com/details.aspx?id=57591"
   },
   {
-    "id": 57575,
-    "name": "Gülşah Sakar",
-    "fullname": "Gülşah Sakar",
-    "age": "Reşit",
-    "location": "Kocaeli",
-    "date": "21/08/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Soruşturma Sürüyor",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/sarigul-ailesinin-kara-kutusu-konustu-sarigul-parayi-4-ulkede-akladi-iddiasi-43361528"
-    ],
-    "image": "https://i.anitsayac.com/ii/2982026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=57575"
-  },
-  {
     "id": 57588,
     "name": "Saniye Gür",
     "fullname": "Saniye Gür",
@@ -1496,6 +1640,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/3092026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57588"
+  },
+  {
+    "id": 57575,
+    "name": "Gülşah Sakar",
+    "fullname": "Gülşah Sakar",
+    "age": "Reşit",
+    "location": "Kocaeli",
+    "date": "21/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/sarigul-ailesinin-kara-kutusu-konustu-sarigul-parayi-4-ulkede-akladi-iddiasi-43361528"
+    ],
+    "image": "https://i.anitsayac.com/ii/2982026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57575"
   },
   {
     "id": 57572,
