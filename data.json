@@ -1,5 +1,23 @@
 [
   {
+    "id": 57624,
+    "name": "Merve Kırcalı",
+    "fullname": "Merve Kırcalı",
+    "age": "Reşit",
+    "location": "Sakarya",
+    "date": "19/11/2026",
+    "reason": "Tartışma",
+    "by": "Tanıdığı Birisi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/eski-ortagi-av-tufegiyle-vurdu-19-yasindaki-merve-kircali-kurtarilamadi-43383897"
+    ],
+    "image": "https://i.anitsayac.com/ii/3412026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57624"
+  },
+  {
     "id": 57606,
     "name": "Anna Barakat",
     "fullname": "Anna Barakat",
@@ -1226,6 +1244,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2372026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=56509"
+  },
+  {
+    "id": 57625,
+    "name": "Gülhan Memiş",
+    "fullname": "Gülhan Memiş",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "09/09/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.muglagazetesi.com.tr/mugla-haberleri/mugladaki-supheli-olum-evinde-olu-bulunan-kadinin-kimligi-belli-oldu-219946h"
+    ],
+    "image": "https://i.anitsayac.com/ii/3422026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57625"
   },
   {
     "id": 56508,
