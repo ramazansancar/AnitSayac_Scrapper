@@ -1,5 +1,41 @@
 [
   {
+    "id": 57650,
+    "name": "Esin Özdemir",
+    "fullname": "Esin Özdemir",
+    "age": "Reşit",
+    "location": "Çorum",
+    "date": "24/11/2026",
+    "reason": "Tartışma  Boşanma Talebi",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tespit Edilemeyen",
+    "source": [
+      "https://t24.com.tr/gundem/corumda-kadin-cinayeti-bosanma-asamasindaki-esini-3-cocugunun-gozu-onunde-silahla-oldurdu-kendini-eve-kilitledi,1360725?_t=1795550026183"
+    ],
+    "image": "https://i.anitsayac.com/ii/3642026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57650"
+  },
+  {
+    "id": 57651,
+    "name": "Nihal Çağlar",
+    "fullname": "Nihal Çağlar",
+    "age": "Reşit",
+    "location": "Tekirdağ",
+    "date": "24/11/2026",
+    "reason": "Tartışma",
+    "by": "Kayınpederi",
+    "protection": "Yok",
+    "method": "Kesici Alet",
+    "status": "Tutuklu",
+    "source": [
+      "https://t24.com.tr/gundem/tekirdagda-kadin-cinayeti-tartistigi-gelinini-bicaklayarak-katletti,1360635?_t=1795550354206"
+    ],
+    "image": "https://i.anitsayac.com/ii/3652026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57651"
+  },
+  {
     "id": 57628,
     "name": "Fatma Ergün",
     "fullname": "Fatma Ergün",
@@ -543,6 +579,24 @@
     "url": "https://anitsayac.com/details.aspx?id=57647"
   },
   {
+    "id": 57653,
+    "name": "Beyza Serdar",
+    "fullname": "Beyza Serdar",
+    "age": "Reşit",
+    "location": "",
+    "date": "21/10/2026",
+    "reason": "Hakkari",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.yuksekovahalkinsesigazetesi.com/yuksekovada-supheli-olum-genc-kiz-hayatini-kaybetti"
+    ],
+    "image": "https://i.anitsayac.com/ii/3672026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57653"
+  },
+  {
     "id": 57641,
     "name": "Melek Altınboğa",
     "fullname": "Melek Altınboğa",
@@ -649,6 +703,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2672026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57540"
+  },
+  {
+    "id": 57654,
+    "name": "Naz Aslan",
+    "fullname": "Naz Aslan",
+    "age": "Reşit",
+    "location": "",
+    "date": "12/10/2026",
+    "reason": "Mardin",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://ilketv.com.tr/mardinde-supheli-kadin-olumu-11/"
+    ],
+    "image": "https://i.anitsayac.com/ii/3682026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57654"
   },
   {
     "id": 57539,
@@ -775,6 +847,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2632026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57535"
+  },
+  {
+    "id": 57652,
+    "name": "Aysel Demir",
+    "fullname": "Aysel Demir",
+    "age": "Reşit",
+    "location": "Muğla",
+    "date": "02/10/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sabah.com.tr/yasam/muglada-yasli-kadin-evinin-banyosunda-olu-bulundu-7672505"
+    ],
+    "image": "https://i.anitsayac.com/ii/3662026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57652"
   },
   {
     "id": 57614,
@@ -2164,24 +2254,6 @@
     "url": "https://anitsayac.com/details.aspx?id=56493"
   },
   {
-    "id": 56490,
-    "name": "Özlem Gültekin",
-    "fullname": "Özlem Gültekin",
-    "age": "Reşit",
-    "location": "İzmir",
-    "date": "15/08/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Tespit Edilemeyen",
-    "protection": "Yok",
-    "method": "Tespit Edilemeyen",
-    "status": "Soruşturma Sürüyor",
-    "source": [
-      "https://www.sozcu.com.tr/unlu-haber-spikerinin-esinin-olumu-supheli-bulundu-p349566"
-    ],
-    "image": "https://i.anitsayac.com/ii/2232026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=56490"
-  },
-  {
     "id": 57586,
     "name": "Betül Ünsal Yeşilyurt",
     "fullname": "Betül Ünsal Yeşilyurt",
@@ -2198,6 +2270,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/072026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57586"
+  },
+  {
+    "id": 56490,
+    "name": "Özlem Gültekin",
+    "fullname": "Özlem Gültekin",
+    "age": "Reşit",
+    "location": "İzmir",
+    "date": "15/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Tespit Edilemeyen",
+    "protection": "Yok",
+    "method": "Tespit Edilemeyen",
+    "status": "Soruşturma Sürüyor",
+    "source": [
+      "https://www.sozcu.com.tr/unlu-haber-spikerinin-esinin-olumu-supheli-bulundu-p349566"
+    ],
+    "image": "https://i.anitsayac.com/ii/2232026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=56490"
   },
   {
     "id": 57524,
@@ -2291,25 +2381,6 @@
     "url": "https://anitsayac.com/details.aspx?id=57548"
   },
   {
-    "id": 56494,
-    "name": "Bedriye Naz",
-    "fullname": "Bedriye Naz",
-    "age": "Reşit",
-    "location": "Mardin",
-    "date": "11/08/2026",
-    "reason": "Tartışma",
-    "by": "Kocası",
-    "protection": "Yok",
-    "method": "Yüksekten Düşme",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.hurriyet.com.tr/gundem/mardinde-balkondan-dusup-olen-bedriyenin-ablasi-kocasi-5inci-kattan-iterek-oldurdu-43279376",
-      "https://www.sozcu.com.tr/5-inci-kattan-dusen-bedriye-nin-kendisi-atladi-diyen-esini-komsusu-yalanladi-onu-asagi-attim-dedi-p383427"
-    ],
-    "image": "https://i.anitsayac.com/ii/2262026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=56494"
-  },
-  {
     "id": 55512,
     "name": "Gülistan Karadağ",
     "fullname": "Gülistan Karadağ",
@@ -2345,6 +2416,25 @@
     ],
     "image": "https://i.anitsayac.com/ii/2212026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=55513"
+  },
+  {
+    "id": 56494,
+    "name": "Bedriye Naz",
+    "fullname": "Bedriye Naz",
+    "age": "Reşit",
+    "location": "Mardin",
+    "date": "11/08/2026",
+    "reason": "Tartışma",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/mardinde-balkondan-dusup-olen-bedriyenin-ablasi-kocasi-5inci-kattan-iterek-oldurdu-43279376",
+      "https://www.sozcu.com.tr/5-inci-kattan-dusen-bedriye-nin-kendisi-atladi-diyen-esini-komsusu-yalanladi-onu-asagi-attim-dedi-p383427"
+    ],
+    "image": "https://i.anitsayac.com/ii/2262026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=56494"
   },
   {
     "id": 57581,
@@ -2509,24 +2599,6 @@
     "url": "https://anitsayac.com/details.aspx?id=57587"
   },
   {
-    "id": 56492,
-    "name": "Gülay Akgün Mutlu",
-    "fullname": "Gülay Akgün Mutlu",
-    "age": "Reşit",
-    "location": "Ankara",
-    "date": "05/08/2026",
-    "reason": "Tespit Edilemeyen",
-    "by": "Erkek Kardeşi",
-    "protection": "Yok",
-    "method": "Ateşli Silah",
-    "status": "Tutuklu",
-    "source": [
-      "https://www.ntv.com.tr/turkiye/ankarada-ablasini-olduren-agabey-yakalandi-1-kisi-tutuklandi-5-kisi-gozaltinda-1735993"
-    ],
-    "image": "https://i.anitsayac.com/ii/2242026.jpg",
-    "url": "https://anitsayac.com/details.aspx?id=56492"
-  },
-  {
     "id": 57546,
     "name": "İpek Gezer",
     "fullname": "İpek Gezer",
@@ -2543,6 +2615,24 @@
     ],
     "image": "https://i.anitsayac.com/ii/2732026.jpg",
     "url": "https://anitsayac.com/details.aspx?id=57546"
+  },
+  {
+    "id": 56492,
+    "name": "Gülay Akgün Mutlu",
+    "fullname": "Gülay Akgün Mutlu",
+    "age": "Reşit",
+    "location": "Ankara",
+    "date": "05/08/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Erkek Kardeşi",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.ntv.com.tr/turkiye/ankarada-ablasini-olduren-agabey-yakalandi-1-kisi-tutuklandi-5-kisi-gozaltinda-1735993"
+    ],
+    "image": "https://i.anitsayac.com/ii/2242026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=56492"
   },
   {
     "id": 55508,
