@@ -108,6 +108,42 @@
     "url": "https://anitsayac.com/details.aspx?id=57624"
   },
   {
+    "id": 57655,
+    "name": "Kardelen Hoş E.",
+    "fullname": "Kardelen Hoş E.",
+    "age": "Reşit",
+    "location": "İstanbul",
+    "date": "18/11/2026",
+    "reason": "Tespit Edilemeyen",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Yüksekten Düşme",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.hurriyet.com.tr/gundem/5inci-kattan-dusen-genc-kadinin-supheli-olumu-1-ay-once-evlenmisti-komsularin-ifadesinde-dikkat-ceken-5-saat-detayi-43390341"
+    ],
+    "image": "https://i.anitsayac.com/ii/3692026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57655"
+  },
+  {
+    "id": 57656,
+    "name": "Hanife K.",
+    "fullname": "Hanife K.",
+    "age": "Reşit",
+    "location": "Amasya",
+    "date": "15/11/2026",
+    "reason": "Amasya",
+    "by": "Kocası",
+    "protection": "Yok",
+    "method": "Ateşli Silah",
+    "status": "Tutuklu",
+    "source": [
+      "https://www.cumhuriyet.com.tr/turkiye/amasya-da-kadin-cinayeti-3-cocuk-annesi-hanife-k-katledildi-2556248"
+    ],
+    "image": "https://i.anitsayac.com/ii/3702026.jpg",
+    "url": "https://anitsayac.com/details.aspx?id=57656"
+  },
+  {
     "id": 57606,
     "name": "Anna Barakat",
     "fullname": "Anna Barakat",
@@ -583,9 +619,9 @@
     "name": "Beyza Serdar",
     "fullname": "Beyza Serdar",
     "age": "Reşit",
-    "location": "",
+    "location": "Hakkari",
     "date": "21/10/2026",
-    "reason": "Hakkari",
+    "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
     "method": "Tespit Edilemeyen",
@@ -709,9 +745,9 @@
     "name": "Naz Aslan",
     "fullname": "Naz Aslan",
     "age": "Reşit",
-    "location": "",
+    "location": "Mardin",
     "date": "12/10/2026",
-    "reason": "Mardin",
+    "reason": "Tespit Edilemeyen",
     "by": "Tespit Edilemeyen",
     "protection": "Yok",
     "method": "Tespit Edilemeyen",
